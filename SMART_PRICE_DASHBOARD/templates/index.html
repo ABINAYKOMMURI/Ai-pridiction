@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Smart Multi-Category Price Trend Analysis and Future Forecast Dashboard — Analyze price trends across 15 categories using growth-based forecasting.">
+    <title>Smart Price Dashboard — Multi-Category Price Trend Analysis</title>
+
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="/static/css/style.css" rel="stylesheet">
+</head>
+<body>
+
+<!-- Loading Overlay -->
+<div id="loading-overlay" class="loading-overlay">
+    <div class="spinner"></div>
+</div>
+
+<!-- ═══ Navbar ═══════════════════════════════════════════════════════════ -->
+<nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="/">
+            <span class="brand-icon">📊</span>
+            Smart Price Dashboard
+        </a>
+        <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto gap-1">
+                <li class="nav-item"><a class="nav-link" href="/"><i class="bi bi-house-door me-1"></i>Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="/about"><i class="bi bi-info-circle me-1"></i>About</a></li>
+                <li class="nav-item"><a class="nav-link" href="/upload"><i class="bi bi-cloud-upload me-1"></i>Upload</a></li>
+                <li class="nav-item"><a class="nav-link" href="/dashboard"><i class="bi bi-speedometer2 me-1"></i>Dashboard</a></li>
+                <li class="nav-item"><a class="nav-link" href="/results"><i class="bi bi-clipboard-data me-1"></i>Results</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- ═══ Hero Section ════════════════════════════════════════════════════ -->
+<section class="hero-section" style="padding-top:80px;">
+    <div class="particles-bg"></div>
+    <div class="container position-relative" style="z-index:1;">
+        <div class="row align-items-center">
+            <div class="col-lg-7">
+                <div class="hero-badge animate-fade-in-up">
+                    <i class="bi bi-lightning-charge-fill"></i>
+                    DAV Project — 4th Semester Engineering
+                </div>
+                <h1 class="hero-title animate-fade-in-up delay-1">
+                    Smart Multi-Category<br>
+                    <span class="gradient-text">Price Trend Analysis</span><br>
+                    & Future Forecast
+                </h1>
+                <p class="hero-subtitle animate-fade-in-up delay-2">
+                    Analyze Previous Price, Present Price, and predict Expected Future Price
+                    across <strong>15 categories</strong> using growth-based forecasting models.
+                    No Machine Learning — pure mathematical growth analysis.
+                </p>
+                <div class="d-flex flex-wrap gap-3 animate-fade-in-up delay-3">
+                    <a href="/dashboard" class="btn btn-primary-custom">
+                        <i class="bi bi-speedometer2 me-2"></i>Dashboard
+                    </a>
+                    <a href="/upload" class="btn btn-success-custom">
+                        <i class="bi bi-cloud-upload me-2"></i>Upload Data
+                    </a>
+                    <a href="/results" class="btn btn-warning-custom">
+                        <i class="bi bi-clipboard-data me-2"></i>Results
+                    </a>
+                    <a href="/about" class="btn btn-outline-custom">
+                        <i class="bi bi-info-circle me-2"></i>About
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-5 d-none d-lg-block text-center animate-fade-in-up delay-4">
+                <div style="font-size:12rem; line-height:1; opacity:0.15;">📈</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══ Formula Section ═════════════════════════════════════════════════ -->
+<section class="py-5" style="background: var(--bg-secondary);">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="section-header text-center mb-4">
+                    <h2>📐 Growth Forecast Model</h2>
+                    <p class="mx-auto">Our prediction engine uses a simple yet powerful compound growth formula — no ML required.</p>
+                    <div class="section-divider mx-auto"></div>
+                </div>
+                <div class="row g-4">
+                    <div class="col-md-6">
+                        <div class="formula-box">
+                            <div class="mb-2 text-accent-blue fw-bold">Growth Rate Formula:</div>
+                            Growth Rate = (Current Price − Previous Price) / Previous Price
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="formula-box">
+                            <div class="mb-2 text-accent-green fw-bold">Future Price Formula:</div>
+                            Future Price = Current Price × (1 + Growth Rate)^Years
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══ Statistics Cards ════════════════════════════════════════════════ -->
+{% if stats %}
+<section class="py-5">
+    <div class="container">
+        <div class="section-header text-center mb-4">
+            <h2>📊 Dataset Overview</h2>
+            <p class="mx-auto">Real-time statistics from your loaded dataset.</p>
+            <div class="section-divider mx-auto"></div>
+        </div>
+        <div class="row g-4">
+            <div class="col-sm-6 col-lg-4 col-xl-2">
+                <div class="stat-card observe-animate">
+                    <div class="d-flex justify-content-between align-items-start">
+                        <div>
+                            <div class="stat-label">Total Records</div>
+                            <div class="stat-value text-accent-blue counter" data-count="{{ stats.total_products }}">0</div>
+                        </div>
+                        <div class="stat-icon bg-accent-blue text-accent-blue"><i class="bi bi-database"></i></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-4 col-xl-2">
+                <div class="stat-card observe-animate">
+                    <div class="d-flex justify-content-between align-items-start">
+                        <div>
+                            <div class="stat-label">Categories</div>
+                            <div class="stat-value text-accent-green counter" data-count="{{ stats.total_categories }}">0</div>
+                        </div>
+                        <div class="stat-icon bg-accent-green text-accent-green"><i class="bi bi-grid"></i></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-4 col-xl-2">
+                <div class="stat-card observe-animate">
+                    <div class="d-flex justify-content-between align-items-start">
+                        <div>
+                            <div class="stat-label">Brands</div>
+                            <div class="stat-value text-accent-yellow counter" data-count="{{ stats.total_brands }}">0</div>
+                        </div>
+                        <div class="stat-icon bg-accent-yellow text-accent-yellow"><i class="bi bi-tag"></i></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-4 col-xl-2">
+                <div class="stat-card observe-animate">
+                    <div class="d-flex justify-content-between align-items-start">
+                        <div>
+                            <div class="stat-label">Locations</div>
+                            <div class="stat-value text-accent-purple counter" data-count="{{ stats.total_locations }}">0</div>
+                        </div>
+                        <div class="stat-icon bg-accent-purple text-accent-purple"><i class="bi bi-geo-alt"></i></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-4 col-xl-2">
+                <div class="stat-card observe-animate">
+                    <div class="d-flex justify-content-between align-items-start">
+                        <div>
+                            <div class="stat-label">Avg Growth</div>
+                            <div class="stat-value {{ 'positive' if stats.avg_growth_rate >= 0 else 'negative' }} counter"
+                                 data-count="{{ stats.avg_growth_rate }}" data-suffix="%" data-decimals="2">0</div>
+                        </div>
+                        <div class="stat-icon bg-accent-cyan text-accent-cyan"><i class="bi bi-graph-up-arrow"></i></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-4 col-xl-2">
+                <div class="stat-card observe-animate">
+                    <div class="d-flex justify-content-between align-items-start">
+                        <div>
+                            <div class="stat-label">Avg Price</div>
+                            <div class="stat-value text-accent-cyan counter"
+                                 data-count="{{ stats.avg_price }}" data-prefix="₹" data-decimals="0">0</div>
+                        </div>
+                        <div class="stat-icon bg-accent-blue text-accent-blue"><i class="bi bi-currency-rupee"></i></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endif %}
+
+<!-- ═══ Feature Cards ═══════════════════════════════════════════════════ -->
+<section class="py-5" style="background: var(--bg-secondary);">
+    <div class="container">
+        <div class="section-header text-center mb-4">
+            <h2>🚀 Key Features</h2>
+            <p class="mx-auto">Comprehensive analytics tools for multi-category price analysis.</p>
+            <div class="section-divider mx-auto"></div>
+        </div>
+        <div class="row g-4">
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card observe-animate">
+                    <div class="feature-icon blue"><i class="bi bi-bar-chart-line"></i></div>
+                    <h5>Interactive Dashboard</h5>
+                    <p>11 interactive Plotly charts including bar, line, pie, scatter, and histogram visualizations with real-time data.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card observe-animate">
+                    <div class="feature-icon green"><i class="bi bi-graph-up-arrow"></i></div>
+                    <h5>Growth Forecasting</h5>
+                    <p>Predict future prices using compound growth formula. No ML — pure mathematical analysis with Growth Rate modeling.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card observe-animate">
+                    <div class="feature-icon yellow"><i class="bi bi-grid-3x3-gap"></i></div>
+                    <h5>15 Categories</h5>
+                    <p>From Mobiles to Vehicles, Gold to Grocery — analyze price trends across diverse product categories.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card observe-animate">
+                    <div class="feature-icon red"><i class="bi bi-cloud-upload"></i></div>
+                    <h5>Data Upload</h5>
+                    <p>Upload CSV files or manually enter product data. Growth Rate and Future Price are auto-calculated.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card observe-animate">
+                    <div class="feature-icon purple"><i class="bi bi-clipboard-data"></i></div>
+                    <h5>Statistical Analysis</h5>
+                    <p>Mean, Median, Max, Min, Standard Deviation — complete summary statistics powered by Pandas & NumPy.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card observe-animate">
+                    <div class="feature-icon cyan"><i class="bi bi-geo-alt"></i></div>
+                    <h5>Multi-Location Insights</h5>
+                    <p>Compare prices across 10 major Indian cities. Location-wise analysis for regional price intelligence.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══ CTA Section ═════════════════════════════════════════════════════ -->
+<section class="py-5">
+    <div class="container">
+        <div class="glass-card text-center py-5 px-4">
+            <h3 class="fw-bold mb-3">Ready to Explore Price Trends?</h3>
+            <p class="text-secondary mb-4" style="max-width:500px; margin:0 auto;">
+                Dive into the dashboard to visualize price comparisons, growth patterns, and future forecasts.
+            </p>
+            <div class="d-flex flex-wrap justify-content-center gap-3">
+                <a href="/dashboard" class="btn btn-primary-custom btn-lg">
+                    <i class="bi bi-speedometer2 me-2"></i>Open Dashboard
+                </a>
+                <a href="/results" class="btn btn-outline-custom btn-lg">
+                    <i class="bi bi-clipboard-data me-2"></i>View Results
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══ Footer ══════════════════════════════════════════════════════════ -->
+<footer class="footer-custom">
+    <div class="container text-center">
+        <p>© 2025 Smart Price Dashboard — DAV Project | Built with Flask, Plotly, Pandas, NumPy, Matplotlib & Bootstrap</p>
+    </div>
+</footer>
+
+<!-- Scripts -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/static/js/app.js"></script>
+</body>
+</html>

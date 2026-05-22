@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistical Analysis & Results - Price Trend Dashboard</title>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- FontAwesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark navbar-custom sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="{{  url_for('home') }}">
+                <i class="fa-solid fa-chart-line text-info"></i>
+                <span>Smart Forecast</span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('home') }}"><i class="fa-solid fa-house me-1"></i> Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('dashboard') }}"><i class="fa-solid fa-gauge me-1"></i> Dashboard</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('upload') }}"><i class="fa-solid fa-upload me-1"></i> Data Entry</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="{{ url_for('results') }}"><i class="fa-solid fa-square-poll-vertical me-1"></i> Results</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('about') }}"><i class="fa-solid fa-circle-info me-1"></i> About</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Main Container -->
+    <main class="container py-5">
+        
+        <!-- Page Title -->
+        <div class="row mb-5 text-center">
+            <div class="col-12">
+                <h1 class="text-white mb-2"><i class="fa-solid fa-square-poll-vertical text-warning me-2"></i>Analytical Findings & Results</h1>
+                <p class="text-secondary max-width-600 mx-auto">
+                    A mathematically rigorous evaluation of price metrics using Pandas and NumPy libraries. Explores category variances, central tendencies, and dispersions.
+                </p>
+            </div>
+        </div>
+        <!-- Key Analytical Cards (Highest/Lowest Growth, Spreads) -->
+        <div class="row g-4 mb-5">
+            
+            <!-- Highest Growth Category Card -->
+            <div class="col-md-4">
+                <div class="card card-custom p-4 border-success-subtle h-100">
+                    <div class="d-flex justify-content-between align-items-center mb-3">
+                        <span class="badge bg-success-subtle text-success border border-success-subtle px-2 py-1"><i class="fa-solid fa-arrow-trend-up me-1"></i>Peak Performer</span>
+                        <i class="fa-solid fa-tags text-success fa-lg"></i>
+                    </div>
+                    <p class="card-title-custom">Highest Growth Sector</p>
+                    <h3 class="text-white mb-2" id="res-high-cat">-</h3>
+                    <p class="text-secondary small mb-0">Avg Growth Index: <strong class="text-success" id="res-high-rate">-</strong></p>
+                </div>
+            </div>
+            <!-- Lowest Growth Category Card -->
+            <div class="col-md-4">
+                <div class="card card-custom p-4 border-danger-subtle h-100">
+                    <div class="d-flex justify-content-between align-items-center mb-3">
+                        <span class="badge bg-danger-subtle text-danger border border-danger-subtle px-2 py-1"><i class="fa-solid fa-arrow-trend-down me-1"></i>Lowest Index</span>
+                        <i class="fa-solid fa-tags text-danger fa-lg"></i>
+                    </div>
+                    <p class="card-title-custom">Lowest Growth Sector</p>
+                    <h3 class="text-white mb-2" id="res-low-cat">-</h3>
+                    <p class="text-secondary small mb-0">Avg Growth Index: <strong class="text-danger" id="res-low-rate">-</strong></p>
+                </div>
+            </div>
+            <!-- Macro Spreads Card -->
+            <div class="col-md-4">
+                <div class="card card-custom p-4 border-primary-subtle h-100">
+                    <div class="d-flex justify-content-between align-items-center mb-3">
+                        <span class="badge bg-primary-subtle text-primary border border-primary-subtle px-2 py-1"><i class="fa-solid fa-scale-balanced me-1"></i>Macro Spreads</span>
+                        <i class="fa-solid fa-sliders text-primary fa-lg"></i>
+                    </div>
+                    <p class="card-title-custom">Macro Inflation Indices</p>
+                    <div class="row g-2 text-white">
+                        <div class="col-6">
+                            <span class="text-muted d-block small">Avg Growth Rate</span>
+                            <strong class="text-info" id="res-avg-growth">-</strong>
+                        </div>
+                        <div class="col-6">
+                            <span class="text-muted d-block small">Top Growing Prod</span>
+                            <strong class="text-warning text-truncate d-block" id="res-top-prod" style="max-width: 100%;" title="-">-</strong>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        <!-- Price Increases vs Price Declines Ratio Bar -->
+        <div class="row mb-5">
+            <div class="col-12">
+                <div class="card card-custom p-4">
+                    <h4 class="text-white mb-3"><i class="fa-solid fa-percent text-cyan me-2"></i>Market Appreciation vs Depreciation Ratio</h4>
+                    <p class="text-secondary small mb-4">
+                        Visualizing the share of inventory assets experiencing capital gains (appreciation) versus technical depreciation (price decline) over the past year.
+                    </p>
+                    
+                    <div class="progress" style="height: 35px; border-radius: 10px; background-color: #1e293b; border: 1px solid var(--border-color);">
+                        <div id="bar-increase" class="progress-bar bg-success progress-bar-striped progress-bar-animated" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">Appreciated (0%)</div>
+                        <div id="bar-decline" class="progress-bar bg-danger progress-bar-striped progress-bar-animated" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">Depreciated (0%)</div>
+                    </div>
+                    <div class="d-flex justify-content-between mt-3 text-secondary small">
+                        <span><i class="fa-solid fa-circle text-success me-1"></i>Price Increases: <strong class="text-white" id="lbl-increase">-</strong></span>
+                        <span><i class="fa-solid fa-circle text-danger me-1"></i>Price Declines: <strong class="text-white" id="lbl-decline">-</strong></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Summary Statistics Table (Calculated using Pandas & NumPy) -->
+        <div class="row mb-5">
+            <div class="col-12">
+                <div class="card card-custom p-4">
+                    <h4 class="text-white mb-3"><i class="fa-solid fa-table-list text-warning me-2"></i>Descriptive Statistics Matrix</h4>
+                    <p class="text-secondary small mb-4">
+                        Primary statistical indices computed across core variable arrays. This matrix establishes standard variances, spreads, and boundaries for evaluation.
+                    </p>
+                    
+                    <div class="table-responsive">
+                        <table class="table table-custom">
+                            <thead>
+                                <tr>
+                                    <th>Variable / Metric</th>
+                                    <th>Mean (Average)</th>
+                                    <th>Median (50th Pctl)</th>
+                                    <th>Maximum (Peak)</th>
+                                    <th>Minimum (Floor)</th>
+                                    <th>Standard Deviation (&sigma;)</th>
+                                </tr>
+                            </thead>
+                            <tbody id="stats-table-body">
+                                <tr><td colspan="6" class="text-center text-muted py-4"><i class="fa-solid fa-spinner fa-spin me-2"></i>Computing matrices via Pandas...</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Matplotlib Analytics Grid -->
+        <div class="row mb-5">
+            <div class="col-12">
+                <div class="card card-custom p-4">
+                    <h4 class="text-white mb-3"><i class="fa-solid fa-image text-success me-2"></i>Matplotlib Static Analytical Grid</h4>
+                    <p class="text-secondary small mb-4">
+                        A static, publication-grade quad-panel dashboard generated dynamically on the backend server using the standard Matplotlib package. Useful for presentation briefs and print-ready analytical reports.
+                    </p>
+                    
+                    <div class="mpl-image-container text-center py-4" id="mpl-chart-container">
+                        <div class="spinner-border text-success my-5" role="status">
+                            <span class="visually-hidden">Loading Matplotlib figure...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Presentation Insight Brief -->
+        <div class="row">
+            <div class="col-12">
+                <div class="card card-custom p-4">
+                    <h4 class="text-white mb-3"><i class="fa-solid fa-file-invoice text-info me-2"></i>Subject Presentation Insights Brief</h4>
+                    <div class="p-3 rounded bg-dark-subtle border border-secondary-subtle">
+                        <h6 class="text-white mb-2"><i class="fa-solid fa-lightbulb text-warning me-2"></i>Presentation Talking Points:</h6>
+                        <ol class="text-secondary mb-0 small" style="line-height: 1.8;">
+                            <li><strong>Central Tendency:</strong> Contrast the Mean and Median of the pricing columns. Large differences indicate skewed distributions (e.g. outlier prices like vehicles pushing the mean higher).</li>
+                            <li><strong>Dispersion (Standard Deviation):</strong> Explain how Gold and Silver have low relative variance (very stable growth rates), while Mobiles and Laptops display a wide Standard Deviation due to rapid depreciation cycles.</li>
+                            <li><strong>Model Transparency:</strong> Highlight that the model operates deterministically using pure algebraic ratios ($Years=1$), ensuring that it can be audited by hand for exam assessments.</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <!-- Footer -->
+    <footer class="footer-custom mt-5">
+        <div class="container text-center">
+            <p class="mb-2">Price Analysis and Visualization Dashboard</p>
+            <p class="small text-muted mb-0">
+                Created for 4th Semester Engineering DAV Coursework. Powered by Python Flask, Pandas, and Plotly.
+            </p>
+        </div>
+    </footer>
+    <!-- Bootstrap 5 JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Results Data Fetch Script -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            fetchStats();
+            fetchMatplotlib();
+        });
+        function fetchStats() {
+            fetch('/api/stats')
+                .then(response => response.json())
+                .then(data => {
+                    const o = data.overview;
+                    const s = data.summary_statistics;
+                    // Populate Cards
+                    document.getElementById('res-high-cat').innerText = o.highest_growth_category;
+                    document.getElementById('res-high-rate').innerText = `+${o.highest_growth_rate}%`;
+                    document.getElementById('res-low-cat').innerText = o.lowest_growth_category;
+                    document.getElementById('res-low-rate').innerText = `${o.lowest_growth_rate}%`;
+                    document.getElementById('res-avg-growth').innerText = `${o.avg_growth_rate}%`;
+                    
+                    const topProd = document.getElementById('res-top-prod');
+                    topProd.innerText = o.top_product.name;
+                    topProd.title = `${o.top_product.name} (${o.top_product.brand}) under ${o.top_product.category} grew by +${o.top_product.growth.toFixed(1)}% in ${o.top_product.location}`;
+                    
+                    // Appreciate vs Depreciate ratio progress bar
+                    const barInc = document.getElementById('bar-increase');
+                    const barDec = document.getElementById('bar-decline');
+                    
+                    barInc.style.width = `${o.increase_pct}%`;
+                    barInc.innerText = `Appreciated (${o.increase_pct.toFixed(1)}%)`;
+                    barInc.setAttribute('aria-valuenow', o.increase_pct);
+                    
+                    barDec.style.width = `${o.decline_pct}%`;
+                    barDec.innerText = `Depreciated (${o.decline_pct.toFixed(1)}%)`;
+                    barDec.setAttribute('aria-valuenow', o.decline_pct);
+                    document.getElementById('lbl-increase').innerText = `${o.increase_pct.toFixed(1)}% of products`;
+                    document.getElementById('lbl-decline').innerText = `${o.decline_pct.toFixed(1)}% of products`;
+                    // Generate Stats Table Body
+                    const tbody = document.getElementById('stats-table-body');
+                    tbody.innerHTML = '';
+                    const rowNames = {
+                        'Previous_Price': 'Previous Price ($)',
+                        'Current_Price': 'Current Price ($)',
+                        'Growth_Rate': 'Growth Rate (Decimal)',
+                        'Future_Price': '1-Year Forecast Price ($)'
+                    };
+                    for (const key of Object.keys(rowNames)) {
+                        const stat = s[key];
+                        
+                        // formatting
+                        const isGrowth = key === 'Growth_Rate';
+                        const formatVal = (v) => isGrowth ? v.toFixed(4) : `$${v.toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})}`;
+                        const tr = document.createElement('tr');
+                        tr.innerHTML = `
+                            <td><strong>${rowNames[key]}</strong></td>
+                            <td class="text-info">${formatVal(stat.mean)}</td>
+                            <td>${formatVal(stat.median)}</td>
+                            <td class="text-success">${formatVal(stat.max)}</td>
+                            <td class="text-danger">${formatVal(stat.min)}</td>
+                            <td class="text-accent">${formatVal(stat.std_dev)}</td>
+                        `;
+                        tbody.appendChild(tr);
+                    }
+                })
+                .catch(err => {
+                    console.error("Error fetching stats:", err);
+                    document.getElementById('stats-table-body').innerHTML = `<tr><td colspan="6" class="text-center text-danger"><i class="fa-solid fa-triangle-exclamation me-2"></i>Failed to fetch statistical values.</td></tr>`;
+                });
+        }
+        function fetchMatplotlib() {
+            const container = document.getElementById('mpl-chart-container');
+            fetch('/api/matplotlib_chart')
+                .then(response => response.json())
+                .then(data => {
+                    container.innerHTML = `<img src="${data.image}" alt="Matplotlib analytical subplots grid" class="img-fluid w-100 rounded-3">`;
+                })
+                .catch(err => {
+                    console.error("Error generating Matplotlib chart:", err);
+                    container.innerHTML = `<div class="alert alert-danger mx-5 my-4"><i class="fa-solid fa-triangle-exclamation me-2"></i>Failed to render backend Matplotlib report. Ensure all Python libraries are correctly configured.</div>`;
+                });
+        }
+    </script>
+</body>
+</html>

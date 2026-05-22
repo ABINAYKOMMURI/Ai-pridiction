@@ -1,0 +1,2501 @@
+Product_Name,Category,Brand,Previous_Price,Current_Price,Expected_Future_Price,Growth_Rate,Date,Location,Quantity,Discount
+Potato 1kg,Vegetable,Local,46.01,47.89,49.26,4.09,2024-05-31,Delhi,8,16
+Milk 1L,Grocery,Aashirvaad,80.41,83.53,85.8,3.88,2025-06-13,Chennai,8,5
+Petrol 1L,Fuel,BPCL,98.52,108.49,116.18,10.12,2025-06-16,Delhi,1,16
+Premium Rice 1kg,Rice,IndiaGate,61.85,65.45,68.12,5.82,2023-01-08,Mumbai,10,9
+Dell Inspiron,Laptop,Lenovo,105510.91,114598.4,121507.53,8.61,2024-05-26,Pune,6,18
+Redmi Note 14,Mobile,OnePlus,15169.2,16374.86,17285.9,7.95,2024-06-01,Hyderabad,3,8
+Silver 1g,Silver,Market,63.86,72.56,79.48,13.62,2025-01-18,Hyderabad,8,4
+Onion 1kg,Vegetable,Local,26.42,32.97,38.69,24.79,2025-02-24,Pune,4,12
+Petrol 1L,Fuel,HP,89.51,97.68,103.92,9.13,2023-04-16,Mumbai,1,25
+Silver 1g,Silver,Market,89.45,117.62,143.55,31.49,2024-08-11,Bangalore,7,0
+HP Victus,Laptop,Asus,56863.31,56972.95,57049.85,0.19,2024-05-17,Mumbai,6,4
+Silver 1g,Silver,Market,64.04,73.61,81.31,14.94,2023-05-06,Delhi,9,20
+OnePlus 12,Mobile,Samsung,42414.71,47007.56,50570.69,10.83,2025-06-11,Kolkata,5,11
+Silver 1g,Silver,Market,96.89,97.07,97.2,0.19,2025-06-03,Mumbai,1,14
+Silver 1g,Silver,Market,70.76,80.44,88.14,13.68,2023-01-28,Bangalore,6,17
+Galaxy S24,Mobile,OnePlus,18883.94,20282.92,21334.75,7.41,2024-03-07,Mumbai,4,9
+Silver 1g,Silver,Market,56.64,62.91,67.78,11.07,2025-03-28,Hyderabad,10,23
+Premium Rice 1kg,Rice,Local,52.44,62.6,71.09,19.37,2024-12-26,Chennai,10,2
+Gold 24K 1g,Gold,Market,6261.67,6991.77,7562.43,11.66,2024-01-15,Hyderabad,4,6
+Petrol 1L,Fuel,HP,70.41,88.39,104.19,25.54,2023-12-10,Chennai,3,13
+Silver 1g,Silver,Market,96.38,105.84,113.11,9.82,2023-05-09,Mumbai,6,3
+Dell Inspiron,Laptop,Asus,74195.48,86106.87,95783.43,16.05,2024-08-30,Delhi,10,13
+Gold 24K 1g,Gold,Market,6516.91,7292.61,7900.23,11.9,2023-09-21,Chennai,6,22
+Premium Rice 1kg,Rice,Fortune,81.92,84.63,86.59,3.31,2025-01-06,Mumbai,8,1
+Premium Rice 1kg,Rice,IndiaGate,50.91,55.55,59.09,9.11,2025-06-19,Delhi,1,0
+Potato 1kg,Vegetable,Local,37.39,39.38,40.85,5.32,2024-04-21,Pune,4,22
+Gold 24K 1g,Gold,Market,5477.43,6194.11,6761.43,13.08,2023-12-19,Mumbai,5,17
+Gold 24K 1g,Gold,Market,5986.01,6314.53,6557.11,5.49,2024-05-02,Pune,1,18
+Silver 1g,Silver,Market,73.56,94.76,113.88,28.82,2024-02-06,Delhi,8,14
+Wheat Flour,Grocery,Britannia,66.04,73.62,79.54,11.48,2024-10-21,Chennai,6,13
+Redmi Note 14,Mobile,Realme,71992.38,78751.64,83927.35,9.39,2024-09-10,Delhi,8,12
+Gold 24K 1g,Gold,Market,5750.47,7126.36,8319.93,23.93,2023-02-20,Delhi,8,0
+iPhone 15,Mobile,OnePlus,32891.34,38018.06,42166.13,15.59,2023-09-30,Kolkata,6,18
+Redmi Note 14,Mobile,Samsung,57573.96,65185.19,71217.39,13.22,2025-02-15,Chennai,6,13
+Silver 1g,Silver,Market,61.51,68.0,73.02,10.55,2023-07-05,Bangalore,8,25
+Realme GT,Mobile,Apple,67389.24,83503.31,97480.39,23.91,2024-05-01,Delhi,8,11
+Silver 1g,Silver,Market,99.68,103.39,106.08,3.72,2025-05-30,Kolkata,7,0
+Silver 1g,Silver,Market,105.76,102.09,99.61,-3.47,2023-06-02,Mumbai,3,8
+Tomato 1kg,Vegetable,Local,62.69,72.8,81.02,16.13,2023-12-26,Mumbai,7,22
+Tomato 1kg,Vegetable,Local,21.3,24.06,26.24,12.96,2023-05-01,Hyderabad,10,9
+Diesel 1L,Fuel,BPCL,93.01,107.67,119.55,15.76,2025-04-27,Bangalore,2,18
+Normal Rice 1kg,Rice,Fortune,85.29,91.43,96.04,7.2,2023-06-10,Hyderabad,5,15
+Normal Rice 1kg,Rice,Fortune,53.34,53.82,54.16,0.9,2024-01-05,Delhi,4,3
+Diesel 1L,Fuel,BPCL,87.46,88.53,89.29,1.22,2024-08-10,Hyderabad,5,14
+iPhone 15,Mobile,Apple,33865.1,40062.29,45194.17,18.3,2023-02-09,Delhi,5,12
+Silver 1g,Silver,Market,83.5,97.99,109.89,17.35,2024-05-13,Hyderabad,10,4
+Petrol 1L,Fuel,IndianOil,110.38,109.48,108.86,-0.82,2023-03-03,Hyderabad,2,4
+Normal Rice 1kg,Rice,Local,72.5,77.76,81.71,7.26,2024-05-11,Kolkata,2,3
+Premium Rice 1kg,Rice,IndiaGate,51.7,53.51,54.82,3.5,2023-11-30,Hyderabad,2,21
+Potato 1kg,Vegetable,Local,54.37,63.29,70.56,16.41,2024-06-20,Mumbai,2,5
+Redmi Note 14,Mobile,Xiaomi,33195.99,35473.34,37176.85,6.86,2023-09-19,Kolkata,3,10
+HP Victus,Laptop,Lenovo,61452.66,66945.22,71133.65,8.94,2024-12-22,Kolkata,3,2
+Premium Rice 1kg,Rice,IndiaGate,39.6,46.54,52.25,17.53,2025-03-30,Hyderabad,1,5
+Tomato 1kg,Vegetable,Local,28.09,32.34,35.77,15.13,2024-08-23,Delhi,8,12
+Galaxy S24,Mobile,Samsung,21888.32,27655.43,32756.07,26.35,2023-10-13,Kolkata,2,22
+Silver 1g,Silver,Market,78.88,83.22,86.43,5.5,2023-11-07,Hyderabad,6,6
+Lenovo LOQ,Laptop,Asus,52387.65,59753.02,65633.65,14.06,2024-12-22,Kolkata,7,17
+iPhone 15,Mobile,Samsung,31087.5,36488.01,40925.09,17.37,2024-11-19,Chennai,4,14
+Normal Rice 1kg,Rice,Fortune,54.8,62.92,69.45,14.82,2025-03-29,Chennai,9,10
+Onion 1kg,Vegetable,Local,67.99,75.71,81.73,11.35,2024-02-21,Mumbai,6,22
+HP Victus,Laptop,HP,70898.92,90781.57,108602.5,28.04,2023-07-24,Hyderabad,2,25
+Lenovo LOQ,Laptop,Lenovo,94866.84,109249.44,120843.63,15.16,2025-05-09,Kolkata,4,17
+Gold 24K 1g,Gold,Market,5448.14,6547.93,7473.19,20.19,2024-06-03,Delhi,1,4
+Silver 1g,Silver,Market,95.99,111.62,124.34,16.28,2023-10-15,Bangalore,7,19
+Silver 1g,Silver,Market,90.16,91.02,91.63,0.95,2023-10-09,Mumbai,7,13
+Diesel 1L,Fuel,IndianOil,111.49,129.57,144.28,16.22,2023-11-09,Delhi,10,25
+Lenovo LOQ,Laptop,HP,76523.58,93954.48,108935.45,22.78,2023-11-28,Delhi,8,3
+Onion 1kg,Vegetable,Local,31.0,30.65,30.41,-1.13,2023-08-22,Hyderabad,4,0
+Normal Rice 1kg,Rice,Fortune,82.09,88.02,92.47,7.22,2023-06-13,Hyderabad,5,6
+Silver 1g,Silver,Market,100.11,112.44,122.13,12.32,2023-03-24,Mumbai,8,23
+Gold 24K 1g,Gold,Market,6755.34,7191.55,7516.61,6.46,2023-10-29,Delhi,9,2
+Petrol 1L,Fuel,HP,93.31,106.05,116.19,13.65,2023-02-05,Pune,7,4
+Realme GT,Mobile,Realme,11846.49,15085.62,17972.97,27.34,2024-07-04,Delhi,2,5
+Normal Rice 1kg,Rice,Local,60.24,69.63,77.23,15.59,2023-09-20,Pune,9,22
+Petrol 1L,Fuel,IndianOil,93.19,114.55,132.93,22.92,2025-05-01,Bangalore,9,9
+Bread,Grocery,Aashirvaad,90.69,95.45,98.96,5.25,2024-09-26,Kolkata,3,4
+Asus TUF,Laptop,HP,65313.82,77297.05,87224.32,18.35,2023-08-02,Hyderabad,5,24
+Asus TUF,Laptop,Asus,43220.06,52481.84,60354.4,21.43,2023-01-14,Hyderabad,8,24
+Premium Rice 1kg,Rice,Fortune,67.58,72.84,76.81,7.78,2023-11-17,Pune,10,12
+Lenovo LOQ,Laptop,HP,36953.29,40422.0,43078.02,9.39,2023-04-08,Hyderabad,5,3
+HP Victus,Laptop,HP,89345.22,88884.73,88564.05,-0.52,2023-07-01,Delhi,6,14
+Sugar 1kg,Grocery,Amul,64.94,68.72,71.52,5.82,2025-03-19,Bangalore,3,22
+Gold 22K 1g,Gold,Market,4563.6,5951.22,7217.9,30.41,2023-05-20,Delhi,6,13
+Sugar 1kg,Grocery,Britannia,24.78,25.23,25.55,1.82,2023-04-12,Mumbai,10,21
+Gold 24K 1g,Gold,Market,5634.18,6287.21,6797.31,11.59,2023-10-10,Bangalore,1,24
+Normal Rice 1kg,Rice,IndiaGate,62.53,74.02,83.54,18.38,2024-02-02,Kolkata,3,22
+OnePlus 12,Mobile,Samsung,54393.05,62270.97,68584.2,14.48,2023-10-28,Delhi,10,1
+Onion 1kg,Vegetable,Local,58.97,70.88,80.9,20.2,2023-04-20,Bangalore,4,24
+HP Victus,Laptop,Dell,36928.8,39444.26,41325.02,6.81,2023-03-20,Hyderabad,10,6
+Petrol 1L,Fuel,BPCL,84.82,100.3,113.11,18.25,2025-05-27,Pune,5,4
+Tomato 1kg,Vegetable,Local,60.1,59.3,58.75,-1.33,2024-02-21,Pune,8,18
+Gold 24K 1g,Gold,Market,5777.81,6425.33,6929.39,11.21,2023-10-13,Hyderabad,2,24
+Tomato 1kg,Vegetable,Local,69.97,87.5,102.85,25.05,2024-04-12,Hyderabad,5,18
+Gold 24K 1g,Gold,Market,5693.55,6968.42,8060.65,22.39,2025-06-18,Pune,3,19
+Normal Rice 1kg,Rice,Fortune,69.6,80.55,89.42,15.73,2023-01-27,Hyderabad,5,20
+Silver 1g,Silver,Market,66.8,77.15,85.52,15.49,2023-10-22,Bangalore,3,14
+Tomato 1kg,Vegetable,Local,63.37,74.73,84.11,17.93,2023-11-09,Kolkata,9,14
+Normal Rice 1kg,Rice,Fortune,75.79,80.63,84.23,6.39,2024-01-13,Kolkata,9,21
+Silver 1g,Silver,Market,77.79,96.4,112.54,23.92,2025-02-01,Chennai,4,21
+Onion 1kg,Vegetable,Local,20.52,21.47,22.17,4.63,2024-10-31,Bangalore,5,20
+Diesel 1L,Fuel,BPCL,70.36,81.13,89.82,15.31,2025-04-24,Bangalore,5,18
+Milk 1L,Grocery,Amul,25.71,28.53,30.72,10.97,2025-04-08,Chennai,8,25
+Realme GT,Mobile,Xiaomi,58852.76,67321.89,74103.4,14.39,2024-10-04,Bangalore,8,12
+Gold 24K 1g,Gold,Market,5443.88,5825.67,6111.67,7.01,2024-11-22,Hyderabad,3,4
+Tomato 1kg,Vegetable,Local,34.89,43.36,50.73,24.28,2023-12-28,Chennai,1,2
+Premium Rice 1kg,Rice,IndiaGate,51.7,61.19,69.05,18.36,2024-11-24,Bangalore,3,19
+Gold 24K 1g,Gold,Market,6130.44,6970.37,7638.88,13.7,2023-09-24,Mumbai,3,8
+Realme GT,Mobile,Xiaomi,57729.93,62803.55,66667.21,8.79,2023-01-16,Kolkata,6,6
+Silver 1g,Silver,Market,79.16,98.85,116.06,24.87,2023-01-28,Mumbai,2,17
+HP Victus,Laptop,HP,38226.17,40804.39,42730.87,6.74,2023-08-15,Hyderabad,10,25
+Diesel 1L,Fuel,HP,86.06,102.58,116.36,19.2,2023-08-06,Chennai,9,22
+Gold 22K 1g,Gold,Market,6693.17,6807.85,6889.5,1.71,2024-08-22,Delhi,7,21
+Bread,Grocery,Britannia,40.63,46.42,51.05,14.25,2023-12-22,Mumbai,10,10
+Silver 1g,Silver,Market,93.64,115.27,133.91,23.1,2024-06-05,Delhi,2,5
+Normal Rice 1kg,Rice,IndiaGate,62.16,70.52,77.16,13.45,2023-11-16,Kolkata,1,19
+Normal Rice 1kg,Rice,IndiaGate,39.84,44.46,48.07,11.6,2024-02-06,Bangalore,4,13
+Bread,Grocery,Amul,76.57,91.09,103.18,18.96,2023-10-30,Kolkata,8,17
+Potato 1kg,Vegetable,Local,64.83,68.84,71.82,6.19,2024-01-11,Chennai,7,22
+Normal Rice 1kg,Rice,Local,43.45,48.82,53.04,12.36,2024-06-01,Hyderabad,5,10
+Potato 1kg,Vegetable,Local,26.27,33.13,39.19,26.11,2023-07-23,Delhi,4,25
+Sugar 1kg,Grocery,Aashirvaad,77.85,98.11,115.98,26.02,2023-08-24,Pune,5,3
+Gold 22K 1g,Gold,Market,5249.43,5476.02,5641.48,4.32,2024-03-27,Kolkata,4,23
+Redmi Note 14,Mobile,Samsung,42356.64,55801.88,68201.09,31.74,2024-09-22,Bangalore,2,22
+Diesel 1L,Fuel,BPCL,97.49,109.32,118.61,12.13,2024-05-22,Chennai,9,2
+Silver 1g,Silver,Market,110.85,123.96,134.22,11.83,2024-08-04,Mumbai,5,17
+Redmi Note 14,Mobile,Apple,46484.12,51273.69,54971.84,10.3,2023-09-13,Mumbai,3,1
+Diesel 1L,Fuel,HP,88.63,91.69,93.91,3.45,2023-11-19,Kolkata,7,12
+Premium Rice 1kg,Rice,Fortune,42.72,44.76,46.26,4.78,2023-06-27,Hyderabad,7,18
+Gold 22K 1g,Gold,Market,6264.99,7242.52,8033.56,15.6,2023-06-13,Mumbai,1,0
+Potato 1kg,Vegetable,Local,62.54,67.08,70.49,7.26,2025-04-30,Hyderabad,10,9
+Gold 24K 1g,Gold,Market,5482.08,6086.11,6555.52,11.02,2023-01-12,Hyderabad,10,8
+Silver 1g,Silver,Market,85.55,100.14,112.09,17.05,2023-03-22,Kolkata,7,12
+Wheat Flour,Grocery,Britannia,75.51,86.67,95.64,14.78,2025-05-24,Hyderabad,3,13
+Onion 1kg,Vegetable,Local,63.04,73.92,82.85,17.26,2023-05-12,Hyderabad,6,2
+Silver 1g,Silver,Market,111.93,132.62,149.78,18.48,2023-12-23,Chennai,9,19
+Silver 1g,Silver,Market,65.95,82.09,96.15,24.47,2023-08-21,Hyderabad,9,24
+Premium Rice 1kg,Rice,Local,54.8,52.36,50.73,-4.45,2025-02-16,Delhi,8,21
+Normal Rice 1kg,Rice,IndiaGate,38.88,49.39,58.74,27.03,2023-12-02,Pune,9,5
+Gold 24K 1g,Gold,Market,7311.5,7755.12,8084.5,6.07,2023-12-11,Hyderabad,5,18
+Silver 1g,Silver,Market,79.76,79.17,78.76,-0.74,2024-11-11,Mumbai,1,13
+Gold 24K 1g,Gold,Market,6535.76,7473.28,8223.68,14.34,2023-03-15,Bangalore,3,16
+Redmi Note 14,Mobile,Realme,69047.98,82712.73,94171.05,19.79,2024-06-17,Delhi,10,11
+Lenovo LOQ,Laptop,Lenovo,51239.41,66150.57,79625.89,29.1,2023-01-22,Hyderabad,8,6
+Asus TUF,Laptop,Asus,57821.18,67113.17,74662.83,16.07,2024-10-01,Delhi,5,16
+OnePlus 12,Mobile,Apple,38099.67,37804.4,37599.31,-0.77,2023-12-19,Hyderabad,9,18
+Silver 1g,Silver,Market,60.22,66.75,71.82,10.84,2023-08-20,Delhi,3,19
+OnePlus 12,Mobile,Apple,15728.07,17991.88,19804.64,14.39,2025-05-05,Mumbai,10,1
+Galaxy S24,Mobile,Xiaomi,42599.08,47600.24,51512.05,11.74,2025-03-08,Chennai,6,9
+Silver 1g,Silver,Market,83.97,98.34,110.12,17.11,2024-09-19,Chennai,5,6
+Silver 1g,Silver,Market,64.94,72.58,78.56,11.76,2023-09-05,Delhi,2,4
+Gold 24K 1g,Gold,Market,6742.72,7495.72,8081.68,11.17,2024-11-09,Pune,9,3
+Onion 1kg,Vegetable,Local,53.91,63.02,70.47,16.9,2025-04-29,Delhi,2,23
+Galaxy S24,Mobile,Xiaomi,20583.39,22075.3,23195.33,7.25,2024-01-30,Bangalore,2,4
+Tomato 1kg,Vegetable,Local,23.72,25.41,26.68,7.12,2023-04-27,Pune,9,7
+Gold 22K 1g,Gold,Market,4724.91,5873.59,6873.15,24.31,2025-02-26,Pune,9,3
+Petrol 1L,Fuel,HP,92.48,94.24,95.5,1.9,2025-05-18,Delhi,4,3
+Petrol 1L,Fuel,IndianOil,79.39,96.07,110.2,21.01,2023-02-08,Chennai,1,2
+Redmi Note 14,Mobile,Apple,15561.93,17252.67,18564.77,10.86,2024-11-19,Delhi,6,1
+Normal Rice 1kg,Rice,Fortune,86.27,92.96,98.01,7.75,2024-07-02,Delhi,10,0
+Milk 1L,Grocery,Aashirvaad,100.82,114.69,125.73,13.76,2024-12-22,Kolkata,7,0
+Gold 24K 1g,Gold,Market,6996.19,7284.9,7495.34,4.13,2024-05-28,Mumbai,5,20
+Premium Rice 1kg,Rice,Fortune,80.45,100.89,118.83,25.41,2025-05-26,Mumbai,3,11
+Gold 22K 1g,Gold,Market,5511.29,6468.8,7255.5,17.37,2025-01-19,Bangalore,4,21
+Petrol 1L,Fuel,BPCL,95.15,114.4,130.6,20.23,2023-12-20,Kolkata,6,24
+Milk 1L,Grocery,Britannia,68.07,85.46,100.74,25.55,2023-11-28,Delhi,8,1
+Premium Rice 1kg,Rice,Fortune,72.51,86.93,99.03,19.89,2024-05-10,Hyderabad,3,21
+Milk 1L,Grocery,Madhur,36.93,46.41,54.75,25.67,2024-10-07,Mumbai,7,13
+Silver 1g,Silver,Market,79.47,87.11,92.97,9.61,2023-09-30,Delhi,8,25
+Dell Inspiron,Laptop,Dell,91401.08,101570.73,109481.55,11.13,2024-05-10,Hyderabad,9,5
+iPhone 15,Mobile,Samsung,27433.08,34215.62,40137.24,24.72,2023-02-18,Bangalore,6,0
+Silver 1g,Silver,Market,88.57,96.82,103.13,9.31,2024-03-05,Hyderabad,5,10
+Dell Inspiron,Laptop,Dell,112640.48,120002.65,125493.0,6.54,2023-12-09,Mumbai,7,0
+Redmi Note 14,Mobile,Samsung,30266.55,34096.74,37117.17,12.65,2023-04-24,Pune,7,11
+Onion 1kg,Vegetable,Local,22.96,24.1,24.94,4.97,2024-06-14,Mumbai,10,4
+Onion 1kg,Vegetable,Local,54.15,68.03,80.24,25.63,2024-04-16,Delhi,3,21
+Dell Inspiron,Laptop,Dell,100659.08,115083.34,126627.2,14.33,2023-02-27,Bangalore,1,5
+HP Victus,Laptop,HP,60899.4,71002.24,79247.43,16.59,2023-06-23,Mumbai,1,12
+Diesel 1L,Fuel,HP,96.86,107.23,115.27,10.71,2024-11-13,Chennai,7,25
+Wheat Flour,Grocery,Madhur,82.96,87.72,91.24,5.74,2024-08-17,Mumbai,1,18
+Redmi Note 14,Mobile,Realme,32110.11,35213.47,37595.77,9.66,2024-03-23,Chennai,9,13
+Asus TUF,Laptop,Asus,84157.8,103983.93,121131.71,23.56,2025-01-06,Chennai,4,19
+Potato 1kg,Vegetable,Local,18.47,20.2,21.52,9.37,2023-08-11,Mumbai,1,10
+Normal Rice 1kg,Rice,Local,79.89,83.97,86.97,5.11,2024-09-18,Mumbai,10,6
+Normal Rice 1kg,Rice,IndiaGate,69.16,68.23,67.59,-1.34,2024-03-28,Pune,6,23
+HP Victus,Laptop,HP,33045.14,36289.78,38784.04,9.82,2024-09-12,Kolkata,7,1
+Potato 1kg,Vegetable,Local,17.89,20.19,22.01,12.86,2024-01-23,Delhi,2,7
+Diesel 1L,Fuel,HP,94.01,103.85,111.46,10.47,2025-01-27,Chennai,5,16
+Bread,Grocery,Amul,39.35,41.75,43.53,6.1,2023-10-10,Delhi,8,9
+Gold 22K 1g,Gold,Market,5763.95,6825.57,7705.58,18.42,2024-02-29,Pune,3,10
+Silver 1g,Silver,Market,82.8,88.97,93.61,7.45,2025-05-31,Kolkata,3,21
+HP Victus,Laptop,Dell,105324.53,123572.75,138559.65,17.33,2024-09-01,Hyderabad,1,12
+Gold 22K 1g,Gold,Market,7140.79,8018.69,8708.77,12.29,2025-03-20,Hyderabad,8,4
+Premium Rice 1kg,Rice,Fortune,64.52,74.61,82.78,15.64,2023-09-12,Pune,2,13
+Tomato 1kg,Vegetable,Local,62.36,69.6,75.26,11.61,2023-10-23,Mumbai,8,19
+Silver 1g,Silver,Market,83.27,93.95,102.38,12.83,2024-07-11,Mumbai,2,21
+Realme GT,Mobile,Samsung,53594.09,64990.54,74664.42,21.26,2023-05-17,Delhi,1,1
+Gold 24K 1g,Gold,Market,6411.72,6923.29,7309.96,7.98,2024-12-03,Pune,6,18
+Normal Rice 1kg,Rice,IndiaGate,78.12,90.72,100.96,16.13,2024-08-01,Chennai,6,24
+Normal Rice 1kg,Rice,Local,73.81,87.15,98.18,18.07,2023-12-19,Hyderabad,2,23
+Gold 22K 1g,Gold,Market,7288.44,8412.09,9319.91,15.42,2023-08-04,Bangalore,5,4
+Gold 24K 1g,Gold,Market,6508.0,6388.58,6306.52,-1.83,2023-03-05,Delhi,1,19
+Normal Rice 1kg,Rice,IndiaGate,68.55,69.93,70.92,2.01,2024-07-12,Hyderabad,8,17
+Redmi Note 14,Mobile,OnePlus,65469.27,82500.56,97523.85,26.01,2023-09-24,Hyderabad,4,0
+Gold 24K 1g,Gold,Market,6359.58,6917.14,7341.65,8.77,2023-03-18,Hyderabad,10,3
+Dell Inspiron,Laptop,Dell,72261.94,88532.92,102487.18,22.52,2025-01-24,Kolkata,9,1
+Gold 24K 1g,Gold,Market,5054.39,6050.1,6884.4,19.7,2023-03-19,Bangalore,9,20
+Onion 1kg,Vegetable,Local,24.05,28.28,31.76,17.59,2024-01-17,Hyderabad,6,4
+Gold 22K 1g,Gold,Market,5922.04,6069.27,6174.89,2.49,2024-06-26,Mumbai,6,16
+Asus TUF,Laptop,Lenovo,95959.21,95468.62,95126.96,-0.51,2023-11-22,Delhi,8,15
+Lenovo LOQ,Laptop,Lenovo,71743.84,71391.05,71145.31,-0.49,2025-02-26,Mumbai,8,19
+Petrol 1L,Fuel,BPCL,90.57,106.49,119.59,17.58,2024-07-19,Pune,7,2
+Silver 1g,Silver,Market,88.74,111.65,131.83,25.82,2023-11-29,Pune,8,13
+Bread,Grocery,Amul,117.43,124.47,129.69,6.0,2023-05-13,Mumbai,2,17
+Normal Rice 1kg,Rice,Fortune,71.65,83.11,92.42,15.99,2023-12-05,Kolkata,9,8
+Galaxy S24,Mobile,OnePlus,21700.72,23732.12,25287.21,9.36,2024-04-30,Pune,2,21
+Lenovo LOQ,Laptop,Asus,98248.23,113003.97,124884.29,15.02,2025-01-29,Pune,1,3
+Redmi Note 14,Mobile,Xiaomi,21947.44,23568.59,24787.22,7.39,2024-09-04,Pune,5,21
+Normal Rice 1kg,Rice,Fortune,77.3,90.67,101.65,17.3,2024-10-01,Mumbai,9,11
+Wheat Flour,Grocery,Aashirvaad,80.39,93.93,105.0,16.84,2024-04-12,Mumbai,6,21
+Onion 1kg,Vegetable,Local,61.68,68.15,73.15,10.49,2024-03-01,Delhi,6,23
+Petrol 1L,Fuel,IndianOil,73.54,90.7,105.51,23.33,2023-06-09,Pune,8,11
+Normal Rice 1kg,Rice,IndiaGate,48.35,59.6,69.31,23.27,2024-11-18,Chennai,10,16
+Diesel 1L,Fuel,BPCL,89.59,102.9,113.6,14.86,2024-08-19,Delhi,2,12
+HP Victus,Laptop,Dell,101040.31,108604.93,114296.6,7.49,2025-04-30,Hyderabad,1,11
+OnePlus 12,Mobile,Samsung,50555.7,59413.71,66700.74,17.52,2023-01-23,Mumbai,6,8
+Petrol 1L,Fuel,BPCL,99.59,123.01,143.26,23.52,2023-12-29,Mumbai,2,23
+Petrol 1L,Fuel,IndianOil,73.69,91.84,107.67,24.63,2025-02-22,Pune,2,19
+Realme GT,Mobile,Apple,77726.61,91773.31,103382.96,18.07,2024-08-20,Pune,7,18
+Bread,Grocery,Britannia,84.22,84.31,84.37,0.11,2024-04-04,Chennai,8,14
+Potato 1kg,Vegetable,Local,37.07,45.61,52.97,23.04,2023-03-30,Bangalore,9,11
+OnePlus 12,Mobile,Apple,64127.0,62228.77,60939.34,-2.96,2024-10-01,Chennai,8,0
+Normal Rice 1kg,Rice,IndiaGate,79.95,91.48,100.71,14.42,2023-08-29,Hyderabad,2,19
+Diesel 1L,Fuel,IndianOil,80.83,83.27,85.03,3.02,2023-08-25,Delhi,2,9
+Sugar 1kg,Grocery,Aashirvaad,99.53,96.82,94.97,-2.72,2025-04-14,Delhi,4,18
+Realme GT,Mobile,Xiaomi,44334.14,52906.73,60067.88,19.34,2024-11-29,Chennai,6,9
+Gold 24K 1g,Gold,Market,6771.81,7671.98,8385.86,13.29,2024-01-02,Kolkata,1,3
+Wheat Flour,Grocery,Amul,58.86,60.2,61.16,2.28,2025-02-09,Pune,6,25
+Normal Rice 1kg,Rice,IndiaGate,71.16,83.33,93.31,17.1,2024-08-07,Bangalore,1,6
+Milk 1L,Grocery,Britannia,90.98,97.21,101.87,6.85,2024-12-11,Mumbai,4,21
+Premium Rice 1kg,Rice,Local,56.36,61.02,64.55,8.27,2023-11-01,Kolkata,10,9
+Diesel 1L,Fuel,BPCL,108.21,124.78,138.16,15.31,2025-02-19,Delhi,9,23
+OnePlus 12,Mobile,Realme,25011.88,26381.45,27392.64,5.48,2024-12-17,Bangalore,1,18
+Onion 1kg,Vegetable,Local,20.39,23.33,25.68,14.42,2023-06-21,Kolkata,3,6
+Normal Rice 1kg,Rice,IndiaGate,66.54,82.76,96.88,24.38,2024-10-29,Bangalore,10,3
+Gold 24K 1g,Gold,Market,5094.59,5952.81,6654.77,16.85,2024-02-19,Mumbai,1,20
+Diesel 1L,Fuel,BPCL,109.51,117.66,123.79,7.44,2023-07-22,Chennai,10,10
+Potato 1kg,Vegetable,Local,38.44,46.37,53.07,20.63,2024-04-01,Hyderabad,10,19
+Redmi Note 14,Mobile,Apple,33584.23,34735.73,35569.42,3.43,2025-01-08,Kolkata,9,14
+Onion 1kg,Vegetable,Local,56.34,58.63,60.3,4.06,2024-02-03,Chennai,9,21
+Premium Rice 1kg,Rice,Fortune,59.2,67.99,75.06,14.85,2025-03-09,Bangalore,6,0
+Silver 1g,Silver,Market,105.57,119.6,130.73,13.29,2023-04-26,Delhi,9,19
+Bread,Grocery,Britannia,28.75,33.39,37.16,16.14,2025-02-21,Hyderabad,6,14
+Asus TUF,Laptop,HP,65997.86,73373.11,79112.71,11.17,2024-03-05,Pune,10,18
+Gold 22K 1g,Gold,Market,4589.95,5093.59,5484.82,10.97,2023-05-18,Delhi,3,17
+Bread,Grocery,Amul,28.48,31.35,33.56,10.08,2023-08-26,Pune,3,13
+Gold 24K 1g,Gold,Market,5586.74,7464.57,9220.88,33.61,2023-10-17,Bangalore,3,0
+Wheat Flour,Grocery,Amul,90.32,107.54,121.89,19.07,2023-06-20,Bangalore,3,8
+Sugar 1kg,Grocery,Amul,83.14,87.82,91.28,5.63,2025-03-04,Mumbai,2,5
+Gold 24K 1g,Gold,Market,6775.84,7920.62,8857.35,16.9,2023-12-16,Kolkata,7,2
+Sugar 1kg,Grocery,Amul,65.66,67.89,69.5,3.4,2025-04-02,Chennai,1,25
+Silver 1g,Silver,Market,108.67,132.66,153.16,22.08,2025-01-25,Delhi,5,11
+Realme GT,Mobile,Xiaomi,69683.34,81584.66,91338.43,17.08,2024-05-07,Mumbai,5,13
+OnePlus 12,Mobile,Samsung,36166.08,45107.08,52913.06,24.72,2023-07-07,Delhi,10,4
+Diesel 1L,Fuel,IndianOil,97.35,98.32,99.01,1.0,2024-10-15,Hyderabad,8,2
+Gold 24K 1g,Gold,Market,6216.57,6017.19,5882.1,-3.21,2025-01-19,Delhi,6,6
+Potato 1kg,Vegetable,Local,36.68,45.38,52.91,23.72,2023-07-21,Chennai,1,4
+Silver 1g,Silver,Market,99.4,102.41,104.58,3.03,2024-12-01,Hyderabad,9,24
+Diesel 1L,Fuel,IndianOil,111.65,131.98,148.8,18.21,2023-09-08,Hyderabad,2,2
+Diesel 1L,Fuel,HP,96.29,127.3,156.0,32.2,2024-06-15,Mumbai,5,14
+Gold 22K 1g,Gold,Market,5134.81,5795.8,6318.05,12.87,2025-01-25,Hyderabad,10,12
+Milk 1L,Grocery,Aashirvaad,95.41,98.06,99.97,2.78,2024-11-28,Kolkata,5,11
+Normal Rice 1kg,Rice,Local,81.62,92.52,101.17,13.35,2025-03-16,Hyderabad,7,5
+Petrol 1L,Fuel,IndianOil,99.53,124.43,146.22,25.02,2023-01-23,Chennai,6,25
+OnePlus 12,Mobile,Realme,51295.99,55770.08,59175.11,8.72,2024-11-08,Mumbai,1,13
+Sugar 1kg,Grocery,Britannia,23.54,25.42,26.84,7.99,2024-04-02,Hyderabad,5,2
+Wheat Flour,Grocery,Amul,34.97,37.99,40.29,8.64,2025-02-01,Kolkata,5,1
+Lenovo LOQ,Laptop,Lenovo,109154.35,130469.82,148304.36,19.53,2024-12-19,Pune,2,16
+Normal Rice 1kg,Rice,Fortune,60.08,62.39,64.07,3.84,2023-03-02,Mumbai,10,10
+Premium Rice 1kg,Rice,Fortune,75.76,90.94,103.7,20.04,2024-11-11,Bangalore,6,19
+Silver 1g,Silver,Market,85.96,89.63,92.31,4.27,2023-03-13,Hyderabad,4,17
+Galaxy S24,Mobile,Samsung,67902.26,71079.49,73407.62,4.68,2024-02-13,Pune,9,8
+Galaxy S24,Mobile,OnePlus,42397.26,52478.33,61213.01,23.78,2023-04-04,Delhi,7,14
+Normal Rice 1kg,Rice,Local,40.16,49.05,56.65,22.14,2023-01-11,Kolkata,1,7
+Tomato 1kg,Vegetable,Local,22.51,23.77,24.7,5.6,2025-03-10,Pune,10,1
+Sugar 1kg,Grocery,Madhur,103.47,113.2,120.65,9.4,2023-05-30,Pune,1,3
+Silver 1g,Silver,Market,108.56,129.14,146.28,18.96,2024-01-21,Delhi,4,0
+Potato 1kg,Vegetable,Local,39.25,46.54,52.59,18.57,2023-02-04,Pune,8,19
+Lenovo LOQ,Laptop,HP,35112.06,44631.68,53102.09,27.11,2023-12-22,Hyderabad,9,4
+Sugar 1kg,Grocery,Britannia,76.61,77.93,78.87,1.72,2023-11-30,Bangalore,8,8
+Milk 1L,Grocery,Amul,46.2,58.02,68.41,25.58,2024-05-16,Mumbai,8,21
+Gold 22K 1g,Gold,Market,5625.23,6377.52,6974.55,13.37,2024-07-11,Bangalore,4,0
+Tomato 1kg,Vegetable,Local,52.9,63.93,73.26,20.85,2024-11-28,Bangalore,3,17
+Diesel 1L,Fuel,IndianOil,88.01,109.71,128.65,24.66,2025-03-02,Bangalore,5,16
+Premium Rice 1kg,Rice,Local,43.72,44.07,44.32,0.8,2024-05-12,Pune,7,7
+Premium Rice 1kg,Rice,IndiaGate,70.01,79.89,87.78,14.11,2023-09-16,Hyderabad,8,25
+HP Victus,Laptop,Asus,90317.8,101520.63,110335.31,12.4,2024-07-16,Chennai,5,25
+Silver 1g,Silver,Market,110.44,125.64,137.74,13.76,2025-02-19,Hyderabad,5,3
+Silver 1g,Silver,Market,86.1,110.46,132.34,28.29,2023-10-01,Kolkata,10,0
+Silver 1g,Silver,Market,77.57,88.34,96.93,13.88,2024-08-09,Kolkata,8,14
+Potato 1kg,Vegetable,Local,37.11,41.96,45.8,13.07,2025-02-10,Chennai,3,11
+Silver 1g,Silver,Market,93.18,102.74,110.12,10.26,2023-07-04,Hyderabad,5,1
+Gold 22K 1g,Gold,Market,5719.81,6006.47,6217.19,5.01,2025-04-30,Delhi,1,9
+Lenovo LOQ,Laptop,HP,63540.0,74096.8,82714.33,16.61,2025-02-20,Mumbai,1,16
+Sugar 1kg,Grocery,Britannia,45.55,50.95,55.18,11.86,2024-03-31,Mumbai,7,21
+HP Victus,Laptop,Lenovo,98360.61,108662.1,116628.37,10.47,2023-11-24,Mumbai,8,14
+Premium Rice 1kg,Rice,Local,67.34,67.89,68.28,0.82,2023-03-03,Delhi,9,16
+Onion 1kg,Vegetable,Local,41.61,44.53,46.72,7.02,2023-06-26,Kolkata,9,5
+Silver 1g,Silver,Market,72.3,88.8,102.99,22.82,2024-11-22,Bangalore,9,6
+Premium Rice 1kg,Rice,IndiaGate,82.55,94.56,104.19,14.55,2024-04-13,Chennai,3,6
+HP Victus,Laptop,Asus,59106.52,74840.16,88785.42,26.62,2023-08-11,Kolkata,3,5
+Bread,Grocery,Madhur,29.88,32.2,33.95,7.76,2024-08-19,Mumbai,4,22
+Realme GT,Mobile,Apple,51942.73,51130.0,50569.99,-1.56,2025-02-23,Kolkata,10,9
+Premium Rice 1kg,Rice,Fortune,73.62,81.3,87.24,10.43,2024-09-22,Chennai,9,12
+Gold 22K 1g,Gold,Market,6797.16,7317.13,7708.95,7.65,2024-02-19,Mumbai,7,2
+Redmi Note 14,Mobile,Xiaomi,39880.35,45634.78,50244.11,14.43,2024-11-11,Delhi,8,23
+Silver 1g,Silver,Market,105.31,109.9,113.25,4.36,2024-03-29,Pune,9,24
+Gold 24K 1g,Gold,Market,5799.47,6533.65,7112.64,12.66,2024-05-31,Mumbai,3,15
+Silver 1g,Silver,Market,57.67,71.98,84.48,24.81,2023-01-24,Pune,7,9
+Tomato 1kg,Vegetable,Local,65.77,69.55,72.35,5.75,2024-09-23,Kolkata,9,16
+Realme GT,Mobile,OnePlus,46261.6,54202.31,60714.91,17.16,2025-04-04,Kolkata,1,1
+Potato 1kg,Vegetable,Local,37.49,48.51,58.49,29.39,2024-07-31,Delhi,6,18
+Milk 1L,Grocery,Madhur,68.85,75.88,81.3,10.21,2024-03-24,Kolkata,2,7
+Gold 22K 1g,Gold,Market,4936.23,5735.58,6385.74,16.19,2023-08-18,Pune,4,2
+Petrol 1L,Fuel,HP,75.74,80.42,83.9,6.18,2025-03-10,Kolkata,7,3
+Tomato 1kg,Vegetable,Local,43.62,46.53,48.7,6.67,2023-02-14,Delhi,5,10
+Premium Rice 1kg,Rice,IndiaGate,48.43,58.28,66.58,20.34,2023-11-02,Delhi,3,21
+Silver 1g,Silver,Market,69.68,73.09,75.59,4.89,2023-04-13,Chennai,7,11
+OnePlus 12,Mobile,Realme,62772.83,80115.37,95609.06,27.63,2023-07-11,Bangalore,3,24
+Tomato 1kg,Vegetable,Local,44.99,59.42,72.76,32.07,2025-01-22,Delhi,6,1
+Wheat Flour,Grocery,Aashirvaad,87.34,88.84,89.91,1.72,2024-02-27,Kolkata,9,20
+HP Victus,Laptop,Dell,74391.64,74687.58,74895.56,0.4,2023-11-07,Chennai,9,20
+Redmi Note 14,Mobile,Samsung,57618.11,66342.79,73374.85,15.14,2024-06-07,Delhi,10,20
+Dell Inspiron,Laptop,Dell,111595.73,121171.22,128449.2,8.58,2025-06-16,Kolkata,5,7
+Silver 1g,Silver,Market,94.54,119.19,140.94,26.07,2024-10-23,Pune,3,4
+Potato 1kg,Vegetable,Local,55.27,60.17,63.9,8.87,2023-02-17,Chennai,3,10
+OnePlus 12,Mobile,Samsung,21706.84,23772.28,25355.66,9.52,2024-02-04,Kolkata,9,17
+Normal Rice 1kg,Rice,IndiaGate,63.98,69.75,74.15,9.02,2025-04-13,Hyderabad,5,10
+OnePlus 12,Mobile,Apple,65183.52,81702.35,96195.88,25.34,2023-07-25,Delhi,3,7
+Wheat Flour,Grocery,Britannia,84.95,85.01,85.05,0.07,2023-01-04,Delhi,1,5
+Silver 1g,Silver,Market,91.06,109.82,125.66,20.6,2025-02-01,Pune,3,1
+Potato 1kg,Vegetable,Local,26.88,30.08,32.59,11.9,2024-03-13,Pune,5,1
+Potato 1kg,Vegetable,Local,31.46,36.25,40.11,15.23,2023-07-07,Mumbai,10,6
+Gold 24K 1g,Gold,Market,5027.33,6080.18,6971.52,20.94,2023-11-03,Mumbai,1,12
+Petrol 1L,Fuel,HP,111.87,121.37,128.58,8.49,2024-05-11,Bangalore,2,16
+Milk 1L,Grocery,Aashirvaad,51.97,57.26,61.34,10.18,2025-02-24,Chennai,5,22
+Sugar 1kg,Grocery,Aashirvaad,66.49,78.82,89.05,18.54,2024-08-20,Bangalore,4,15
+Premium Rice 1kg,Rice,IndiaGate,45.69,59.08,71.2,29.31,2025-05-27,Pune,7,7
+Petrol 1L,Fuel,IndianOil,88.72,96.32,102.1,8.57,2024-08-22,Chennai,3,3
+Sugar 1kg,Grocery,Britannia,31.99,36.01,39.18,12.57,2025-06-09,Hyderabad,2,6
+Potato 1kg,Vegetable,Local,27.97,30.12,31.74,7.69,2024-07-22,Hyderabad,1,4
+Normal Rice 1kg,Rice,Local,69.33,88.54,105.71,27.71,2023-03-04,Kolkata,6,9
+iPhone 15,Mobile,Xiaomi,71128.6,87034.02,100657.5,22.36,2023-02-14,Delhi,9,12
+HP Victus,Laptop,Asus,37970.86,39688.37,40945.01,4.52,2024-11-10,Delhi,6,1
+Gold 24K 1g,Gold,Market,7156.21,8116.24,8878.41,13.42,2023-05-12,Bangalore,10,15
+Onion 1kg,Vegetable,Local,36.72,40.56,43.53,10.46,2024-09-24,Kolkata,9,10
+Tomato 1kg,Vegetable,Local,56.64,67.62,76.8,19.39,2024-12-21,Hyderabad,1,17
+Milk 1L,Grocery,Aashirvaad,41.0,46.76,51.36,14.05,2023-04-24,Delhi,2,13
+Galaxy S24,Mobile,Samsung,26072.98,29558.38,32324.31,13.37,2024-10-06,Pune,10,7
+Normal Rice 1kg,Rice,IndiaGate,66.15,73.26,78.77,10.75,2025-06-07,Chennai,3,17
+Gold 24K 1g,Gold,Market,5996.41,7326.26,8463.6,22.18,2024-08-10,Bangalore,5,15
+Silver 1g,Silver,Market,68.25,75.59,81.28,10.75,2024-09-24,Chennai,6,23
+Silver 1g,Silver,Market,85.51,99.13,110.18,15.93,2023-07-29,Hyderabad,2,25
+Normal Rice 1kg,Rice,Local,46.59,55.33,62.6,18.76,2024-12-18,Chennai,4,20
+Sugar 1kg,Grocery,Aashirvaad,43.31,51.23,57.79,18.29,2023-09-02,Kolkata,4,20
+Galaxy S24,Mobile,Samsung,51030.2,55186.35,58332.6,8.14,2023-11-19,Kolkata,5,1
+OnePlus 12,Mobile,Apple,66755.45,78347.18,87870.38,17.36,2023-01-24,Mumbai,5,9
+Normal Rice 1kg,Rice,Local,81.31,87.93,92.94,8.14,2024-12-24,Kolkata,9,20
+Asus TUF,Laptop,Dell,51524.7,60761.49,68386.35,17.93,2023-08-14,Bangalore,10,1
+Gold 22K 1g,Gold,Market,6207.87,6691.73,7056.83,7.79,2023-04-05,Bangalore,3,10
+Asus TUF,Laptop,Dell,104342.69,114231.27,121809.28,9.48,2024-05-05,Chennai,8,24
+Gold 22K 1g,Gold,Market,7202.6,7668.35,8015.46,6.47,2024-11-09,Bangalore,5,21
+Silver 1g,Silver,Market,72.62,80.88,87.32,11.37,2023-01-12,Delhi,8,7
+iPhone 15,Mobile,Apple,46922.38,54091.29,59876.22,15.28,2023-05-31,Mumbai,10,17
+iPhone 15,Mobile,Samsung,72081.56,88076.9,101758.26,22.19,2024-06-07,Delhi,6,24
+Premium Rice 1kg,Rice,Local,65.15,72.52,78.26,11.31,2024-09-05,Chennai,1,22
+Premium Rice 1kg,Rice,Fortune,85.2,98.65,109.55,15.79,2024-12-13,Bangalore,6,15
+Tomato 1kg,Vegetable,Local,43.09,49.86,55.34,15.71,2024-11-13,Delhi,2,19
+Wheat Flour,Grocery,Amul,49.02,62.0,73.49,26.48,2025-04-03,Chennai,1,20
+Sugar 1kg,Grocery,Amul,31.54,32.74,33.61,3.8,2024-10-05,Kolkata,8,5
+HP Victus,Laptop,HP,66545.93,75423.56,82466.93,13.34,2023-02-07,Chennai,6,14
+Silver 1g,Silver,Market,54.61,68.49,80.68,25.42,2023-06-25,Hyderabad,1,0
+Sugar 1kg,Grocery,Britannia,59.74,68.62,75.76,14.86,2024-10-13,Bangalore,8,6
+Premium Rice 1kg,Rice,Local,39.29,49.18,57.85,25.17,2024-08-07,Chennai,7,16
+iPhone 15,Mobile,Realme,34591.93,45537.59,55623.97,31.64,2023-01-10,Mumbai,8,23
+Premium Rice 1kg,Rice,IndiaGate,38.87,40.72,42.08,4.76,2023-01-23,Pune,10,4
+Premium Rice 1kg,Rice,Local,62.54,65.21,67.16,4.27,2024-12-11,Hyderabad,3,24
+Gold 24K 1g,Gold,Market,6472.1,6281.61,6152.19,-2.94,2025-02-14,Mumbai,3,3
+Bread,Grocery,Aashirvaad,79.27,100.78,119.92,27.14,2024-01-15,Kolkata,3,21
+Gold 24K 1g,Gold,Market,6640.81,6787.57,6892.57,2.21,2025-02-08,Hyderabad,5,11
+Realme GT,Mobile,Xiaomi,56480.25,59085.83,60993.88,4.61,2025-05-10,Bangalore,2,3
+Bread,Grocery,Amul,43.68,52.27,59.47,19.67,2024-02-12,Chennai,10,17
+Silver 1g,Silver,Market,80.11,98.72,114.77,23.23,2024-10-18,Delhi,2,21
+Wheat Flour,Grocery,Britannia,94.72,105.14,113.24,11.0,2024-10-23,Chennai,2,5
+Diesel 1L,Fuel,IndianOil,116.4,121.56,125.33,4.43,2023-10-16,Hyderabad,1,0
+Onion 1kg,Vegetable,Local,29.78,32.74,35.02,9.94,2025-04-24,Hyderabad,10,18
+Asus TUF,Laptop,HP,83096.27,98148.15,110592.99,18.11,2023-01-16,Kolkata,5,16
+Asus TUF,Laptop,Dell,51236.02,54978.11,57788.89,7.3,2024-04-07,Pune,6,22
+Onion 1kg,Vegetable,Local,73.2,85.2,94.98,16.39,2024-07-20,Kolkata,3,10
+Premium Rice 1kg,Rice,IndiaGate,47.17,59.22,69.81,25.55,2024-03-08,Mumbai,5,2
+Bread,Grocery,Madhur,50.63,58.82,65.48,16.18,2023-10-12,Chennai,6,23
+Diesel 1L,Fuel,IndianOil,85.75,99.43,110.53,15.95,2025-05-05,Pune,4,16
+Premium Rice 1kg,Rice,IndiaGate,50.43,58.07,64.23,15.15,2024-10-07,Bangalore,4,17
+Dell Inspiron,Laptop,HP,88560.84,109468.21,127558.43,23.61,2023-02-13,Chennai,8,23
+Bread,Grocery,Aashirvaad,100.02,126.73,150.42,26.7,2023-07-21,Mumbai,4,16
+Redmi Note 14,Mobile,Realme,30634.28,38480.18,45378.93,25.61,2023-11-12,Hyderabad,7,18
+Asus TUF,Laptop,Lenovo,104180.98,128820.93,150148.23,23.65,2023-05-03,Bangalore,2,25
+Silver 1g,Silver,Market,58.11,68.19,76.47,17.35,2023-10-09,Delhi,4,8
+Normal Rice 1kg,Rice,IndiaGate,46.93,54.74,61.12,16.64,2024-04-17,Hyderabad,10,15
+Diesel 1L,Fuel,IndianOil,79.84,95.87,109.34,20.08,2024-01-07,Mumbai,10,20
+Silver 1g,Silver,Market,56.88,58.7,60.01,3.2,2023-01-19,Kolkata,6,2
+Diesel 1L,Fuel,BPCL,87.59,90.46,92.53,3.28,2025-01-24,Hyderabad,9,17
+Galaxy S24,Mobile,Apple,73299.85,80495.45,86026.83,9.82,2023-06-28,Chennai,5,22
+Normal Rice 1kg,Rice,Local,61.27,71.6,80.05,16.86,2024-05-13,Delhi,2,17
+Silver 1g,Silver,Market,100.53,118.62,133.56,17.99,2023-10-21,Hyderabad,5,22
+Tomato 1kg,Vegetable,Local,42.88,50.73,57.23,18.31,2025-03-02,Delhi,1,1
+Petrol 1L,Fuel,HP,105.46,118.46,128.68,12.33,2023-07-12,Mumbai,9,3
+Tomato 1kg,Vegetable,Local,73.82,81.94,88.25,11.0,2024-04-17,Kolkata,5,15
+iPhone 15,Mobile,Xiaomi,37359.58,41803.72,45284.68,11.9,2023-04-07,Hyderabad,2,14
+Silver 1g,Silver,Market,65.67,69.92,73.09,6.47,2024-09-02,Chennai,9,12
+HP Victus,Laptop,Dell,85146.94,102751.07,117621.72,20.68,2023-01-28,Bangalore,9,19
+Lenovo LOQ,Laptop,Dell,91200.26,119976.94,146476.61,31.55,2024-11-09,Delhi,5,5
+Asus TUF,Laptop,HP,90139.7,88623.49,87580.0,-1.68,2025-02-16,Pune,4,21
+Diesel 1L,Fuel,HP,115.45,135.54,152.05,17.4,2023-04-12,Chennai,10,25
+Redmi Note 14,Mobile,Apple,18332.79,20199.88,21639.95,10.18,2025-04-05,Mumbai,2,19
+Gold 22K 1g,Gold,Market,6713.16,7088.84,7366.53,5.6,2024-08-26,Bangalore,6,10
+Gold 22K 1g,Gold,Market,7229.39,8285.87,9133.48,14.61,2025-05-09,Chennai,8,21
+Potato 1kg,Vegetable,Local,28.09,36.4,43.94,29.58,2023-02-05,Chennai,5,19
+Silver 1g,Silver,Market,66.92,74.61,80.61,11.49,2024-05-18,Bangalore,1,3
+Redmi Note 14,Mobile,OnePlus,31252.44,34388.56,36804.14,10.03,2023-09-06,Mumbai,7,19
+Milk 1L,Grocery,Aashirvaad,96.91,108.41,117.42,11.87,2023-02-14,Pune,6,2
+Bread,Grocery,Aashirvaad,83.08,100.89,116.03,21.44,2024-03-15,Kolkata,2,2
+Lenovo LOQ,Laptop,Asus,60600.78,74236.13,85928.47,22.5,2023-07-12,Pune,9,3
+Normal Rice 1kg,Rice,Local,47.86,50.77,52.93,6.08,2024-11-28,Chennai,1,10
+Wheat Flour,Grocery,Aashirvaad,57.33,58.29,58.97,1.67,2024-03-11,Bangalore,5,0
+HP Victus,Laptop,Asus,95677.16,103509.48,109440.92,8.19,2023-12-29,Pune,9,2
+Silver 1g,Silver,Market,62.77,72.52,80.41,15.53,2023-01-05,Pune,1,16
+Wheat Flour,Grocery,Aashirvaad,101.52,102.27,102.8,0.74,2024-12-13,Mumbai,6,20
+Petrol 1L,Fuel,HP,107.67,116.48,123.15,8.18,2024-06-10,Pune,1,20
+Milk 1L,Grocery,Britannia,83.93,91.39,97.08,8.89,2024-07-16,Mumbai,1,19
+Normal Rice 1kg,Rice,Fortune,37.89,41.65,44.54,9.92,2023-01-15,Hyderabad,10,17
+Silver 1g,Silver,Market,53.37,68.53,82.16,28.41,2023-11-02,Pune,8,17
+HP Victus,Laptop,Lenovo,44290.56,47998.82,50811.94,8.37,2024-09-03,Hyderabad,7,17
+Gold 24K 1g,Gold,Market,6565.23,7924.27,9072.53,20.7,2025-04-03,Bangalore,3,10
+Galaxy S24,Mobile,Apple,69561.35,87270.8,102823.44,25.46,2024-03-09,Delhi,1,8
+Petrol 1L,Fuel,BPCL,109.77,110.29,110.66,0.47,2024-08-04,Hyderabad,3,24
+Premium Rice 1kg,Rice,IndiaGate,44.21,56.16,66.79,27.03,2023-06-11,Bangalore,5,15
+Bread,Grocery,Madhur,35.85,40.15,43.52,11.99,2024-03-31,Delhi,6,20
+Diesel 1L,Fuel,HP,93.59,119.68,143.03,27.88,2024-09-29,Bangalore,10,14
+Silver 1g,Silver,Market,64.35,65.22,65.84,1.35,2024-10-02,Pune,2,2
+Asus TUF,Laptop,Asus,62014.23,78348.66,92794.48,26.34,2025-04-03,Delhi,3,15
+Silver 1g,Silver,Market,68.63,81.26,91.73,18.4,2023-11-26,Hyderabad,7,21
+HP Victus,Laptop,Asus,34282.08,39148.43,43038.42,14.2,2024-04-22,Delhi,6,0
+Petrol 1L,Fuel,BPCL,75.75,91.55,104.92,20.86,2023-11-28,Delhi,9,23
+Potato 1kg,Vegetable,Local,40.41,49.35,56.99,22.12,2023-05-18,Pune,10,17
+Silver 1g,Silver,Market,60.89,62.18,63.1,2.12,2024-06-18,Hyderabad,5,9
+Gold 24K 1g,Gold,Market,5775.95,5878.03,5950.75,1.77,2024-09-30,Chennai,9,24
+Sugar 1kg,Grocery,Britannia,27.53,31.96,35.56,16.09,2024-04-23,Kolkata,8,23
+Diesel 1L,Fuel,BPCL,94.37,106.4,115.89,12.75,2024-12-25,Kolkata,8,19
+Gold 24K 1g,Gold,Market,6220.98,6825.87,7290.46,9.72,2024-07-03,Kolkata,2,25
+Tomato 1kg,Vegetable,Local,47.02,52.73,57.21,12.14,2024-06-05,Chennai,3,25
+Petrol 1L,Fuel,IndianOil,88.51,107.23,123.11,21.15,2025-01-07,Mumbai,5,21
+iPhone 15,Mobile,Realme,22480.36,25299.45,27520.28,12.54,2023-10-24,Pune,4,22
+Galaxy S24,Mobile,Realme,38505.15,42808.63,46157.75,11.18,2025-03-10,Bangalore,3,5
+Tomato 1kg,Vegetable,Local,20.11,23.98,27.21,19.24,2023-04-20,Pune,1,10
+OnePlus 12,Mobile,Realme,68776.54,77509.98,84399.69,12.7,2024-02-11,Chennai,7,23
+Silver 1g,Silver,Market,60.1,60.05,60.02,-0.08,2023-01-12,Kolkata,5,6
+HP Victus,Laptop,HP,109315.59,123389.43,134509.47,12.87,2023-08-10,Hyderabad,9,6
+Realme GT,Mobile,Xiaomi,48989.68,55198.2,60094.93,12.67,2023-05-27,Kolkata,9,4
+Premium Rice 1kg,Rice,Local,67.23,78.75,88.2,17.14,2024-08-23,Chennai,2,2
+Diesel 1L,Fuel,IndianOil,104.01,126.31,145.27,21.44,2023-08-05,Chennai,10,8
+Galaxy S24,Mobile,Realme,66069.47,77483.64,86853.9,17.28,2023-03-29,Kolkata,1,4
+Dell Inspiron,Laptop,Asus,99146.42,114670.03,127237.96,15.66,2023-06-07,Hyderabad,8,19
+Galaxy S24,Mobile,Apple,38645.29,41092.98,42914.88,6.33,2024-03-16,Hyderabad,7,20
+Bread,Grocery,Amul,93.54,97.42,100.25,4.15,2025-05-13,Hyderabad,10,21
+Premium Rice 1kg,Rice,Fortune,48.55,50.85,52.54,4.74,2024-02-19,Bangalore,5,5
+Gold 24K 1g,Gold,Market,5068.22,5957.2,6688.64,17.54,2024-04-14,Mumbai,1,15
+Normal Rice 1kg,Rice,Local,43.25,48.04,51.76,11.08,2024-02-04,Kolkata,10,5
+Petrol 1L,Fuel,HP,94.44,101.95,107.63,7.95,2023-02-20,Chennai,7,12
+Potato 1kg,Vegetable,Local,64.89,68.2,70.64,5.1,2024-01-13,Delhi,6,19
+Diesel 1L,Fuel,BPCL,78.31,100.19,119.79,27.94,2024-04-08,Pune,4,2
+Milk 1L,Grocery,Madhur,22.57,24.97,26.83,10.63,2024-06-03,Hyderabad,3,1
+Silver 1g,Silver,Market,95.3,107.15,116.48,12.43,2024-12-11,Delhi,6,15
+Normal Rice 1kg,Rice,IndiaGate,51.58,56.6,60.46,9.73,2023-02-14,Delhi,4,11
+Dell Inspiron,Laptop,Asus,62244.19,70013.92,76131.64,12.48,2023-06-18,Delhi,10,12
+iPhone 15,Mobile,Realme,63310.59,69616.1,74469.56,9.96,2023-07-11,Kolkata,3,18
+Diesel 1L,Fuel,BPCL,76.68,95.68,112.28,24.78,2025-03-03,Hyderabad,3,12
+Gold 22K 1g,Gold,Market,6362.8,7456.37,8353.43,17.19,2023-09-23,Delhi,1,25
+Gold 22K 1g,Gold,Market,5884.72,6185.79,6407.32,5.12,2024-02-28,Bangalore,3,19
+Silver 1g,Silver,Market,94.82,110.82,123.91,16.87,2023-02-08,Mumbai,3,17
+Redmi Note 14,Mobile,Realme,59185.54,59563.25,59829.33,0.64,2024-01-20,Kolkata,1,2
+Silver 1g,Silver,Market,78.12,85.7,91.52,9.7,2024-09-25,Hyderabad,1,15
+Silver 1g,Silver,Market,74.61,96.31,115.92,29.08,2024-05-22,Mumbai,8,23
+Potato 1kg,Vegetable,Local,65.51,76.76,85.99,17.17,2023-09-07,Mumbai,8,4
+Potato 1kg,Vegetable,Local,48.61,58.31,66.45,19.95,2025-01-16,Hyderabad,2,10
+Gold 22K 1g,Gold,Market,6037.84,6940.95,7667.68,14.96,2023-01-28,Pune,8,9
+Silver 1g,Silver,Market,82.7,99.7,114.05,20.56,2024-01-24,Chennai,10,1
+Silver 1g,Silver,Market,114.44,128.12,138.84,11.95,2025-06-12,Bangalore,2,10
+Gold 24K 1g,Gold,Market,5862.87,6851.94,7661.09,16.87,2025-05-19,Delhi,7,3
+Petrol 1L,Fuel,BPCL,80.16,91.64,100.83,14.32,2024-10-10,Hyderabad,5,19
+Onion 1kg,Vegetable,Local,64.58,70.97,75.89,9.89,2023-08-13,Delhi,8,12
+Realme GT,Mobile,Apple,41500.86,39761.12,38594.35,-4.19,2024-01-28,Hyderabad,1,7
+Galaxy S24,Mobile,Realme,70964.99,83125.04,93095.64,17.14,2024-12-23,Pune,9,14
+Gold 22K 1g,Gold,Market,4875.32,5411.8,5828.66,11.0,2023-01-26,Chennai,8,18
+Sugar 1kg,Grocery,Britannia,42.38,48.8,53.97,15.15,2023-06-06,Bangalore,6,5
+Onion 1kg,Vegetable,Local,28.98,31.29,33.04,7.97,2025-06-10,Hyderabad,10,0
+Tomato 1kg,Vegetable,Local,42.73,45.07,46.8,5.48,2024-07-23,Mumbai,4,7
+Redmi Note 14,Mobile,Samsung,72809.86,82257.98,89729.88,12.98,2025-01-28,Bangalore,5,7
+Potato 1kg,Vegetable,Local,28.74,33.61,37.6,16.95,2024-02-20,Delhi,7,21
+Gold 22K 1g,Gold,Market,6392.18,7593.24,8591.95,18.79,2024-09-27,Hyderabad,1,4
+Lenovo LOQ,Laptop,Dell,59273.99,67754.78,74540.72,14.31,2024-03-28,Chennai,9,20
+Gold 24K 1g,Gold,Market,5896.93,6299.19,6599.98,6.82,2023-04-27,Pune,1,20
+Redmi Note 14,Mobile,Apple,70175.96,80403.2,88605.61,14.57,2024-03-24,Mumbai,4,19
+Silver 1g,Silver,Market,95.79,117.82,136.79,23.0,2023-01-26,Kolkata,7,1
+Tomato 1kg,Vegetable,Local,45.99,47.02,47.76,2.24,2024-11-05,Mumbai,10,2
+Dell Inspiron,Laptop,Asus,42323.56,43203.18,43831.71,2.08,2023-01-22,Bangalore,4,11
+Asus TUF,Laptop,Dell,79562.63,87974.71,94485.75,10.57,2023-05-25,Pune,2,18
+Silver 1g,Silver,Market,83.18,91.64,98.16,10.17,2025-03-03,Hyderabad,1,15
+Galaxy S24,Mobile,Apple,13925.21,17364.26,20366.12,24.7,2023-10-27,Chennai,3,4
+Diesel 1L,Fuel,HP,99.42,125.43,148.4,26.16,2024-03-12,Chennai,10,10
+Diesel 1L,Fuel,BPCL,84.5,89.84,93.81,6.32,2023-11-01,Hyderabad,6,1
+Premium Rice 1kg,Rice,Local,51.39,61.45,69.87,19.58,2024-03-01,Bangalore,5,20
+Asus TUF,Laptop,Lenovo,74051.26,93720.66,111146.43,26.56,2024-12-12,Bangalore,3,25
+Normal Rice 1kg,Rice,Fortune,44.36,45.67,46.61,2.95,2023-03-12,Chennai,5,19
+Realme GT,Mobile,Realme,71045.24,87417.24,101518.63,23.04,2025-01-12,Bangalore,7,22
+OnePlus 12,Mobile,Samsung,11240.85,13083.43,14584.66,16.39,2024-05-22,Kolkata,10,10
+HP Victus,Laptop,Asus,40032.89,43885.37,46841.62,9.62,2023-06-06,Bangalore,4,20
+Dell Inspiron,Laptop,Lenovo,58676.58,63611.84,67357.09,8.41,2023-01-25,Mumbai,8,6
+Dell Inspiron,Laptop,Lenovo,51412.66,66214.32,79558.45,28.79,2023-07-23,Bangalore,7,5
+Sugar 1kg,Grocery,Madhur,46.71,56.12,64.03,20.15,2023-10-01,Delhi,8,5
+Gold 24K 1g,Gold,Market,6265.24,7201.5,7954.82,14.94,2024-03-29,Bangalore,2,25
+Silver 1g,Silver,Market,105.99,111.51,115.58,5.21,2023-11-22,Pune,6,23
+Premium Rice 1kg,Rice,IndiaGate,54.23,55.26,55.99,1.9,2025-06-07,Hyderabad,9,12
+Onion 1kg,Vegetable,Local,19.98,25.02,29.44,25.23,2023-09-01,Mumbai,2,11
+Petrol 1L,Fuel,IndianOil,99.82,114.37,126.04,14.58,2024-09-05,Kolkata,7,10
+Tomato 1kg,Vegetable,Local,32.14,33.78,34.99,5.1,2024-05-15,Bangalore,9,24
+Diesel 1L,Fuel,HP,116.06,125.71,133.03,8.31,2024-02-04,Mumbai,6,20
+Normal Rice 1kg,Rice,IndiaGate,44.58,52.36,58.76,17.45,2023-11-01,Pune,4,7
+Potato 1kg,Vegetable,Local,58.52,63.95,68.1,9.28,2023-12-18,Bangalore,4,8
+Bread,Grocery,Madhur,93.61,100.44,105.57,7.3,2023-07-26,Bangalore,2,19
+Premium Rice 1kg,Rice,Fortune,72.51,85.87,96.95,18.43,2023-05-23,Kolkata,4,19
+Petrol 1L,Fuel,IndianOil,99.21,98.41,97.85,-0.81,2025-06-05,Chennai,9,16
+Normal Rice 1kg,Rice,Fortune,72.52,81.64,88.83,12.58,2024-03-21,Pune,5,4
+Gold 24K 1g,Gold,Market,4744.72,5722.86,6548.71,20.62,2024-10-05,Bangalore,8,12
+Bread,Grocery,Madhur,86.06,100.33,111.98,16.58,2023-05-11,Delhi,5,10
+Asus TUF,Laptop,Asus,43946.43,44418.55,44752.58,1.07,2024-05-21,Pune,7,12
+Normal Rice 1kg,Rice,Fortune,45.2,53.55,60.47,18.47,2024-05-09,Hyderabad,5,15
+Gold 24K 1g,Gold,Market,6156.54,7987.14,9649.58,29.73,2025-01-05,Hyderabad,7,24
+Onion 1kg,Vegetable,Local,37.44,42.95,47.37,14.72,2024-08-15,Bangalore,6,20
+HP Victus,Laptop,Dell,78730.21,78302.41,78004.58,-0.54,2023-10-10,Kolkata,5,0
+Silver 1g,Silver,Market,105.7,120.48,132.27,13.98,2024-06-11,Hyderabad,1,9
+Asus TUF,Laptop,Dell,79101.4,86885.62,92870.8,9.84,2024-03-16,Delhi,9,13
+Bread,Grocery,Madhur,106.01,114.95,121.74,8.43,2023-08-31,Delhi,7,15
+Redmi Note 14,Mobile,Xiaomi,53449.28,63839.33,72526.18,19.44,2025-05-11,Chennai,7,3
+Diesel 1L,Fuel,HP,100.43,108.96,115.44,8.49,2023-04-23,Kolkata,5,24
+Sugar 1kg,Grocery,Aashirvaad,80.62,90.32,97.93,12.03,2024-10-30,Hyderabad,9,7
+Diesel 1L,Fuel,IndianOil,87.35,114.56,139.54,31.15,2023-08-13,Bangalore,8,10
+Onion 1kg,Vegetable,Local,42.17,53.03,62.59,25.75,2024-04-03,Hyderabad,3,25
+Silver 1g,Silver,Market,61.04,66.08,69.9,8.26,2024-10-11,Mumbai,10,19
+Tomato 1kg,Vegetable,Local,47.31,54.15,59.63,14.46,2024-11-03,Delhi,9,7
+Milk 1L,Grocery,Amul,26.94,31.32,34.88,16.26,2023-10-01,Delhi,8,15
+Diesel 1L,Fuel,HP,99.24,110.73,119.7,11.58,2024-08-03,Delhi,4,3
+Onion 1kg,Vegetable,Local,25.8,32.26,37.91,25.04,2023-04-30,Delhi,8,4
+Wheat Flour,Grocery,Amul,49.88,55.73,60.31,11.73,2023-11-06,Kolkata,2,25
+Gold 24K 1g,Gold,Market,5534.83,7139.97,8589.42,29.0,2025-04-24,Kolkata,3,20
+Bread,Grocery,Amul,21.79,26.88,31.28,23.36,2024-06-09,Delhi,5,15
+Silver 1g,Silver,Market,62.54,76.59,88.63,22.47,2025-04-26,Mumbai,2,1
+Normal Rice 1kg,Rice,Local,56.61,63.99,69.83,13.04,2025-02-23,Mumbai,6,23
+Gold 22K 1g,Gold,Market,5161.64,5676.84,6073.48,9.98,2025-04-25,Kolkata,3,19
+Silver 1g,Silver,Market,85.69,94.93,102.1,10.78,2025-01-04,Hyderabad,9,8
+Gold 24K 1g,Gold,Market,6886.38,7188.16,7408.66,4.38,2024-07-31,Mumbai,3,23
+HP Victus,Laptop,Asus,90109.43,91525.47,92532.27,1.57,2024-09-14,Mumbai,1,6
+Realme GT,Mobile,Samsung,76599.57,76708.29,76784.5,0.14,2024-03-14,Pune,7,11
+Silver 1g,Silver,Market,59.56,73.46,85.46,23.34,2023-12-02,Pune,4,23
+Silver 1g,Silver,Market,61.77,68.34,73.43,10.64,2025-06-04,Pune,8,9
+HP Victus,Laptop,HP,100631.17,117429.71,131151.64,16.69,2023-02-06,Bangalore,2,10
+Wheat Flour,Grocery,Britannia,48.99,53.86,57.61,9.94,2025-01-13,Kolkata,5,11
+Gold 24K 1g,Gold,Market,6169.85,7089.64,7829.48,14.91,2023-09-10,Mumbai,4,14
+Premium Rice 1kg,Rice,Fortune,61.56,75.24,86.94,22.22,2024-11-12,Chennai,7,2
+Tomato 1kg,Vegetable,Local,72.94,78.33,82.38,7.39,2024-06-10,Delhi,7,24
+Diesel 1L,Fuel,BPCL,93.78,121.57,146.79,29.63,2025-05-27,Bangalore,8,3
+Silver 1g,Silver,Market,100.8,122.81,141.58,21.84,2023-02-22,Chennai,9,2
+Petrol 1L,Fuel,BPCL,102.46,129.8,154.04,26.68,2023-04-07,Mumbai,7,4
+Redmi Note 14,Mobile,Apple,61057.86,68701.19,74721.28,12.52,2024-11-01,Hyderabad,9,4
+Lenovo LOQ,Laptop,Asus,98240.93,103491.37,107363.1,5.34,2024-04-11,Bangalore,2,24
+Silver 1g,Silver,Market,62.45,65.16,67.14,4.34,2023-06-02,Mumbai,4,14
+Dell Inspiron,Laptop,Asus,48410.74,56077.62,62294.39,15.84,2023-10-05,Delhi,7,19
+Asus TUF,Laptop,Asus,95937.64,103708.65,109588.98,8.1,2023-03-05,Mumbai,5,9
+Wheat Flour,Grocery,Amul,41.72,50.91,58.76,22.03,2023-11-04,Chennai,6,4
+Potato 1kg,Vegetable,Local,24.15,30.95,37.05,28.16,2023-05-08,Kolkata,10,8
+Diesel 1L,Fuel,BPCL,88.27,98.59,106.66,11.69,2024-12-21,Hyderabad,3,18
+Premium Rice 1kg,Rice,Fortune,47.15,54.99,61.39,16.63,2023-02-06,Mumbai,2,3
+Silver 1g,Silver,Market,99.27,117.97,133.53,18.84,2024-09-02,Chennai,9,4
+Redmi Note 14,Mobile,OnePlus,36421.44,45470.08,53377.78,24.84,2023-10-23,Pune,6,12
+Asus TUF,Laptop,HP,86766.2,97091.94,105180.14,11.9,2023-11-10,Hyderabad,9,17
+OnePlus 12,Mobile,Apple,32961.34,36663.62,39546.31,11.23,2024-10-05,Chennai,5,24
+Milk 1L,Grocery,Aashirvaad,40.56,42.58,44.06,4.98,2023-06-25,Delhi,2,3
+Premium Rice 1kg,Rice,IndiaGate,55.78,54.43,53.51,-2.42,2025-05-22,Kolkata,10,9
+Petrol 1L,Fuel,HP,101.34,102.9,104.01,1.54,2024-10-05,Chennai,5,21
+HP Victus,Laptop,HP,80235.52,91240.78,100001.11,13.72,2024-05-18,Kolkata,3,14
+Diesel 1L,Fuel,HP,91.55,95.07,97.63,3.84,2024-10-31,Kolkata,10,11
+Dell Inspiron,Laptop,Lenovo,64008.77,78059.94,90054.91,21.95,2023-06-04,Chennai,5,22
+Silver 1g,Silver,Market,107.29,124.4,138.29,15.95,2024-03-31,Kolkata,5,10
+Gold 24K 1g,Gold,Market,5755.64,5604.21,5501.0,-2.63,2024-07-25,Delhi,5,15
+Gold 24K 1g,Gold,Market,5947.99,6934.74,7740.05,16.59,2023-08-12,Pune,3,2
+Milk 1L,Grocery,Madhur,42.58,42.38,42.24,-0.47,2023-06-23,Kolkata,5,0
+Wheat Flour,Grocery,Britannia,28.96,33.02,36.26,14.02,2024-07-28,Chennai,3,1
+Wheat Flour,Grocery,Amul,25.15,27.59,29.46,9.7,2024-02-04,Bangalore,2,6
+Milk 1L,Grocery,Amul,95.78,94.91,94.31,-0.91,2024-11-27,Mumbai,8,11
+Gold 22K 1g,Gold,Market,5702.11,6916.82,7948.25,21.3,2024-09-09,Bangalore,6,4
+Normal Rice 1kg,Rice,Local,44.83,55.98,65.73,24.87,2024-09-02,Hyderabad,5,0
+Diesel 1L,Fuel,HP,92.41,102.96,111.19,11.42,2023-01-23,Chennai,10,24
+Onion 1kg,Vegetable,Local,65.67,71.7,76.31,9.18,2023-02-01,Bangalore,8,23
+Diesel 1L,Fuel,HP,91.45,103.47,112.99,13.14,2025-03-07,Mumbai,8,25
+Diesel 1L,Fuel,HP,82.93,91.41,97.95,10.23,2023-01-16,Delhi,9,23
+Tomato 1kg,Vegetable,Local,71.01,76.69,80.98,8.0,2024-09-06,Chennai,7,8
+Silver 1g,Silver,Market,112.29,114.39,115.89,1.87,2023-10-04,Hyderabad,1,19
+Onion 1kg,Vegetable,Local,59.2,66.17,71.62,11.77,2023-01-11,Pune,3,19
+Normal Rice 1kg,Rice,Fortune,74.94,88.75,100.2,18.43,2023-07-21,Delhi,6,2
+Sugar 1kg,Grocery,Aashirvaad,58.97,68.31,75.88,15.84,2024-11-26,Mumbai,10,7
+Redmi Note 14,Mobile,Samsung,42773.6,49418.94,54793.38,15.54,2023-03-12,Bangalore,1,18
+Gold 24K 1g,Gold,Market,5601.05,5902.64,6125.12,5.38,2023-08-12,Delhi,7,6
+Sugar 1kg,Grocery,Britannia,113.93,126.76,136.75,11.26,2024-12-17,Bangalore,3,19
+Silver 1g,Silver,Market,64.53,68.11,70.76,5.55,2023-07-28,Pune,8,18
+Dell Inspiron,Laptop,Dell,64476.33,73510.6,80720.69,14.01,2023-09-09,Hyderabad,8,20
+Silver 1g,Silver,Market,94.17,123.7,150.85,31.36,2023-12-07,Mumbai,2,19
+Lenovo LOQ,Laptop,Lenovo,107044.02,111576.24,114883.12,4.23,2025-04-20,Hyderabad,4,1
+Potato 1kg,Vegetable,Local,59.98,63.0,65.22,5.04,2024-05-22,Chennai,10,8
+Silver 1g,Silver,Market,101.98,107.16,110.97,5.08,2024-10-20,Chennai,1,23
+Potato 1kg,Vegetable,Local,18.64,21.59,23.98,15.83,2023-03-01,Chennai,5,8
+Premium Rice 1kg,Rice,Local,49.3,54.5,58.52,10.55,2025-06-10,Hyderabad,7,6
+Normal Rice 1kg,Rice,Fortune,85.3,90.1,93.65,5.63,2024-10-03,Kolkata,7,20
+Galaxy S24,Mobile,Samsung,23952.75,25401.61,26477.16,6.05,2024-02-05,Delhi,8,14
+Milk 1L,Grocery,Amul,84.35,99.92,112.83,18.46,2024-04-26,Mumbai,10,14
+Tomato 1kg,Vegetable,Local,72.86,85.75,96.37,17.69,2025-05-25,Chennai,7,20
+Wheat Flour,Grocery,Britannia,78.81,101.11,121.14,28.3,2024-07-10,Chennai,7,7
+Silver 1g,Silver,Market,105.61,121.79,134.85,15.32,2024-05-13,Mumbai,3,24
+Petrol 1L,Fuel,IndianOil,94.04,108.87,120.89,15.77,2023-05-14,Kolkata,6,0
+Diesel 1L,Fuel,HP,82.26,90.26,96.4,9.73,2024-09-13,Delhi,6,3
+Lenovo LOQ,Laptop,Lenovo,87368.78,100449.59,110977.07,14.97,2025-05-22,Kolkata,5,20
+OnePlus 12,Mobile,Samsung,22825.77,28124.46,32694.56,23.21,2024-06-09,Pune,10,22
+Silver 1g,Silver,Market,81.68,87.72,92.26,7.39,2024-05-02,Mumbai,6,14
+Silver 1g,Silver,Market,91.02,107.33,120.79,17.92,2025-02-13,Kolkata,2,1
+Lenovo LOQ,Laptop,Lenovo,59297.35,64922.83,69234.24,9.49,2024-10-08,Mumbai,4,9
+Onion 1kg,Vegetable,Local,26.18,26.93,27.47,2.86,2023-01-03,Hyderabad,7,1
+Potato 1kg,Vegetable,Local,25.37,27.81,29.68,9.62,2024-01-10,Chennai,1,20
+Sugar 1kg,Grocery,Aashirvaad,91.34,90.28,89.55,-1.16,2023-09-11,Delhi,9,12
+Potato 1kg,Vegetable,Local,47.05,56.96,65.36,21.06,2025-05-29,Kolkata,10,16
+Gold 24K 1g,Gold,Market,5955.3,6794.66,7465.02,14.09,2025-05-26,Pune,7,10
+Silver 1g,Silver,Market,100.58,122.99,142.17,22.28,2024-04-24,Kolkata,3,3
+Silver 1g,Silver,Market,71.45,91.6,109.68,28.2,2023-02-27,Delhi,3,21
+Onion 1kg,Vegetable,Local,70.89,82.73,92.4,16.7,2024-02-23,Chennai,5,23
+Silver 1g,Silver,Market,113.87,134.79,152.12,18.37,2024-05-02,Delhi,6,4
+Normal Rice 1kg,Rice,Fortune,56.91,66.47,74.29,16.8,2023-11-29,Delhi,3,24
+Normal Rice 1kg,Rice,Fortune,47.63,55.84,62.58,17.24,2024-12-30,Pune,4,3
+Gold 22K 1g,Gold,Market,4853.89,5560.48,6127.09,14.56,2025-06-19,Bangalore,2,16
+Premium Rice 1kg,Rice,IndiaGate,77.56,81.23,83.92,4.73,2023-12-19,Pune,10,6
+Normal Rice 1kg,Rice,Fortune,82.41,83.73,84.67,1.6,2023-06-15,Kolkata,7,22
+OnePlus 12,Mobile,Apple,37256.1,39532.02,41222.49,6.11,2024-08-20,Chennai,2,17
+Potato 1kg,Vegetable,Local,40.3,50.33,59.1,24.89,2023-04-29,Kolkata,6,3
+Onion 1kg,Vegetable,Local,18.7,20.51,21.9,9.68,2023-04-11,Mumbai,6,11
+iPhone 15,Mobile,Apple,59638.36,72578.12,83601.23,21.7,2024-09-05,Chennai,8,6
+Bread,Grocery,Amul,92.25,99.45,104.88,7.8,2024-04-02,Mumbai,6,3
+Onion 1kg,Vegetable,Local,68.55,83.32,95.89,21.55,2023-07-24,Delhi,7,9
+Tomato 1kg,Vegetable,Local,51.93,51.22,50.73,-1.37,2025-01-07,Hyderabad,1,9
+Petrol 1L,Fuel,HP,86.07,98.5,108.46,14.44,2024-04-29,Pune,10,2
+Silver 1g,Silver,Market,90.7,93.53,95.57,3.12,2023-03-17,Delhi,6,1
+Potato 1kg,Vegetable,Local,32.95,31.99,31.34,-2.91,2023-04-26,Kolkata,9,10
+Tomato 1kg,Vegetable,Local,50.01,56.15,60.98,12.28,2023-05-19,Pune,1,8
+Tomato 1kg,Vegetable,Local,26.4,32.54,37.84,23.26,2023-04-30,Delhi,8,25
+Realme GT,Mobile,Realme,65445.53,71138.74,75470.67,8.7,2024-12-13,Delhi,6,10
+Diesel 1L,Fuel,HP,82.92,98.41,111.28,18.68,2023-10-26,Pune,10,11
+Silver 1g,Silver,Market,77.4,88.6,97.57,14.47,2023-10-09,Pune,10,7
+OnePlus 12,Mobile,Samsung,81517.46,87151.27,91367.49,6.91,2025-01-13,Mumbai,9,6
+Silver 1g,Silver,Market,99.0,113.06,124.3,14.2,2025-03-31,Kolkata,10,12
+Premium Rice 1kg,Rice,Fortune,45.76,45.43,45.2,-0.72,2023-09-11,Delhi,4,25
+Dell Inspiron,Laptop,Asus,32324.12,36258.83,39348.4,12.17,2023-02-08,Mumbai,6,4
+Tomato 1kg,Vegetable,Local,45.03,51.16,56.04,13.61,2024-04-13,Mumbai,1,23
+Premium Rice 1kg,Rice,Fortune,47.23,60.18,71.73,27.42,2025-06-14,Hyderabad,7,1
+Gold 24K 1g,Gold,Market,5264.6,5535.13,5734.23,5.14,2025-02-05,Bangalore,4,19
+Petrol 1L,Fuel,IndianOil,109.79,121.22,130.05,10.41,2024-09-12,Delhi,5,16
+Lenovo LOQ,Laptop,Asus,69663.78,76929.1,82545.22,10.43,2025-05-11,Hyderabad,6,4
+Silver 1g,Silver,Market,76.69,85.67,92.69,11.71,2023-11-18,Pune,8,4
+Silver 1g,Silver,Market,99.32,111.95,121.92,12.72,2024-05-11,Kolkata,7,1
+Silver 1g,Silver,Market,75.88,92.71,107.1,22.18,2023-11-27,Mumbai,6,2
+Petrol 1L,Fuel,IndianOil,91.26,108.66,123.16,19.07,2023-02-01,Mumbai,3,7
+Silver 1g,Silver,Market,55.31,61.87,67.01,11.86,2024-04-30,Hyderabad,7,4
+Silver 1g,Silver,Market,109.5,108.82,108.35,-0.62,2024-02-04,Bangalore,7,11
+Galaxy S24,Mobile,Xiaomi,64873.69,80072.46,93204.16,23.43,2024-12-08,Mumbai,7,3
+Silver 1g,Silver,Market,117.42,134.85,148.86,14.84,2023-11-01,Mumbai,8,25
+Premium Rice 1kg,Rice,IndiaGate,59.51,71.27,81.13,19.76,2024-09-11,Mumbai,3,9
+Silver 1g,Silver,Market,84.8,90.95,95.57,7.25,2024-09-19,Pune,1,2
+Asus TUF,Laptop,HP,39386.3,38766.0,38338.63,-1.57,2024-01-20,Kolkata,10,5
+HP Victus,Laptop,Dell,93081.48,109012.53,122072.9,17.12,2023-07-30,Mumbai,7,20
+Wheat Flour,Grocery,Madhur,27.38,30.64,33.19,11.91,2024-12-16,Chennai,8,7
+Premium Rice 1kg,Rice,IndiaGate,78.44,93.62,106.3,19.35,2023-05-20,Kolkata,7,24
+Redmi Note 14,Mobile,Realme,41056.82,42976.28,44382.72,4.68,2024-09-12,Chennai,6,9
+Onion 1kg,Vegetable,Local,68.68,78.08,85.56,13.69,2025-02-23,Bangalore,9,11
+Onion 1kg,Vegetable,Local,52.52,60.4,66.74,15.0,2023-12-19,Hyderabad,6,8
+iPhone 15,Mobile,Realme,79808.59,86449.97,91485.81,8.32,2023-09-19,Chennai,3,14
+Gold 24K 1g,Gold,Market,5480.87,5397.0,5339.19,-1.53,2023-08-23,Pune,6,0
+Petrol 1L,Fuel,IndianOil,80.74,85.93,89.8,6.43,2024-05-31,Bangalore,9,19
+Potato 1kg,Vegetable,Local,44.18,47.02,49.14,6.43,2023-02-15,Delhi,10,13
+HP Victus,Laptop,Lenovo,84250.65,91005.15,96112.36,8.02,2024-01-08,Hyderabad,3,10
+iPhone 15,Mobile,Xiaomi,20749.64,23023.78,24790.15,10.96,2023-02-19,Bangalore,6,13
+Sugar 1kg,Grocery,Madhur,23.86,28.77,32.91,20.58,2024-09-25,Chennai,9,13
+Gold 24K 1g,Gold,Market,6008.0,6418.71,6725.86,6.84,2023-11-21,Hyderabad,4,8
+Gold 24K 1g,Gold,Market,5880.15,6962.58,7859.76,18.41,2023-08-18,Chennai,1,11
+Gold 24K 1g,Gold,Market,5206.43,6424.95,7477.54,23.4,2023-10-30,Hyderabad,7,14
+Dell Inspiron,Laptop,HP,97514.9,103987.5,108819.06,6.64,2025-06-07,Pune,4,7
+Sugar 1kg,Grocery,Britannia,40.49,50.55,59.34,24.85,2025-02-12,Pune,6,22
+Lenovo LOQ,Laptop,HP,105487.0,118910.7,129503.05,12.73,2024-08-03,Bangalore,2,7
+Potato 1kg,Vegetable,Local,66.84,85.78,102.79,28.34,2025-01-07,Hyderabad,7,6
+Dell Inspiron,Laptop,Dell,50047.31,57474.07,63444.27,14.84,2023-04-08,Pune,2,2
+Milk 1L,Grocery,Britannia,61.84,68.0,72.74,9.96,2023-02-24,Chennai,4,0
+Premium Rice 1kg,Rice,Local,39.26,52.67,65.26,34.16,2024-07-14,Pune,7,1
+Lenovo LOQ,Laptop,Lenovo,117895.19,133856.66,146542.37,13.54,2025-01-01,Pune,2,17
+Galaxy S24,Mobile,Apple,41170.12,42593.28,43623.93,3.46,2023-07-03,Pune,8,2
+Gold 24K 1g,Gold,Market,7444.41,7600.13,7711.41,2.09,2024-11-03,Bangalore,3,14
+Potato 1kg,Vegetable,Local,26.71,32.87,38.18,23.06,2024-12-24,Pune,3,24
+Asus TUF,Laptop,Lenovo,101530.46,114391.03,124533.74,12.67,2023-06-15,Hyderabad,3,4
+Diesel 1L,Fuel,HP,80.0,82.0,83.44,2.5,2024-10-28,Delhi,6,10
+Silver 1g,Silver,Market,72.62,89.5,104.06,23.24,2024-01-02,Chennai,1,7
+HP Victus,Laptop,Asus,98874.75,128369.13,155173.93,29.83,2024-09-18,Chennai,10,18
+Realme GT,Mobile,Realme,25461.47,29640.26,33045.5,16.41,2023-05-28,Delhi,4,18
+Milk 1L,Grocery,Britannia,64.92,75.45,84.02,16.22,2023-05-16,Chennai,2,10
+Normal Rice 1kg,Rice,Fortune,65.2,71.09,75.59,9.03,2023-06-06,Mumbai,9,25
+Bread,Grocery,Amul,72.56,85.09,95.38,17.27,2025-06-16,Delhi,2,9
+Potato 1kg,Vegetable,Local,32.29,32.55,32.73,0.81,2024-06-19,Hyderabad,6,7
+Redmi Note 14,Mobile,Apple,36546.63,42691.6,47716.33,16.81,2023-08-28,Kolkata,6,5
+Asus TUF,Laptop,Dell,49219.4,51548.5,53256.02,4.73,2024-09-23,Delhi,6,13
+Potato 1kg,Vegetable,Local,51.29,53.67,55.41,4.64,2023-08-18,Chennai,9,16
+Potato 1kg,Vegetable,Local,33.28,36.18,38.39,8.71,2025-03-19,Bangalore,4,23
+Gold 22K 1g,Gold,Market,6834.77,7159.87,7398.26,4.76,2024-08-28,Bangalore,7,4
+Silver 1g,Silver,Market,107.78,129.46,147.69,20.12,2023-03-14,Bangalore,7,18
+Silver 1g,Silver,Market,87.07,99.6,109.63,14.39,2023-03-18,Mumbai,4,4
+Silver 1g,Silver,Market,54.31,71.22,86.74,31.14,2023-10-13,Delhi,3,14
+Petrol 1L,Fuel,IndianOil,107.54,135.57,160.31,26.06,2024-05-22,Kolkata,5,23
+Gold 22K 1g,Gold,Market,5359.62,6827.12,8135.64,27.38,2023-02-17,Hyderabad,8,2
+Silver 1g,Silver,Market,57.01,67.23,75.67,17.93,2024-06-14,Bangalore,10,15
+Galaxy S24,Mobile,OnePlus,70981.8,83453.83,93718.25,17.57,2024-08-22,Mumbai,7,3
+Normal Rice 1kg,Rice,Local,64.15,79.77,93.37,24.35,2023-04-17,Hyderabad,7,5
+Gold 22K 1g,Gold,Market,5582.9,6311.88,6888.8,13.06,2025-05-24,Mumbai,10,17
+Silver 1g,Silver,Market,61.24,74.02,84.83,20.87,2024-07-06,Pune,9,6
+Realme GT,Mobile,Realme,26026.05,33628.93,40505.64,29.21,2023-03-15,Delhi,5,6
+Sugar 1kg,Grocery,Aashirvaad,111.7,117.07,121.01,4.81,2024-03-19,Pune,6,10
+Potato 1kg,Vegetable,Local,30.71,33.03,34.78,7.55,2024-02-11,Kolkata,5,10
+Dell Inspiron,Laptop,Dell,68408.26,74750.21,79601.14,9.27,2024-07-13,Delhi,6,4
+Silver 1g,Silver,Market,89.43,112.01,131.81,25.25,2024-08-13,Kolkata,9,3
+Silver 1g,Silver,Market,58.49,61.79,64.23,5.64,2023-04-02,Kolkata,6,20
+Premium Rice 1kg,Rice,Fortune,47.68,61.08,73.1,28.1,2023-05-07,Kolkata,10,19
+iPhone 15,Mobile,Xiaomi,50067.37,53289.57,55690.27,6.44,2024-05-17,Chennai,8,6
+Normal Rice 1kg,Rice,Fortune,51.39,50.17,49.34,-2.37,2024-12-27,Hyderabad,1,13
+Petrol 1L,Fuel,HP,97.88,125.31,149.89,28.02,2024-12-31,Bangalore,9,2
+Normal Rice 1kg,Rice,Fortune,60.2,72.92,83.71,21.13,2025-04-08,Chennai,10,16
+Premium Rice 1kg,Rice,IndiaGate,84.31,102.65,118.28,21.75,2024-01-16,Pune,9,7
+Realme GT,Mobile,Xiaomi,32913.01,36649.58,39562.12,11.35,2025-01-31,Hyderabad,3,23
+Bread,Grocery,Aashirvaad,79.18,79.49,79.71,0.39,2025-01-18,Bangalore,2,9
+Redmi Note 14,Mobile,Realme,72265.28,75415.21,77716.27,4.36,2024-09-24,Chennai,6,2
+Gold 24K 1g,Gold,Market,6900.39,7760.91,8438.39,12.47,2023-03-16,Chennai,8,5
+Silver 1g,Silver,Market,107.45,123.0,135.46,14.47,2023-01-14,Delhi,4,21
+Normal Rice 1kg,Rice,IndiaGate,63.87,75.43,84.99,18.1,2024-03-27,Mumbai,6,14
+Petrol 1L,Fuel,BPCL,111.0,108.75,107.21,-2.03,2023-01-18,Chennai,10,24
+Silver 1g,Silver,Market,95.72,107.21,116.22,12.0,2024-03-25,Chennai,3,6
+OnePlus 12,Mobile,Xiaomi,59143.47,65708.05,70813.3,11.1,2023-12-01,Kolkata,1,0
+Redmi Note 14,Mobile,Realme,61709.88,78094.21,92608.34,26.55,2023-06-04,Hyderabad,4,3
+Bread,Grocery,Madhur,91.28,107.52,120.91,17.79,2024-09-30,Mumbai,10,3
+Normal Rice 1kg,Rice,Local,59.34,61.89,63.75,4.3,2023-01-04,Chennai,6,4
+Bread,Grocery,Aashirvaad,103.65,120.11,133.46,15.88,2023-05-05,Delhi,3,25
+Petrol 1L,Fuel,BPCL,115.01,123.75,130.33,7.6,2023-12-16,Delhi,9,24
+Premium Rice 1kg,Rice,Fortune,40.94,43.19,44.85,5.5,2023-04-14,Hyderabad,4,2
+Onion 1kg,Vegetable,Local,56.26,64.65,71.4,14.91,2025-05-18,Delhi,8,13
+Normal Rice 1kg,Rice,Local,81.94,86.72,90.26,5.83,2025-04-26,Chennai,10,7
+Normal Rice 1kg,Rice,IndiaGate,43.67,47.59,50.58,8.98,2023-05-25,Mumbai,6,21
+Asus TUF,Laptop,HP,93186.2,112042.73,127913.28,20.24,2025-06-10,Bangalore,8,7
+Onion 1kg,Vegetable,Local,25.69,29.09,31.78,13.23,2023-07-22,Mumbai,10,7
+Asus TUF,Laptop,Asus,85167.52,101845.61,115806.49,19.58,2025-04-21,Chennai,9,3
+Petrol 1L,Fuel,BPCL,82.43,80.94,79.92,-1.81,2023-11-19,Delhi,1,22
+Gold 22K 1g,Gold,Market,4759.66,5335.14,5786.68,12.09,2023-11-30,Bangalore,1,5
+OnePlus 12,Mobile,OnePlus,60013.19,72595.07,83248.86,20.97,2024-03-08,Mumbai,6,14
+Petrol 1L,Fuel,IndianOil,109.92,112.6,114.52,2.44,2023-10-31,Kolkata,8,9
+Redmi Note 14,Mobile,Apple,12860.64,15372.28,17473.79,19.53,2025-03-19,Pune,6,3
+Lenovo LOQ,Laptop,Dell,115113.44,134113.19,149608.18,16.51,2024-03-08,Hyderabad,6,6
+Lenovo LOQ,Laptop,Lenovo,64419.87,64076.13,63836.8,-0.53,2024-01-05,Hyderabad,3,18
+iPhone 15,Mobile,OnePlus,56476.68,62360.08,66907.49,10.42,2024-02-19,Mumbai,9,8
+Onion 1kg,Vegetable,Local,49.28,48.04,47.19,-2.52,2024-01-11,Hyderabad,4,16
+Silver 1g,Silver,Market,96.9,109.97,120.35,13.49,2025-06-12,Kolkata,3,9
+Bread,Grocery,Britannia,53.7,59.57,64.13,10.93,2024-03-25,Pune,7,23
+Bread,Grocery,Britannia,91.55,116.48,138.68,27.23,2023-06-12,Bangalore,5,0
+Potato 1kg,Vegetable,Local,67.82,76.18,82.75,12.33,2024-02-04,Kolkata,4,18
+Premium Rice 1kg,Rice,Fortune,63.01,71.27,77.81,13.11,2025-03-12,Pune,3,22
+Normal Rice 1kg,Rice,IndiaGate,47.33,56.33,63.83,19.02,2023-07-02,Chennai,1,1
+Premium Rice 1kg,Rice,IndiaGate,51.1,54.23,56.56,6.13,2023-10-30,Pune,8,11
+HP Victus,Laptop,HP,71180.63,89353.67,105322.61,25.53,2024-07-31,Bangalore,4,9
+Diesel 1L,Fuel,BPCL,114.72,114.4,114.18,-0.28,2023-02-09,Pune,4,18
+Petrol 1L,Fuel,IndianOil,107.55,124.22,137.7,15.5,2024-03-19,Pune,7,8
+Petrol 1L,Fuel,IndianOil,85.69,106.11,123.81,23.83,2024-10-31,Pune,3,17
+Premium Rice 1kg,Rice,Local,49.03,53.28,56.51,8.67,2024-06-10,Hyderabad,1,14
+Gold 24K 1g,Gold,Market,5041.37,5169.72,5261.85,2.55,2024-12-13,Mumbai,6,22
+Asus TUF,Laptop,Lenovo,103322.92,125260.72,143877.7,21.23,2025-06-19,Pune,6,8
+Premium Rice 1kg,Rice,IndiaGate,68.43,73.43,77.19,7.31,2023-05-24,Chennai,7,25
+Gold 24K 1g,Gold,Market,6277.74,7168.93,7881.32,14.2,2023-12-01,Hyderabad,1,24
+HP Victus,Laptop,HP,105430.63,112916.09,118527.93,7.1,2023-10-28,Chennai,10,10
+Dell Inspiron,Laptop,Asus,76742.65,90083.07,101044.67,17.38,2024-11-20,Chennai,6,9
+Premium Rice 1kg,Rice,Fortune,74.99,77.82,79.88,3.77,2023-08-13,Mumbai,3,0
+Diesel 1L,Fuel,HP,98.8,106.36,112.06,7.65,2023-05-25,Kolkata,1,0
+Lenovo LOQ,Laptop,Dell,64095.51,61914.83,60440.29,-3.4,2024-04-08,Delhi,5,10
+Normal Rice 1kg,Rice,IndiaGate,38.77,43.55,47.31,12.33,2025-06-07,Hyderabad,4,1
+Realme GT,Mobile,OnePlus,12555.43,15315.49,17672.25,21.98,2024-09-05,Pune,7,8
+Tomato 1kg,Vegetable,Local,59.43,69.24,77.24,16.51,2023-01-27,Hyderabad,1,10
+Silver 1g,Silver,Market,90.79,108.57,123.45,19.58,2025-02-03,Kolkata,5,9
+Premium Rice 1kg,Rice,Fortune,40.92,50.48,58.74,23.36,2023-02-01,Chennai,10,5
+Galaxy S24,Mobile,Realme,18298.57,22030.13,25174.9,20.39,2025-01-23,Bangalore,5,4
+Silver 1g,Silver,Market,62.81,64.97,66.53,3.44,2024-12-11,Mumbai,10,6
+Silver 1g,Silver,Market,106.8,126.91,143.64,18.83,2024-10-15,Hyderabad,2,11
+Wheat Flour,Grocery,Aashirvaad,51.0,63.24,73.86,24.0,2023-10-29,Delhi,3,9
+Onion 1kg,Vegetable,Local,38.45,45.93,52.18,19.45,2024-09-25,Hyderabad,10,4
+Petrol 1L,Fuel,IndianOil,75.65,91.99,105.9,21.6,2025-03-09,Mumbai,4,10
+Milk 1L,Grocery,Amul,52.87,54.4,55.5,2.89,2025-04-12,Chennai,8,2
+Diesel 1L,Fuel,HP,83.84,93.17,100.43,11.13,2025-04-18,Kolkata,7,0
+Gold 22K 1g,Gold,Market,5702.66,6645.41,7414.43,16.53,2023-09-02,Delhi,10,14
+iPhone 15,Mobile,Xiaomi,24405.92,27919.79,30733.64,14.4,2024-09-01,Delhi,8,9
+Redmi Note 14,Mobile,Xiaomi,77735.32,82545.17,86120.39,6.19,2023-04-27,Chennai,7,6
+Silver 1g,Silver,Market,82.36,91.25,98.14,10.79,2024-11-08,Pune,8,12
+Normal Rice 1kg,Rice,Local,57.9,58.46,58.86,0.97,2023-04-22,Bangalore,7,14
+Tomato 1kg,Vegetable,Local,62.72,77.08,89.43,22.9,2024-12-02,Pune,3,7
+Diesel 1L,Fuel,IndianOil,97.14,99.86,101.82,2.8,2025-05-30,Mumbai,5,18
+Lenovo LOQ,Laptop,Lenovo,107221.3,114752.17,120394.04,7.02,2025-04-19,Hyderabad,3,7
+Silver 1g,Silver,Market,84.16,90.57,95.4,7.62,2025-04-28,Bangalore,10,18
+Realme GT,Mobile,Samsung,74497.87,84498.69,92439.04,13.42,2024-03-03,Kolkata,2,3
+Dell Inspiron,Laptop,HP,95522.71,100161.18,103565.78,4.86,2025-01-13,Pune,9,3
+Gold 24K 1g,Gold,Market,5902.41,6992.04,7895.59,18.46,2024-06-13,Bangalore,4,15
+Tomato 1kg,Vegetable,Local,34.46,39.78,44.08,15.44,2025-03-16,Delhi,6,4
+Silver 1g,Silver,Market,71.95,74.6,76.52,3.68,2023-03-07,Delhi,1,2
+Normal Rice 1kg,Rice,Fortune,36.21,38.79,40.72,7.13,2024-12-19,Chennai,8,12
+Diesel 1L,Fuel,IndianOil,74.64,86.42,95.97,15.78,2024-07-18,Kolkata,1,23
+HP Victus,Laptop,Dell,62610.9,64300.63,65515.36,2.7,2023-07-16,Mumbai,8,20
+iPhone 15,Mobile,OnePlus,76499.38,84544.56,90768.44,10.52,2023-02-27,Pune,1,12
+Potato 1kg,Vegetable,Local,73.42,76.39,78.55,4.05,2023-04-08,Bangalore,7,6
+Wheat Flour,Grocery,Aashirvaad,112.81,136.78,157.12,21.25,2023-06-29,Bangalore,6,18
+Potato 1kg,Vegetable,Local,66.21,73.95,80.0,11.69,2023-10-04,Mumbai,8,5
+Onion 1kg,Vegetable,Local,20.03,22.83,25.06,13.98,2025-05-09,Mumbai,2,14
+Onion 1kg,Vegetable,Local,46.06,59.07,70.75,28.25,2024-07-12,Hyderabad,8,15
+Normal Rice 1kg,Rice,IndiaGate,39.3,49.22,57.92,25.24,2023-07-12,Delhi,6,23
+HP Victus,Laptop,Lenovo,67334.83,86996.05,104777.54,29.2,2025-05-17,Chennai,2,13
+Silver 1g,Silver,Market,76.64,100.53,122.47,31.17,2025-02-26,Bangalore,5,7
+Milk 1L,Grocery,Madhur,104.43,137.39,167.74,31.56,2024-02-13,Kolkata,5,5
+Gold 24K 1g,Gold,Market,5919.2,6857.96,7619.31,15.86,2024-11-13,Mumbai,3,14
+Wheat Flour,Grocery,Madhur,68.21,72.4,75.51,6.14,2023-06-22,Kolkata,5,6
+Realme GT,Mobile,Apple,41015.13,50248.73,58167.36,22.51,2024-03-19,Kolkata,2,23
+Bread,Grocery,Britannia,55.45,64.9,72.64,17.04,2025-03-13,Delhi,6,4
+Normal Rice 1kg,Rice,Fortune,70.4,75.85,79.96,7.74,2025-01-01,Chennai,2,15
+Tomato 1kg,Vegetable,Local,74.52,75.91,76.9,1.87,2023-10-12,Bangalore,9,2
+Redmi Note 14,Mobile,Xiaomi,51047.51,55759.2,59361.81,9.23,2023-11-12,Hyderabad,8,18
+Gold 24K 1g,Gold,Market,5706.46,6226.54,6623.78,9.11,2024-06-08,Bangalore,6,0
+Galaxy S24,Mobile,Apple,24082.87,26033.84,27510.15,8.1,2024-11-21,Bangalore,3,22
+Galaxy S24,Mobile,Xiaomi,79918.69,84447.53,87797.37,5.67,2024-02-24,Pune,5,13
+Silver 1g,Silver,Market,100.9,102.62,103.84,1.7,2023-11-06,Hyderabad,6,6
+Sugar 1kg,Grocery,Madhur,43.65,54.02,63.0,23.76,2023-04-12,Pune,8,20
+Petrol 1L,Fuel,IndianOil,97.82,105.42,111.15,7.77,2024-04-25,Bangalore,7,0
+Gold 24K 1g,Gold,Market,6589.64,6933.7,7187.12,5.22,2023-08-02,Kolkata,3,1
+Dell Inspiron,Laptop,Lenovo,43921.56,50108.6,55049.61,14.09,2024-06-12,Pune,2,12
+Dell Inspiron,Laptop,Asus,62343.06,73699.53,83097.15,18.22,2024-11-18,Delhi,5,12
+Sugar 1kg,Grocery,Britannia,80.14,90.61,98.9,13.06,2024-11-15,Chennai,6,17
+Lenovo LOQ,Laptop,Asus,64792.81,80541.83,94245.8,24.31,2023-11-28,Pune,10,5
+Milk 1L,Grocery,Aashirvaad,52.5,62.9,71.62,19.81,2025-02-06,Chennai,1,19
+Gold 22K 1g,Gold,Market,5277.92,6576.07,7708.28,24.6,2023-06-04,Chennai,5,7
+Silver 1g,Silver,Market,82.73,90.06,95.65,8.86,2023-09-04,Mumbai,10,15
+Gold 24K 1g,Gold,Market,6639.76,8071.31,9289.45,21.56,2023-09-06,Pune,6,19
+Tomato 1kg,Vegetable,Local,46.49,52.95,58.1,13.9,2023-04-24,Pune,8,13
+HP Victus,Laptop,Asus,34069.42,43688.92,52323.82,28.23,2023-12-17,Delhi,4,10
+Gold 24K 1g,Gold,Market,5360.07,6841.19,8164.46,27.63,2023-03-14,Delhi,5,25
+Silver 1g,Silver,Market,93.43,110.68,124.98,18.46,2025-03-03,Mumbai,1,11
+iPhone 15,Mobile,OnePlus,25044.07,30672.9,35498.66,22.48,2025-01-20,Hyderabad,6,6
+Lenovo LOQ,Laptop,Dell,34870.86,38132.45,40629.11,9.35,2024-11-18,Delhi,6,20
+Normal Rice 1kg,Rice,IndiaGate,50.46,57.55,63.21,14.05,2023-06-21,Chennai,8,14
+Silver 1g,Silver,Market,75.29,94.24,110.84,25.17,2024-11-18,Delhi,4,4
+Potato 1kg,Vegetable,Local,34.2,38.82,42.49,13.51,2024-01-22,Delhi,5,7
+Galaxy S24,Mobile,Samsung,62716.2,66589.6,69468.44,6.18,2025-05-09,Chennai,5,19
+Wheat Flour,Grocery,Aashirvaad,87.47,91.07,93.69,4.12,2023-02-20,Delhi,4,7
+Normal Rice 1kg,Rice,Local,78.13,88.26,96.27,12.97,2023-10-20,Bangalore,10,4
+Potato 1kg,Vegetable,Local,53.72,63.15,70.91,17.55,2025-05-05,Hyderabad,8,19
+Tomato 1kg,Vegetable,Local,46.17,50.41,53.65,9.18,2024-01-02,Hyderabad,1,14
+HP Victus,Laptop,Lenovo,100885.58,113081.5,122650.69,12.09,2023-06-07,Kolkata,3,25
+Silver 1g,Silver,Market,112.34,120.2,126.09,7.0,2024-01-31,Pune,10,0
+Normal Rice 1kg,Rice,Local,42.81,42.46,42.22,-0.82,2024-09-27,Hyderabad,9,10
+Silver 1g,Silver,Market,86.67,95.22,101.8,9.87,2023-07-14,Chennai,2,4
+Silver 1g,Silver,Market,85.98,107.63,126.6,25.18,2024-01-30,Bangalore,9,14
+Diesel 1L,Fuel,HP,106.03,125.14,140.93,18.02,2025-05-10,Kolkata,3,22
+Diesel 1L,Fuel,BPCL,98.33,108.26,115.91,10.1,2024-11-13,Mumbai,10,22
+Milk 1L,Grocery,Amul,75.77,82.53,87.68,8.92,2024-12-10,Kolkata,2,14
+Silver 1g,Silver,Market,70.44,72.66,74.26,3.15,2023-11-30,Mumbai,9,18
+Lenovo LOQ,Laptop,Lenovo,84920.42,108718.52,130045.62,28.02,2023-02-23,Delhi,1,0
+Lenovo LOQ,Laptop,Dell,61978.25,70092.17,76515.48,13.09,2023-08-08,Hyderabad,10,12
+Silver 1g,Silver,Market,82.85,96.91,108.42,16.97,2023-07-10,Pune,4,20
+Sugar 1kg,Grocery,Aashirvaad,71.32,71.72,72.0,0.56,2024-02-24,Delhi,9,17
+Realme GT,Mobile,Apple,76947.53,85534.41,92216.0,11.16,2024-06-05,Chennai,9,14
+Sugar 1kg,Grocery,Madhur,35.83,37.88,39.4,5.72,2024-04-28,Delhi,4,3
+Petrol 1L,Fuel,BPCL,95.44,101.29,105.64,6.13,2023-11-24,Delhi,7,7
+Silver 1g,Silver,Market,79.83,102.17,122.18,27.98,2023-11-12,Kolkata,6,12
+Premium Rice 1kg,Rice,Fortune,71.94,82.65,91.26,14.89,2025-04-14,Pune,2,5
+Onion 1kg,Vegetable,Local,46.75,50.68,53.66,8.41,2023-09-08,Delhi,4,25
+Lenovo LOQ,Laptop,Lenovo,96003.99,127438.13,156646.66,32.74,2023-03-23,Kolkata,10,21
+Petrol 1L,Fuel,BPCL,105.74,110.15,113.37,4.17,2023-12-07,Chennai,7,4
+Bread,Grocery,Amul,100.94,126.49,148.9,25.31,2024-09-28,Bangalore,3,15
+Gold 22K 1g,Gold,Market,6231.78,7169.22,7924.14,15.04,2023-12-25,Mumbai,2,22
+Tomato 1kg,Vegetable,Local,33.08,39.52,44.91,19.47,2023-10-04,Mumbai,5,22
+Gold 24K 1g,Gold,Market,5674.41,6708.26,7563.81,18.22,2023-04-10,Chennai,3,9
+Potato 1kg,Vegetable,Local,48.77,59.07,67.8,21.12,2025-03-23,Chennai,5,4
+Petrol 1L,Fuel,IndianOil,92.6,93.58,94.27,1.06,2023-06-08,Chennai,4,2
+Petrol 1L,Fuel,BPCL,117.09,113.12,110.44,-3.39,2024-03-12,Hyderabad,5,8
+Normal Rice 1kg,Rice,Local,40.51,48.08,54.37,18.69,2024-10-28,Delhi,10,15
+Premium Rice 1kg,Rice,Local,65.62,71.12,75.29,8.38,2024-12-12,Kolkata,9,3
+Asus TUF,Laptop,Asus,93770.47,111993.13,127227.87,19.43,2023-08-26,Hyderabad,10,22
+Onion 1kg,Vegetable,Local,29.81,34.23,37.78,14.83,2025-01-28,Pune,4,24
+Petrol 1L,Fuel,BPCL,83.77,97.18,108.07,16.01,2023-09-12,Bangalore,1,14
+Dell Inspiron,Laptop,Asus,67311.96,67993.96,68476.2,1.01,2024-01-07,Kolkata,4,19
+Gold 24K 1g,Gold,Market,4719.0,5426.97,5996.9,15.0,2023-11-27,Hyderabad,7,0
+Silver 1g,Silver,Market,110.66,119.16,125.57,7.68,2025-06-19,Pune,5,8
+Gold 24K 1g,Gold,Market,5278.64,6152.83,6866.1,16.56,2023-06-07,Kolkata,5,19
+Premium Rice 1kg,Rice,Local,53.63,63.47,71.62,18.35,2023-03-10,Chennai,4,13
+Gold 22K 1g,Gold,Market,6018.36,6517.0,6894.97,8.29,2024-07-05,Hyderabad,9,9
+Gold 22K 1g,Gold,Market,6018.45,6292.05,6492.28,4.55,2025-04-25,Kolkata,3,16
+Diesel 1L,Fuel,IndianOil,100.23,102.78,104.61,2.54,2024-01-22,Delhi,9,20
+Sugar 1kg,Grocery,Britannia,38.25,47.73,56.01,24.78,2023-04-07,Delhi,1,18
+Diesel 1L,Fuel,IndianOil,87.77,94.92,100.33,8.15,2024-08-12,Bangalore,8,25
+Normal Rice 1kg,Rice,Fortune,60.28,62.85,64.73,4.26,2024-01-14,Delhi,2,19
+Premium Rice 1kg,Rice,Local,68.42,83.02,95.42,21.34,2024-07-14,Bangalore,6,19
+Gold 22K 1g,Gold,Market,5072.82,5548.06,5911.89,9.37,2023-08-06,Kolkata,10,18
+Petrol 1L,Fuel,HP,74.15,87.55,98.63,18.07,2023-07-06,Kolkata,2,5
+Petrol 1L,Fuel,IndianOil,98.12,107.16,114.07,9.21,2023-06-03,Chennai,9,4
+Petrol 1L,Fuel,HP,111.71,135.67,156.04,21.45,2024-04-19,Bangalore,9,16
+Potato 1kg,Vegetable,Local,46.71,58.42,68.67,25.07,2024-08-28,Pune,9,19
+Diesel 1L,Fuel,HP,100.17,117.31,131.36,17.11,2024-05-17,Delhi,2,8
+Onion 1kg,Vegetable,Local,51.75,62.45,71.49,20.68,2023-02-21,Kolkata,8,5
+Gold 24K 1g,Gold,Market,6573.75,8347.17,9923.46,26.98,2024-04-12,Bangalore,6,7
+Onion 1kg,Vegetable,Local,65.54,80.91,94.19,23.45,2024-11-27,Bangalore,9,14
+Premium Rice 1kg,Rice,Fortune,72.59,96.3,118.32,32.66,2023-12-09,Delhi,6,22
+Gold 22K 1g,Gold,Market,5398.73,6087.95,6632.0,12.77,2023-03-29,Delhi,8,4
+Normal Rice 1kg,Rice,Fortune,58.92,66.9,73.24,13.54,2024-05-03,Chennai,5,20
+Tomato 1kg,Vegetable,Local,65.02,75.48,83.98,16.09,2024-05-06,Kolkata,5,10
+Petrol 1L,Fuel,IndianOil,91.21,93.3,94.8,2.29,2023-01-31,Kolkata,2,20
+Normal Rice 1kg,Rice,IndiaGate,40.12,41.69,42.83,3.91,2024-01-14,Delhi,8,10
+Diesel 1L,Fuel,IndianOil,77.18,79.82,81.73,3.42,2024-12-31,Delhi,9,3
+Bread,Grocery,Aashirvaad,84.19,96.07,105.56,14.11,2025-06-02,Mumbai,5,7
+Redmi Note 14,Mobile,Realme,35994.19,37192.16,38058.65,3.33,2024-10-18,Delhi,7,6
+Diesel 1L,Fuel,BPCL,93.35,112.33,128.32,20.33,2024-11-16,Chennai,3,7
+OnePlus 12,Mobile,Apple,70180.63,77384.07,82944.04,10.26,2025-02-14,Delhi,7,14
+Silver 1g,Silver,Market,101.53,117.57,130.57,15.8,2025-04-27,Delhi,9,9
+Redmi Note 14,Mobile,Samsung,76806.05,82459.51,86708.23,7.36,2024-08-24,Chennai,7,15
+Asus TUF,Laptop,Lenovo,60512.0,67353.4,72683.82,11.31,2023-12-15,Mumbai,8,22
+Bread,Grocery,Aashirvaad,80.93,93.57,103.8,15.62,2024-07-17,Mumbai,10,16
+Petrol 1L,Fuel,HP,86.47,111.92,134.98,29.43,2024-05-06,Kolkata,2,19
+Potato 1kg,Vegetable,Local,63.7,71.25,77.16,11.85,2023-09-09,Mumbai,4,20
+Redmi Note 14,Mobile,Realme,61982.15,68642.58,73805.88,10.75,2024-07-19,Chennai,9,18
+Sugar 1kg,Grocery,Amul,30.74,34.62,37.68,12.62,2024-03-17,Bangalore,4,3
+Gold 22K 1g,Gold,Market,5488.17,6236.42,6831.61,13.63,2023-09-12,Hyderabad,2,23
+Silver 1g,Silver,Market,61.87,80.19,96.81,29.61,2023-11-17,Bangalore,4,5
+Gold 24K 1g,Gold,Market,6690.4,8488.49,10085.43,26.88,2024-03-10,Chennai,10,2
+Gold 22K 1g,Gold,Market,6827.72,7447.95,7921.55,9.08,2025-03-22,Delhi,5,16
+Tomato 1kg,Vegetable,Local,24.16,27.61,30.37,14.28,2025-05-23,Kolkata,4,17
+Normal Rice 1kg,Rice,Fortune,43.0,53.97,63.61,25.51,2024-12-19,Kolkata,10,22
+Diesel 1L,Fuel,IndianOil,83.54,99.94,113.67,19.63,2024-12-07,Chennai,9,15
+HP Victus,Laptop,HP,80956.07,97344.0,111137.74,20.24,2025-03-08,Hyderabad,8,1
+iPhone 15,Mobile,Xiaomi,61982.94,73106.86,82291.07,17.95,2023-09-15,Kolkata,1,9
+Normal Rice 1kg,Rice,IndiaGate,69.72,81.06,90.29,16.27,2025-05-11,Delhi,6,4
+Gold 22K 1g,Gold,Market,6548.58,7043.87,7416.8,7.56,2024-04-30,Pune,3,1
+Petrol 1L,Fuel,IndianOil,80.26,97.65,112.46,21.67,2024-06-25,Mumbai,1,21
+Normal Rice 1kg,Rice,Fortune,34.96,46.53,57.31,33.09,2023-05-31,Bangalore,10,4
+Onion 1kg,Vegetable,Local,21.08,24.41,27.11,15.8,2023-06-13,Hyderabad,6,1
+Petrol 1L,Fuel,BPCL,82.65,96.62,108.05,16.9,2024-09-05,Pune,10,15
+Tomato 1kg,Vegetable,Local,59.76,67.6,73.81,13.12,2023-09-23,Kolkata,7,3
+Gold 24K 1g,Gold,Market,5084.7,5791.22,6354.5,13.9,2024-08-09,Hyderabad,6,9
+Wheat Flour,Grocery,Amul,72.78,88.21,101.3,21.2,2025-04-01,Chennai,10,1
+Galaxy S24,Mobile,Samsung,71620.19,86038.66,98163.48,20.13,2024-03-02,Mumbai,5,21
+Dell Inspiron,Laptop,Dell,38313.0,42515.48,45779.89,10.97,2024-01-12,Bangalore,7,17
+Gold 24K 1g,Gold,Market,5040.37,5750.31,6317.26,14.09,2023-01-25,Mumbai,5,12
+Gold 24K 1g,Gold,Market,6633.58,7186.67,7606.11,8.34,2023-10-19,Bangalore,9,6
+Normal Rice 1kg,Rice,IndiaGate,54.06,56.36,58.04,4.25,2023-10-05,Pune,5,18
+HP Victus,Laptop,Asus,78826.88,83353.28,86703.7,5.74,2023-02-03,Mumbai,2,8
+HP Victus,Laptop,Lenovo,46356.36,50362.71,53409.53,8.64,2024-04-03,Kolkata,7,10
+Diesel 1L,Fuel,HP,106.02,126.31,143.23,19.14,2023-11-23,Delhi,9,10
+Gold 24K 1g,Gold,Market,5820.33,5717.94,5647.53,-1.76,2023-09-29,Delhi,10,4
+Wheat Flour,Grocery,Amul,36.46,42.25,46.95,15.88,2025-05-12,Hyderabad,9,25
+Gold 22K 1g,Gold,Market,6420.84,7954.74,9284.98,23.89,2023-09-22,Kolkata,8,4
+Silver 1g,Silver,Market,63.83,77.26,88.64,21.04,2023-04-26,Delhi,1,12
+OnePlus 12,Mobile,Apple,11614.72,12211.74,12651.14,5.14,2024-04-17,Bangalore,2,24
+Gold 22K 1g,Gold,Market,5411.99,6460.77,7337.18,19.38,2024-07-27,Pune,7,19
+Normal Rice 1kg,Rice,Local,58.66,67.8,75.19,15.58,2023-04-18,Kolkata,7,21
+Diesel 1L,Fuel,IndianOil,75.14,92.92,108.31,23.66,2024-05-18,Pune,7,2
+Lenovo LOQ,Laptop,Lenovo,81192.12,93475.02,103373.78,15.13,2025-04-08,Bangalore,6,4
+Lenovo LOQ,Laptop,HP,104772.57,129233.3,150353.32,23.35,2023-03-23,Pune,5,4
+Potato 1kg,Vegetable,Local,25.32,28.13,30.32,11.1,2023-10-01,Mumbai,2,0
+Diesel 1L,Fuel,IndianOil,81.59,88.53,93.8,8.51,2023-10-29,Kolkata,5,3
+Galaxy S24,Mobile,Apple,61107.01,75891.91,88745.39,24.2,2023-05-01,Pune,9,0
+iPhone 15,Mobile,OnePlus,67674.49,83945.41,98073.46,24.04,2025-01-22,Hyderabad,1,18
+Petrol 1L,Fuel,IndianOil,113.91,127.07,137.35,11.55,2024-08-29,Chennai,7,15
+Normal Rice 1kg,Rice,IndiaGate,45.14,48.16,50.42,6.69,2024-08-04,Bangalore,9,6
+Bread,Grocery,Madhur,36.96,46.91,55.75,26.92,2023-02-20,Chennai,5,13
+Gold 24K 1g,Gold,Market,6198.07,7367.51,8340.57,18.87,2023-02-26,Mumbai,5,24
+Realme GT,Mobile,OnePlus,24438.94,29330.58,33440.1,20.02,2025-05-23,Bangalore,4,2
+Premium Rice 1kg,Rice,IndiaGate,77.39,93.01,106.15,20.18,2023-04-07,Pune,9,9
+Bread,Grocery,Amul,98.78,132.92,165.08,34.56,2024-12-09,Delhi,7,11
+Silver 1g,Silver,Market,78.36,90.88,101.04,15.98,2023-12-10,Bangalore,5,8
+Normal Rice 1kg,Rice,Local,54.88,65.53,74.43,19.41,2023-03-31,Kolkata,1,0
+Asus TUF,Laptop,Lenovo,96009.14,119427.21,139818.27,24.39,2025-03-05,Delhi,4,7
+Redmi Note 14,Mobile,OnePlus,33082.09,32034.33,31324.13,-3.17,2023-08-04,Pune,8,3
+Asus TUF,Laptop,Asus,75172.7,82319.39,87797.68,9.51,2025-03-16,Bangalore,9,9
+Gold 22K 1g,Gold,Market,5176.39,5603.65,5927.42,8.25,2024-08-05,Kolkata,2,8
+Gold 24K 1g,Gold,Market,6049.77,6314.14,6507.29,4.37,2025-04-23,Bangalore,4,11
+Gold 24K 1g,Gold,Market,6071.02,6552.41,6916.1,7.93,2025-05-15,Bangalore,4,9
+Realme GT,Mobile,Apple,40349.63,43648.62,46146.72,8.18,2024-09-26,Chennai,4,9
+Silver 1g,Silver,Market,96.16,108.7,118.62,13.04,2023-02-23,Delhi,10,2
+HP Victus,Laptop,Lenovo,92247.87,112586.47,129962.44,22.05,2024-10-22,Kolkata,9,1
+Realme GT,Mobile,Xiaomi,24691.51,27606.71,29888.28,11.81,2024-08-01,Bangalore,7,20
+HP Victus,Laptop,HP,86096.06,95254.26,102346.92,10.64,2024-06-10,Delhi,8,24
+Silver 1g,Silver,Market,104.39,127.71,147.68,22.34,2024-03-19,Hyderabad,6,23
+Lenovo LOQ,Laptop,HP,51422.03,52003.64,52415.37,1.13,2025-06-02,Mumbai,8,13
+Bread,Grocery,Amul,37.99,41.98,45.07,10.5,2024-12-05,Delhi,2,12
+HP Victus,Laptop,Lenovo,31492.32,36525.11,40611.07,15.98,2024-03-21,Kolkata,6,3
+Potato 1kg,Vegetable,Local,69.0,78.09,85.29,13.17,2024-10-11,Delhi,1,16
+Diesel 1L,Fuel,HP,78.14,96.08,111.52,22.96,2024-06-30,Hyderabad,7,6
+Normal Rice 1kg,Rice,Fortune,70.71,88.48,104.05,25.13,2024-09-28,Chennai,1,18
+HP Victus,Laptop,Lenovo,78126.73,86092.63,92237.31,10.2,2024-04-17,Hyderabad,10,15
+Diesel 1L,Fuel,HP,81.38,99.68,115.37,22.49,2024-07-01,Pune,8,21
+Premium Rice 1kg,Rice,Fortune,67.15,85.46,101.77,27.27,2024-11-05,Chennai,5,2
+Premium Rice 1kg,Rice,IndiaGate,52.84,59.79,65.29,13.15,2024-06-16,Hyderabad,3,24
+Asus TUF,Laptop,Lenovo,37610.99,43290.08,47865.7,15.1,2023-05-09,Bangalore,2,24
+Silver 1g,Silver,Market,90.13,104.17,115.53,15.58,2024-04-03,Bangalore,8,3
+Onion 1kg,Vegetable,Local,43.81,45.91,47.45,4.79,2024-06-09,Chennai,9,25
+Milk 1L,Grocery,Madhur,94.82,94.72,94.65,-0.11,2025-04-05,Kolkata,9,7
+OnePlus 12,Mobile,Realme,13855.42,14403.96,14803.14,3.96,2023-05-26,Delhi,10,25
+HP Victus,Laptop,Dell,37285.32,45627.89,52774.34,22.37,2024-06-09,Mumbai,3,20
+Silver 1g,Silver,Market,60.25,68.1,74.31,13.03,2023-12-18,Chennai,7,22
+Lenovo LOQ,Laptop,Lenovo,97499.29,102887.15,106867.07,5.53,2023-05-22,Mumbai,2,1
+Diesel 1L,Fuel,BPCL,88.37,95.34,100.6,7.89,2023-03-12,Bangalore,8,17
+Gold 24K 1g,Gold,Market,5907.06,6974.3,7856.34,18.07,2025-04-02,Kolkata,4,24
+Potato 1kg,Vegetable,Local,41.44,52.78,62.89,27.36,2023-08-19,Chennai,8,10
+Asus TUF,Laptop,HP,110787.03,114679.76,117500.42,3.51,2025-02-12,Mumbai,7,9
+Bread,Grocery,Britannia,72.33,78.47,83.13,8.49,2024-11-28,Mumbai,1,20
+Milk 1L,Grocery,Britannia,85.03,108.69,129.86,27.83,2023-02-03,Mumbai,3,24
+Silver 1g,Silver,Market,106.02,120.83,132.65,13.97,2024-05-13,Chennai,5,9
+Petrol 1L,Fuel,IndianOil,76.0,98.37,118.64,29.43,2025-05-31,Chennai,2,25
+Normal Rice 1kg,Rice,Fortune,63.68,72.78,80.06,14.29,2023-11-10,Kolkata,3,10
+Premium Rice 1kg,Rice,Fortune,66.66,82.57,96.37,23.87,2024-12-15,Chennai,2,20
+Premium Rice 1kg,Rice,Local,68.12,86.07,101.95,26.35,2024-06-14,Kolkata,10,17
+Diesel 1L,Fuel,BPCL,82.53,106.69,128.55,29.27,2023-09-09,Mumbai,4,12
+Sugar 1kg,Grocery,Amul,79.38,97.12,112.31,22.35,2025-01-09,Bangalore,5,18
+Silver 1g,Silver,Market,66.25,73.81,79.71,11.41,2024-02-16,Pune,6,25
+Lenovo LOQ,Laptop,Asus,63005.54,70685.18,76716.17,12.19,2024-08-06,Bangalore,10,17
+Dell Inspiron,Laptop,Asus,63574.09,80998.73,96539.05,27.41,2023-06-07,Delhi,7,17
+Tomato 1kg,Vegetable,Local,21.6,23.82,25.53,10.28,2023-03-20,Hyderabad,7,6
+Tomato 1kg,Vegetable,Local,48.3,48.49,48.62,0.39,2024-08-02,Pune,8,16
+Potato 1kg,Vegetable,Local,41.7,46.2,49.69,10.79,2024-06-25,Bangalore,5,13
+Diesel 1L,Fuel,HP,92.12,96.65,99.98,4.92,2023-06-08,Bangalore,10,24
+Diesel 1L,Fuel,HP,104.72,122.21,136.5,16.7,2023-04-07,Delhi,3,16
+Tomato 1kg,Vegetable,Local,21.94,23.52,24.71,7.2,2024-02-15,Kolkata,8,7
+Tomato 1kg,Vegetable,Local,18.68,23.12,26.97,23.77,2023-03-31,Mumbai,1,6
+Gold 24K 1g,Gold,Market,5573.01,6535.94,7326.46,17.28,2024-03-02,Mumbai,9,22
+Tomato 1kg,Vegetable,Local,40.36,47.33,53.05,17.27,2024-02-08,Kolkata,6,18
+Diesel 1L,Fuel,IndianOil,81.01,99.24,114.87,22.5,2024-09-16,Delhi,3,23
+Normal Rice 1kg,Rice,Fortune,69.27,76.4,81.9,10.29,2025-03-08,Bangalore,5,22
+Wheat Flour,Grocery,Britannia,86.78,101.1,112.78,16.5,2025-01-13,Delhi,9,1
+HP Victus,Laptop,Lenovo,54343.59,60202.62,64746.12,10.78,2024-07-01,Hyderabad,1,23
+Normal Rice 1kg,Rice,Fortune,34.88,39.28,42.75,12.61,2023-07-12,Kolkata,6,22
+Redmi Note 14,Mobile,Xiaomi,48749.26,61522.16,72805.85,26.2,2023-09-29,Bangalore,9,7
+Tomato 1kg,Vegetable,Local,27.41,28.31,28.96,3.28,2024-08-01,Pune,8,11
+Silver 1g,Silver,Market,57.93,66.74,73.84,15.21,2024-08-23,Pune,3,20
+Onion 1kg,Vegetable,Local,70.18,73.72,76.32,5.04,2023-08-13,Mumbai,10,22
+Gold 24K 1g,Gold,Market,5194.89,6390.14,7419.32,23.01,2023-11-08,Pune,8,23
+Gold 24K 1g,Gold,Market,5483.34,6615.22,7571.09,20.64,2023-06-06,Hyderabad,8,12
+Wheat Flour,Grocery,Britannia,75.92,94.31,110.3,24.22,2025-05-05,Mumbai,4,9
+Asus TUF,Laptop,Dell,67063.68,75669.3,82466.23,12.83,2024-09-18,Kolkata,3,13
+Asus TUF,Laptop,HP,108560.47,108967.89,109254.15,0.38,2025-05-27,Pune,3,5
+Asus TUF,Laptop,HP,57457.1,59645.31,61235.39,3.81,2023-01-16,Delhi,10,11
+Diesel 1L,Fuel,IndianOil,82.36,100.11,115.21,21.55,2023-04-12,Bangalore,10,11
+Gold 24K 1g,Gold,Market,5338.0,6391.89,7275.26,19.74,2024-04-13,Chennai,5,25
+Gold 22K 1g,Gold,Market,7019.59,6729.6,6534.99,-4.13,2023-12-24,Hyderabad,9,17
+Dell Inspiron,Laptop,HP,51034.36,58699.32,64870.64,15.02,2024-04-12,Delhi,3,25
+Petrol 1L,Fuel,IndianOil,83.43,83.25,83.12,-0.22,2025-06-13,Pune,8,10
+Gold 24K 1g,Gold,Market,5567.01,5926.17,6193.8,6.45,2023-02-03,Bangalore,10,9
+Silver 1g,Silver,Market,104.89,131.69,155.24,25.55,2023-02-08,Hyderabad,5,17
+Potato 1kg,Vegetable,Local,36.33,40.54,43.83,11.59,2023-06-10,Kolkata,7,8
+Premium Rice 1kg,Rice,Local,63.72,76.99,88.21,20.83,2024-10-22,Pune,9,14
+Silver 1g,Silver,Market,99.74,109.06,116.19,9.34,2024-12-12,Hyderabad,3,18
+Petrol 1L,Fuel,IndianOil,88.93,100.3,109.28,12.79,2024-12-15,Pune,2,25
+OnePlus 12,Mobile,OnePlus,63044.62,82273.02,99838.12,30.5,2023-09-27,Delhi,9,1
+Gold 24K 1g,Gold,Market,6902.23,7052.71,7160.34,2.18,2023-01-17,Bangalore,1,4
+Milk 1L,Grocery,Britannia,55.31,67.26,77.43,21.61,2024-06-23,Bangalore,6,15
+Petrol 1L,Fuel,HP,99.96,108.01,114.1,8.05,2023-06-12,Bangalore,3,10
+Asus TUF,Laptop,Dell,96461.02,102508.58,107007.28,6.27,2024-10-24,Hyderabad,1,8
+Silver 1g,Silver,Market,94.22,112.49,127.76,19.39,2025-05-08,Bangalore,6,22
+Gold 24K 1g,Gold,Market,6145.72,6218.58,6270.19,1.19,2023-07-31,Hyderabad,2,11
+HP Victus,Laptop,HP,96455.43,99966.0,102512.84,3.64,2024-12-05,Delhi,8,13
+Onion 1kg,Vegetable,Local,42.22,46.18,49.21,9.38,2023-06-25,Bangalore,5,1
+Realme GT,Mobile,OnePlus,47453.13,57558.35,66138.35,21.3,2024-03-14,Delhi,2,1
+Sugar 1kg,Grocery,Madhur,77.15,96.74,113.94,25.39,2024-08-21,Delhi,7,19
+Bread,Grocery,Amul,59.62,64.75,68.65,8.6,2023-08-17,Mumbai,5,15
+Silver 1g,Silver,Market,101.48,120.41,136.13,18.65,2023-12-05,Hyderabad,9,10
+Gold 24K 1g,Gold,Market,5941.72,6943.22,7762.43,16.86,2023-07-21,Kolkata,1,12
+Diesel 1L,Fuel,IndianOil,89.89,111.37,130.0,23.9,2023-12-24,Delhi,5,4
+Silver 1g,Silver,Market,84.25,97.95,109.1,16.26,2024-09-09,Mumbai,7,20
+Premium Rice 1kg,Rice,Local,38.34,42.99,46.64,12.13,2024-12-17,Kolkata,2,7
+Silver 1g,Silver,Market,81.14,95.69,107.7,17.93,2023-05-28,Pune,9,13
+Diesel 1L,Fuel,BPCL,88.32,110.88,130.71,25.54,2023-11-10,Kolkata,10,1
+Tomato 1kg,Vegetable,Local,73.71,79.44,83.76,7.77,2023-12-16,Mumbai,5,1
+Gold 24K 1g,Gold,Market,6470.52,6640.15,6762.0,2.62,2024-03-10,Delhi,6,11
+Silver 1g,Silver,Market,58.12,64.87,70.14,11.61,2023-04-07,Bangalore,8,21
+Tomato 1kg,Vegetable,Local,31.82,32.56,33.09,2.33,2023-03-04,Pune,2,25
+Bread,Grocery,Aashirvaad,65.65,75.19,82.84,14.53,2023-02-11,Mumbai,5,22
+Onion 1kg,Vegetable,Local,28.84,31.49,33.52,9.19,2024-08-03,Pune,5,2
+Milk 1L,Grocery,Aashirvaad,67.11,85.8,102.53,27.85,2025-01-13,Pune,3,18
+Silver 1g,Silver,Market,71.16,78.31,83.82,10.05,2024-01-19,Hyderabad,5,9
+Realme GT,Mobile,Realme,29589.15,35542.55,40548.42,20.12,2023-10-27,Bangalore,2,23
+Sugar 1kg,Grocery,Aashirvaad,65.14,67.26,68.79,3.25,2023-07-22,Kolkata,9,4
+Normal Rice 1kg,Rice,IndiaGate,76.74,81.47,84.99,6.16,2025-06-19,Mumbai,9,15
+Sugar 1kg,Grocery,Amul,49.63,55.52,60.13,11.87,2023-10-01,Mumbai,6,15
+HP Victus,Laptop,HP,78487.85,86174.97,92082.97,9.79,2025-06-12,Bangalore,5,16
+Tomato 1kg,Vegetable,Local,53.3,56.15,58.25,5.35,2023-06-06,Kolkata,5,11
+Redmi Note 14,Mobile,Apple,47987.29,50284.69,51969.86,4.79,2023-07-31,Chennai,4,14
+Normal Rice 1kg,Rice,Fortune,86.67,94.52,100.51,9.06,2023-10-19,Kolkata,7,22
+Potato 1kg,Vegetable,Local,17.31,22.24,26.67,28.48,2024-07-03,Pune,4,3
+iPhone 15,Mobile,Samsung,64175.89,70116.04,74659.02,9.26,2024-07-05,Chennai,3,8
+Dell Inspiron,Laptop,Lenovo,33479.46,34668.49,35530.37,3.55,2025-01-24,Mumbai,9,4
+Redmi Note 14,Mobile,OnePlus,75716.0,78388.06,80324.51,3.53,2025-03-05,Chennai,9,17
+Gold 22K 1g,Gold,Market,6763.01,8142.05,9304.22,20.39,2024-12-25,Mumbai,5,5
+Realme GT,Mobile,Samsung,57932.24,70076.07,80358.67,20.96,2023-05-27,Mumbai,2,12
+Silver 1g,Silver,Market,91.2,109.52,124.92,20.09,2023-06-19,Hyderabad,2,22
+Milk 1L,Grocery,Britannia,92.6,115.03,134.53,24.22,2023-06-13,Pune,9,9
+Premium Rice 1kg,Rice,IndiaGate,55.84,59.73,62.64,6.97,2024-04-17,Pune,8,7
+Tomato 1kg,Vegetable,Local,59.67,62.72,64.96,5.11,2023-06-13,Delhi,9,9
+Gold 24K 1g,Gold,Market,5747.16,5663.28,5605.42,-1.46,2024-08-13,Bangalore,9,24
+Redmi Note 14,Mobile,Xiaomi,40405.35,41288.2,41919.7,2.18,2023-07-27,Pune,1,15
+Gold 22K 1g,Gold,Market,6828.79,7739.11,8461.28,13.33,2023-06-24,Kolkata,8,1
+Redmi Note 14,Mobile,OnePlus,33497.02,42553.27,50606.56,27.04,2023-10-09,Mumbai,2,11
+Premium Rice 1kg,Rice,Fortune,58.68,60.43,61.69,2.98,2023-05-28,Hyderabad,3,6
+Gold 24K 1g,Gold,Market,5693.43,5865.27,5989.19,3.02,2023-06-30,Chennai,1,21
+Galaxy S24,Mobile,OnePlus,67747.66,74516.27,79727.67,9.99,2024-09-12,Chennai,5,0
+Gold 24K 1g,Gold,Market,5864.18,7286.19,8522.97,24.25,2023-04-30,Chennai,5,18
+Lenovo LOQ,Laptop,Lenovo,114792.32,112193.24,110415.08,-2.26,2024-02-14,Pune,3,12
+Silver 1g,Silver,Market,78.99,86.06,91.45,8.95,2023-04-14,Bangalore,9,1
+Potato 1kg,Vegetable,Local,63.36,78.13,90.88,23.31,2025-04-14,Pune,4,11
+Dell Inspiron,Laptop,HP,98656.4,107916.04,115006.15,9.39,2023-04-25,Mumbai,1,24
+Gold 22K 1g,Gold,Market,4748.9,5327.56,5781.98,12.19,2025-04-26,Kolkata,7,18
+Galaxy S24,Mobile,Xiaomi,58279.58,66728.84,73500.79,14.5,2023-06-14,Kolkata,7,14
+Potato 1kg,Vegetable,Local,27.3,33.29,38.4,21.94,2024-04-11,Pune,5,17
+Diesel 1L,Fuel,IndianOil,115.09,136.49,154.26,18.59,2025-03-22,Kolkata,8,0
+Silver 1g,Silver,Market,105.91,116.31,124.3,9.82,2023-05-24,Mumbai,5,4
+Premium Rice 1kg,Rice,Local,72.61,77.59,81.32,6.86,2023-06-09,Kolkata,10,24
+Premium Rice 1kg,Rice,Fortune,53.83,65.01,74.46,20.77,2024-03-14,Pune,8,13
+Onion 1kg,Vegetable,Local,41.64,44.22,46.14,6.2,2023-12-01,Hyderabad,4,20
+Petrol 1L,Fuel,IndianOil,110.75,120.11,127.22,8.45,2023-09-13,Delhi,9,0
+Tomato 1kg,Vegetable,Local,53.13,54.64,55.73,2.84,2023-02-14,Chennai,9,6
+Potato 1kg,Vegetable,Local,71.29,78.32,83.73,9.86,2025-04-09,Bangalore,9,17
+Diesel 1L,Fuel,HP,74.66,93.78,110.59,25.61,2023-10-22,Bangalore,3,2
+Gold 22K 1g,Gold,Market,6796.45,6825.93,6846.66,0.43,2025-04-14,Hyderabad,1,19
+iPhone 15,Mobile,Apple,40202.23,43288.05,45613.93,7.68,2023-08-25,Delhi,9,12
+Gold 24K 1g,Gold,Market,5343.91,5271.41,5221.35,-1.36,2025-02-26,Kolkata,3,0
+Milk 1L,Grocery,Amul,84.16,91.6,97.27,8.84,2023-11-18,Hyderabad,5,24
+Petrol 1L,Fuel,BPCL,93.45,104.27,112.72,11.58,2024-04-05,Pune,4,16
+Onion 1kg,Vegetable,Local,29.47,34.49,38.6,17.03,2023-11-25,Pune,4,3
+Premium Rice 1kg,Rice,Fortune,81.82,88.62,93.78,8.31,2023-09-19,Pune,9,24
+Silver 1g,Silver,Market,99.03,103.37,106.54,4.38,2023-12-08,Hyderabad,4,2
+Potato 1kg,Vegetable,Local,32.23,36.32,39.55,12.69,2023-03-15,Mumbai,8,13
+Gold 22K 1g,Gold,Market,5997.14,7148.24,8108.67,19.19,2023-10-30,Chennai,1,23
+Petrol 1L,Fuel,HP,96.21,111.7,124.29,16.1,2025-02-11,Kolkata,5,22
+Silver 1g,Silver,Market,63.34,69.45,74.14,9.65,2023-03-19,Delhi,6,0
+Silver 1g,Silver,Market,73.83,89.59,102.98,21.35,2023-10-02,Kolkata,1,8
+Premium Rice 1kg,Rice,IndiaGate,61.7,73.57,83.48,19.24,2023-10-06,Pune,3,9
+Gold 22K 1g,Gold,Market,6582.36,6964.89,7248.22,5.81,2023-02-19,Kolkata,6,18
+Gold 22K 1g,Gold,Market,7142.21,7933.4,8548.58,11.08,2024-07-20,Pune,2,21
+Sugar 1kg,Grocery,Britannia,47.67,56.94,64.69,19.45,2023-08-16,Hyderabad,1,4
+Potato 1kg,Vegetable,Local,73.42,86.37,97.03,17.64,2025-01-08,Delhi,5,5
+Milk 1L,Grocery,Britannia,24.09,28.31,31.78,17.52,2025-05-26,Delhi,1,5
+Normal Rice 1kg,Rice,Fortune,73.7,93.82,111.75,27.3,2024-03-29,Kolkata,3,20
+Potato 1kg,Vegetable,Local,27.68,28.72,29.48,3.76,2023-07-23,Hyderabad,1,15
+Premium Rice 1kg,Rice,Fortune,69.44,72.09,74.02,3.82,2025-02-16,Bangalore,4,16
+Petrol 1L,Fuel,HP,101.19,123.71,142.98,22.26,2025-05-23,Kolkata,2,16
+Silver 1g,Silver,Market,94.96,107.8,118.0,13.52,2024-07-24,Delhi,10,6
+Sugar 1kg,Grocery,Amul,31.5,39.09,45.68,24.1,2024-12-25,Hyderabad,8,6
+Tomato 1kg,Vegetable,Local,21.85,26.01,29.48,19.04,2025-02-19,Mumbai,5,15
+Silver 1g,Silver,Market,89.95,99.06,106.08,10.13,2024-03-20,Pune,2,1
+Milk 1L,Grocery,Amul,45.18,52.04,57.57,15.18,2024-08-22,Kolkata,9,3
+Gold 22K 1g,Gold,Market,5854.07,6775.63,7522.27,15.74,2023-01-07,Bangalore,3,19
+Wheat Flour,Grocery,Aashirvaad,66.79,79.44,89.97,18.94,2024-03-04,Chennai,5,0
+Dell Inspiron,Laptop,Asus,82916.2,84857.61,86248.42,2.34,2023-04-09,Hyderabad,5,3
+Normal Rice 1kg,Rice,IndiaGate,64.91,82.26,97.65,26.73,2024-10-18,Delhi,7,16
+Diesel 1L,Fuel,HP,100.04,128.98,155.1,28.93,2023-09-21,Mumbai,6,15
+Dell Inspiron,Laptop,Asus,75796.48,85343.14,92867.49,12.6,2023-08-01,Mumbai,10,4
+Normal Rice 1kg,Rice,Fortune,58.54,68.19,76.06,16.48,2025-06-02,Mumbai,4,14
+Lenovo LOQ,Laptop,Asus,55699.69,57723.4,59191.47,3.63,2024-09-10,Mumbai,4,11
+Realme GT,Mobile,Samsung,60891.97,68969.53,75373.89,13.27,2024-03-15,Chennai,2,14
+iPhone 15,Mobile,OnePlus,14916.6,16349.35,17448.61,9.61,2024-02-25,Delhi,1,3
+Gold 22K 1g,Gold,Market,5964.58,7474.87,8799.77,25.32,2024-03-02,Bangalore,2,25
+Diesel 1L,Fuel,BPCL,95.84,108.23,118.02,12.93,2023-04-30,Hyderabad,5,9
+Dell Inspiron,Laptop,HP,93448.03,106651.39,117199.6,14.13,2025-01-04,Pune,5,15
+Potato 1kg,Vegetable,Local,32.89,34.24,35.22,4.1,2023-10-11,Kolkata,2,20
+Onion 1kg,Vegetable,Local,26.19,27.74,28.89,5.92,2025-05-10,Mumbai,8,6
+Lenovo LOQ,Laptop,Lenovo,72004.76,85272.96,96272.14,18.43,2024-08-03,Hyderabad,5,14
+Galaxy S24,Mobile,Realme,67058.44,75031.26,81275.78,11.89,2025-05-25,Mumbai,1,7
+Diesel 1L,Fuel,BPCL,97.81,117.3,133.66,19.93,2023-04-29,Pune,7,18
+Silver 1g,Silver,Market,63.57,65.28,66.51,2.69,2023-09-09,Mumbai,6,12
+Lenovo LOQ,Laptop,HP,31534.19,33819.49,35535.13,7.25,2025-02-05,Bangalore,6,1
+Gold 22K 1g,Gold,Market,5885.6,7502.48,8945.23,27.47,2024-02-01,Delhi,3,0
+Petrol 1L,Fuel,BPCL,87.37,89.38,90.82,2.3,2024-12-22,Chennai,5,24
+Petrol 1L,Fuel,IndianOil,89.32,103.32,114.66,15.67,2023-09-13,Bangalore,3,14
+Tomato 1kg,Vegetable,Local,70.23,73.73,76.3,4.98,2025-02-14,Delhi,8,17
+Gold 22K 1g,Gold,Market,5735.96,5698.15,5671.86,-0.66,2023-12-29,Delhi,1,14
+Potato 1kg,Vegetable,Local,42.72,54.89,65.84,28.49,2023-08-29,Hyderabad,8,13
+Premium Rice 1kg,Rice,IndiaGate,79.19,96.02,110.3,21.25,2023-06-25,Chennai,1,19
+Silver 1g,Silver,Market,101.09,117.34,130.54,16.07,2023-11-03,Mumbai,6,25
+Gold 22K 1g,Gold,Market,6842.01,7852.66,8664.61,14.77,2023-07-13,Kolkata,6,3
+Gold 22K 1g,Gold,Market,4956.32,5252.3,5471.86,5.97,2024-06-04,Delhi,4,13
+Wheat Flour,Grocery,Britannia,56.83,67.26,75.9,18.35,2024-10-28,Mumbai,3,3
+Gold 24K 1g,Gold,Market,5624.23,5848.29,6011.38,3.98,2024-01-12,Delhi,1,7
+Normal Rice 1kg,Rice,Local,59.36,79.06,97.43,33.19,2024-01-18,Delhi,2,0
+Silver 1g,Silver,Market,85.22,107.98,128.17,26.71,2023-05-22,Hyderabad,9,14
+Galaxy S24,Mobile,Xiaomi,61472.91,75839.52,88246.44,23.37,2024-12-31,Bangalore,2,2
+Realme GT,Mobile,Xiaomi,61471.31,69098.92,75100.77,12.41,2023-12-22,Mumbai,3,24
+Normal Rice 1kg,Rice,Local,60.67,62.97,64.64,3.79,2023-10-31,Kolkata,8,12
+Redmi Note 14,Mobile,Apple,69639.08,74999.39,79040.43,7.7,2024-01-18,Hyderabad,9,12
+Dell Inspiron,Laptop,Dell,68113.24,81357.22,92430.62,19.44,2025-06-10,Pune,3,10
+OnePlus 12,Mobile,Realme,66453.03,73912.21,79719.73,11.22,2024-09-12,Delhi,3,1
+Silver 1g,Silver,Market,67.33,80.41,91.34,19.43,2024-11-07,Hyderabad,6,13
+Silver 1g,Silver,Market,76.2,84.75,91.41,11.22,2023-10-08,Delhi,5,5
+Petrol 1L,Fuel,BPCL,117.68,127.32,134.62,8.19,2023-02-24,Chennai,4,17
+Normal Rice 1kg,Rice,Fortune,44.7,48.71,51.77,8.97,2023-06-25,Mumbai,4,11
+Galaxy S24,Mobile,Samsung,56993.03,62733.75,67157.02,10.07,2024-12-21,Pune,9,13
+Lenovo LOQ,Laptop,Asus,40352.96,46148.91,50788.81,14.36,2025-03-04,Chennai,6,10
+Tomato 1kg,Vegetable,Local,45.64,45.92,46.12,0.61,2024-07-18,Bangalore,8,8
+Milk 1L,Grocery,Madhur,26.43,29.2,31.34,10.48,2024-05-17,Bangalore,4,13
+Premium Rice 1kg,Rice,Fortune,77.03,89.38,99.41,16.03,2024-10-06,Delhi,1,23
+Sugar 1kg,Grocery,Aashirvaad,107.63,126.26,141.56,17.31,2024-03-30,Delhi,7,5
+Premium Rice 1kg,Rice,IndiaGate,76.86,92.63,105.93,20.52,2024-06-22,Delhi,2,21
+Tomato 1kg,Vegetable,Local,49.11,56.42,62.3,14.88,2024-01-06,Chennai,10,13
+Potato 1kg,Vegetable,Local,37.85,41.2,43.75,8.85,2025-01-30,Hyderabad,3,12
+Wheat Flour,Grocery,Madhur,45.06,48.11,50.39,6.77,2023-01-27,Hyderabad,6,20
+Realme GT,Mobile,OnePlus,51928.17,53417.1,54489.24,2.87,2023-10-15,Hyderabad,9,7
+Onion 1kg,Vegetable,Local,35.63,45.33,53.97,27.22,2024-08-28,Delhi,1,9
+Realme GT,Mobile,Samsung,78296.75,90327.27,100042.6,15.37,2023-04-17,Pune,7,7
+iPhone 15,Mobile,Xiaomi,13686.41,16773.93,19422.75,22.56,2025-02-03,Hyderabad,2,7
+Sugar 1kg,Grocery,Aashirvaad,107.31,120.19,130.29,12.0,2025-03-18,Bangalore,1,24
+Gold 22K 1g,Gold,Market,5186.44,5744.02,6176.29,10.75,2023-12-12,Kolkata,3,7
+HP Victus,Laptop,Dell,50255.49,58214.41,64667.97,15.84,2024-11-01,Pune,5,18
+Gold 24K 1g,Gold,Market,7022.64,6850.69,6733.27,-2.45,2024-02-08,Bangalore,7,6
+Normal Rice 1kg,Rice,IndiaGate,39.95,42.79,44.92,7.11,2023-07-12,Kolkata,6,2
+Gold 24K 1g,Gold,Market,6070.32,6699.49,7185.56,10.36,2023-05-04,Delhi,4,12
+Gold 22K 1g,Gold,Market,6366.15,7166.52,7797.22,12.57,2024-05-02,Bangalore,7,15
+HP Victus,Laptop,Lenovo,62352.58,65681.05,68135.35,5.34,2023-02-16,Pune,8,19
+Bread,Grocery,Britannia,23.09,26.24,28.75,13.64,2024-03-29,Hyderabad,3,16
+Onion 1kg,Vegetable,Local,46.6,54.25,60.48,16.42,2024-10-24,Delhi,2,5
+Silver 1g,Silver,Market,69.66,79.39,87.15,13.97,2024-02-16,Delhi,1,7
+Dell Inspiron,Laptop,Asus,56259.05,60948.88,64505.43,8.34,2023-02-21,Chennai,1,5
+Petrol 1L,Fuel,IndianOil,90.59,104.39,115.52,15.23,2023-10-20,Bangalore,8,7
+Silver 1g,Silver,Market,94.63,103.93,111.08,9.83,2024-01-12,Mumbai,1,24
+Gold 24K 1g,Gold,Market,6742.7,7335.23,7786.45,8.79,2023-07-11,Pune,2,18
+Silver 1g,Silver,Market,59.15,70.25,79.48,18.77,2023-09-07,Kolkata,10,21
+Petrol 1L,Fuel,IndianOil,85.58,102.96,117.6,20.31,2025-05-31,Pune,6,17
+Onion 1kg,Vegetable,Local,27.19,29.37,31.02,8.02,2023-03-21,Kolkata,10,25
+Sugar 1kg,Grocery,Britannia,51.82,53.09,54.0,2.45,2025-01-03,Bangalore,1,3
+Potato 1kg,Vegetable,Local,48.31,52.1,54.96,7.85,2023-03-27,Hyderabad,8,9
+Premium Rice 1kg,Rice,Local,39.68,45.3,49.79,14.16,2024-08-04,Mumbai,2,1
+HP Victus,Laptop,Asus,80893.65,93280.94,103279.85,15.31,2023-07-16,Delhi,3,24
+OnePlus 12,Mobile,Realme,48677.31,61589.63,73025.87,26.53,2024-06-01,Delhi,6,5
+Diesel 1L,Fuel,IndianOil,88.17,108.0,125.0,22.49,2025-01-05,Pune,6,10
+Onion 1kg,Vegetable,Local,42.74,43.61,44.23,2.04,2024-03-06,Pune,3,25
+Silver 1g,Silver,Market,78.64,88.87,96.96,13.01,2024-05-18,Hyderabad,10,4
+Silver 1g,Silver,Market,79.59,102.21,122.54,28.42,2025-05-11,Hyderabad,10,21
+Tomato 1kg,Vegetable,Local,57.14,70.83,82.71,23.96,2024-02-04,Mumbai,7,19
+Silver 1g,Silver,Market,61.57,65.87,69.09,6.98,2025-02-24,Pune,9,15
+Bread,Grocery,Britannia,114.69,128.56,139.44,12.09,2023-07-13,Delhi,7,2
+Lenovo LOQ,Laptop,HP,35748.63,39276.9,41990.45,9.87,2024-09-08,Mumbai,8,18
+HP Victus,Laptop,HP,78881.14,89822.44,98543.69,13.87,2025-06-06,Mumbai,1,10
+Sugar 1kg,Grocery,Britannia,58.84,63.75,67.47,8.34,2024-03-29,Delhi,1,6
+Bread,Grocery,Madhur,61.4,75.75,88.14,23.37,2023-12-10,Mumbai,3,25
+Premium Rice 1kg,Rice,Fortune,73.84,91.76,107.35,24.27,2024-05-13,Bangalore,10,12
+Wheat Flour,Grocery,Amul,22.96,27.83,31.96,21.21,2025-03-05,Chennai,2,13
+Redmi Note 14,Mobile,OnePlus,73696.04,77497.51,80295.8,5.16,2025-01-17,Kolkata,10,25
+HP Victus,Laptop,HP,54961.28,60608.6,64967.91,10.28,2023-09-25,Pune,8,10
+Bread,Grocery,Amul,108.26,112.36,115.34,3.79,2023-04-23,Mumbai,9,0
+Petrol 1L,Fuel,BPCL,107.54,114.42,119.54,6.4,2024-08-14,Pune,8,23
+Petrol 1L,Fuel,HP,77.12,94.21,108.82,22.16,2023-11-04,Mumbai,6,24
+Milk 1L,Grocery,Britannia,65.05,74.6,82.27,14.68,2024-10-08,Chennai,2,15
+Silver 1g,Silver,Market,111.43,126.72,138.89,13.72,2024-02-22,Pune,2,8
+Bread,Grocery,Amul,102.62,119.84,133.92,16.78,2023-01-20,Hyderabad,6,15
+Asus TUF,Laptop,Asus,94556.24,104163.63,111572.11,10.16,2024-12-13,Kolkata,6,0
+Silver 1g,Silver,Market,83.34,100.63,115.24,20.75,2023-03-18,Chennai,6,16
+Tomato 1kg,Vegetable,Local,29.25,28.56,28.09,-2.36,2023-08-30,Mumbai,10,17
+Gold 22K 1g,Gold,Market,7272.16,7589.22,7820.84,4.36,2023-07-17,Pune,4,13
+Tomato 1kg,Vegetable,Local,43.24,45.36,46.92,4.9,2024-11-28,Chennai,2,18
+Tomato 1kg,Vegetable,Local,37.81,42.19,45.61,11.58,2025-03-11,Pune,7,7
+Gold 24K 1g,Gold,Market,6991.27,7285.6,7500.3,4.21,2023-03-03,Mumbai,4,13
+Bread,Grocery,Madhur,60.47,69.86,77.45,15.53,2024-11-18,Mumbai,3,7
+Galaxy S24,Mobile,Apple,58935.09,67957.96,75240.94,15.31,2023-06-20,Bangalore,5,2
+Premium Rice 1kg,Rice,Local,39.65,40.57,41.23,2.32,2025-04-15,Hyderabad,10,14
+Onion 1kg,Vegetable,Local,38.63,50.52,61.4,30.78,2023-06-12,Delhi,7,5
+Tomato 1kg,Vegetable,Local,47.29,54.94,61.16,16.18,2025-01-17,Kolkata,2,7
+Galaxy S24,Mobile,Realme,25340.8,28793.34,31539.39,13.62,2023-04-20,Chennai,6,22
+Tomato 1kg,Vegetable,Local,29.02,36.76,43.62,26.67,2025-03-14,Hyderabad,2,7
+OnePlus 12,Mobile,Realme,78615.88,84968.31,89774.32,8.08,2023-11-09,Delhi,1,2
+Silver 1g,Silver,Market,101.47,115.76,127.17,14.08,2023-12-21,Chennai,5,22
+Silver 1g,Silver,Market,60.98,68.98,75.31,13.12,2025-01-23,Hyderabad,5,4
+Wheat Flour,Grocery,Britannia,82.94,97.73,109.93,17.83,2024-04-27,Kolkata,10,20
+Sugar 1kg,Grocery,Amul,49.65,62.73,74.3,26.34,2024-02-28,Hyderabad,7,11
+Milk 1L,Grocery,Madhur,47.54,48.37,48.96,1.75,2024-08-08,Hyderabad,2,12
+Lenovo LOQ,Laptop,Asus,100637.17,119045.37,134288.12,18.29,2024-03-22,Hyderabad,9,14
+Petrol 1L,Fuel,IndianOil,99.6,120.09,137.38,20.57,2024-01-31,Kolkata,7,9
+Gold 24K 1g,Gold,Market,5971.31,5888.6,5831.5,-1.39,2024-06-15,Kolkata,10,18
+Gold 22K 1g,Gold,Market,6347.66,7562.33,8575.3,19.14,2024-08-25,Pune,5,10
+Silver 1g,Silver,Market,70.83,87.24,101.39,23.17,2025-03-22,Pune,6,0
+Diesel 1L,Fuel,BPCL,91.71,96.74,100.45,5.48,2023-04-02,Mumbai,5,16
+Gold 22K 1g,Gold,Market,5950.44,7246.81,8351.97,21.79,2023-02-13,Mumbai,2,2
+OnePlus 12,Mobile,Realme,72642.37,78719.62,83329.59,8.37,2023-11-20,Chennai,4,22
+Potato 1kg,Vegetable,Local,32.82,43.34,53.06,32.05,2023-02-02,Kolkata,2,11
+Potato 1kg,Vegetable,Local,43.53,49.55,54.35,13.83,2023-02-09,Chennai,9,16
+iPhone 15,Mobile,OnePlus,60965.0,74272.25,85620.59,21.83,2023-01-21,Hyderabad,5,6
+Gold 24K 1g,Gold,Market,6160.06,6400.35,6575.11,3.9,2025-06-13,Chennai,8,16
+Asus TUF,Laptop,Dell,49730.64,48603.39,47832.2,-2.27,2023-02-25,Pune,3,21
+Normal Rice 1kg,Rice,Local,60.29,72.25,82.28,19.84,2024-10-21,Bangalore,7,16
+Silver 1g,Silver,Market,64.84,68.64,71.46,5.86,2024-07-04,Chennai,4,21
+Gold 22K 1g,Gold,Market,5795.36,7362.2,8755.52,27.04,2024-09-17,Pune,1,19
+Tomato 1kg,Vegetable,Local,28.15,28.57,28.87,1.49,2023-06-06,Delhi,6,17
+Silver 1g,Silver,Market,73.26,87.54,99.48,19.49,2023-02-17,Delhi,9,24
+Wheat Flour,Grocery,Amul,67.93,72.53,75.97,6.77,2023-05-11,Hyderabad,1,9
+Petrol 1L,Fuel,HP,72.08,92.48,110.8,28.3,2024-03-11,Chennai,1,2
+Gold 22K 1g,Gold,Market,5051.42,5663.62,6144.1,12.12,2024-02-19,Delhi,4,6
+Petrol 1L,Fuel,HP,99.53,123.79,144.91,24.37,2023-06-09,Delhi,1,2
+Milk 1L,Grocery,Madhur,33.79,39.28,43.75,16.25,2025-06-18,Delhi,6,21
+Gold 24K 1g,Gold,Market,6504.55,8140.59,9573.87,25.15,2024-06-20,Bangalore,10,11
+Gold 24K 1g,Gold,Market,4966.12,6660.27,8250.74,34.11,2024-04-12,Chennai,3,20
+Galaxy S24,Mobile,Realme,39268.29,38773.8,38432.02,-1.26,2023-01-20,Mumbai,6,24
+Onion 1kg,Vegetable,Local,58.57,68.09,75.84,16.25,2024-09-06,Delhi,4,8
+Silver 1g,Silver,Market,87.85,97.73,105.42,11.25,2023-12-01,Chennai,2,18
+HP Victus,Laptop,Dell,107369.31,128461.59,146126.63,19.64,2023-07-13,Hyderabad,8,1
+Milk 1L,Grocery,Madhur,74.08,78.77,82.26,6.33,2025-01-26,Pune,5,17
+Asus TUF,Laptop,Dell,40807.63,45916.8,49940.99,12.52,2024-12-28,Mumbai,1,19
+Gold 24K 1g,Gold,Market,5779.63,6721.15,7487.58,16.29,2025-03-04,Delhi,10,2
+Silver 1g,Silver,Market,91.06,97.92,103.08,7.53,2024-02-20,Delhi,10,3
+Bread,Grocery,Amul,97.32,113.51,126.73,16.64,2024-03-31,Pune,9,22
+Silver 1g,Silver,Market,80.84,98.81,114.19,22.23,2024-06-29,Hyderabad,3,6
+Dell Inspiron,Laptop,Dell,101262.14,127747.65,151136.68,26.16,2024-12-28,Mumbai,9,4
+Dell Inspiron,Laptop,Lenovo,80103.11,91021.0,99705.18,13.63,2024-11-26,Delhi,2,2
+Potato 1kg,Vegetable,Local,58.07,59.57,60.65,2.58,2024-07-20,Pune,8,11
+Gold 24K 1g,Gold,Market,6017.07,7095.0,7984.73,17.91,2023-09-29,Chennai,6,6
+Galaxy S24,Mobile,OnePlus,42172.19,51113.11,58698.65,21.2,2024-02-05,Pune,7,2
+Bread,Grocery,Britannia,61.74,75.82,87.92,22.81,2023-09-13,Kolkata,1,20
+Asus TUF,Laptop,Asus,52402.88,63351.73,72617.25,20.89,2025-06-08,Kolkata,8,18
+Sugar 1kg,Grocery,Aashirvaad,55.58,57.66,59.17,3.74,2025-03-19,Hyderabad,1,9
+Silver 1g,Silver,Market,69.92,69.03,68.41,-1.27,2023-06-15,Chennai,6,19
+Diesel 1L,Fuel,HP,100.07,129.3,155.74,29.21,2023-08-01,Mumbai,7,12
+Galaxy S24,Mobile,Apple,18205.03,20496.79,22302.97,12.59,2025-03-20,Hyderabad,5,15
+Premium Rice 1kg,Rice,Fortune,78.4,89.39,98.16,14.02,2025-04-12,Delhi,3,21
+Premium Rice 1kg,Rice,IndiaGate,76.21,87.0,95.62,14.16,2024-06-07,Chennai,10,2
+Petrol 1L,Fuel,BPCL,104.43,127.1,146.41,21.71,2023-10-10,Hyderabad,3,3
+Diesel 1L,Fuel,IndianOil,102.21,128.87,152.4,26.08,2024-06-09,Pune,7,9
+Milk 1L,Grocery,Amul,57.09,72.52,86.24,27.03,2024-03-07,Delhi,4,3
+Galaxy S24,Mobile,OnePlus,39570.48,44997.76,49317.92,13.72,2025-02-28,Pune,5,1
+Tomato 1kg,Vegetable,Local,36.3,42.86,48.28,18.07,2024-09-18,Delhi,9,22
+Normal Rice 1kg,Rice,Fortune,64.47,80.92,95.37,25.52,2025-03-18,Mumbai,5,11
+Premium Rice 1kg,Rice,Fortune,72.13,84.19,94.04,16.72,2025-06-06,Chennai,3,7
+Silver 1g,Silver,Market,95.92,95.13,94.58,-0.82,2024-02-24,Hyderabad,6,5
+Petrol 1L,Fuel,BPCL,82.87,86.92,89.89,4.89,2024-07-16,Bangalore,3,20
+Tomato 1kg,Vegetable,Local,44.95,47.18,48.82,4.96,2024-02-15,Pune,6,14
+Tomato 1kg,Vegetable,Local,45.48,50.23,53.9,10.44,2025-02-17,Hyderabad,7,4
+Tomato 1kg,Vegetable,Local,23.26,25.93,28.01,11.48,2025-02-23,Pune,2,2
+HP Victus,Laptop,Asus,42948.89,52630.97,60936.29,22.54,2023-11-20,Mumbai,7,20
+Realme GT,Mobile,Realme,61817.41,68592.64,73855.1,10.96,2024-02-26,Kolkata,2,9
+Normal Rice 1kg,Rice,Fortune,73.23,86.83,98.12,18.57,2024-11-01,Chennai,5,20
+Normal Rice 1kg,Rice,Fortune,50.28,64.37,77.0,28.02,2024-07-02,Mumbai,7,9
+Premium Rice 1kg,Rice,Local,73.6,86.02,96.18,16.88,2023-11-24,Delhi,1,23
+Silver 1g,Silver,Market,56.91,70.38,82.04,23.67,2023-06-08,Kolkata,8,13
+Galaxy S24,Mobile,Xiaomi,21408.8,24491.16,26959.46,14.4,2023-11-14,Mumbai,9,19
+Lenovo LOQ,Laptop,Lenovo,41131.62,47126.03,51933.64,14.57,2023-12-30,Kolkata,5,14
+Wheat Flour,Grocery,Britannia,56.87,72.99,87.47,28.35,2023-06-21,Mumbai,1,5
+Gold 22K 1g,Gold,Market,5884.26,6864.45,7664.88,16.66,2023-07-26,Delhi,10,20
+Silver 1g,Silver,Market,75.46,81.43,85.94,7.91,2024-01-14,Chennai,7,0
+Bread,Grocery,Madhur,86.53,94.68,100.92,9.42,2024-05-03,Kolkata,2,8
+Normal Rice 1kg,Rice,Fortune,81.27,101.33,118.84,24.68,2023-10-26,Hyderabad,8,14
+Normal Rice 1kg,Rice,IndiaGate,42.91,50.09,55.96,16.73,2024-06-01,Chennai,4,3
+OnePlus 12,Mobile,Samsung,25036.7,27863.16,30065.04,11.29,2023-12-30,Bangalore,6,15
+Silver 1g,Silver,Market,85.04,99.44,111.23,16.93,2023-02-13,Chennai,4,6
+Petrol 1L,Fuel,IndianOil,96.24,124.14,149.33,28.99,2024-12-07,Delhi,1,2
+Petrol 1L,Fuel,IndianOil,94.86,111.59,125.37,17.64,2023-11-18,Pune,6,12
+Wheat Flour,Grocery,Aashirvaad,61.03,61.88,62.48,1.39,2024-10-05,Kolkata,4,16
+Gold 24K 1g,Gold,Market,6241.68,7090.18,7764.87,13.59,2023-11-04,Delhi,2,14
+Bread,Grocery,Britannia,23.99,24.98,25.7,4.13,2024-08-12,Mumbai,8,5
+Wheat Flour,Grocery,Britannia,79.75,81.05,81.97,1.63,2024-11-29,Mumbai,2,22
+Silver 1g,Silver,Market,64.6,70.65,75.28,9.37,2024-07-25,Chennai,7,20
+Silver 1g,Silver,Market,64.29,76.5,86.67,18.99,2024-11-12,Chennai,3,9
+Gold 22K 1g,Gold,Market,5856.92,7021.39,7998.58,19.88,2024-05-09,Mumbai,4,9
+Sugar 1kg,Grocery,Britannia,83.67,85.81,87.35,2.56,2023-08-03,Pune,3,8
+Petrol 1L,Fuel,IndianOil,104.39,111.69,117.16,6.99,2023-08-07,Pune,5,18
+Silver 1g,Silver,Market,114.21,121.53,126.98,6.41,2024-08-13,Mumbai,5,16
+Normal Rice 1kg,Rice,Fortune,46.67,55.58,63.01,19.09,2024-11-13,Mumbai,5,14
+Onion 1kg,Vegetable,Local,69.05,76.94,83.09,11.43,2024-12-06,Kolkata,1,0
+Gold 24K 1g,Gold,Market,7316.05,7992.08,8509.03,9.24,2023-07-28,Kolkata,6,3
+Lenovo LOQ,Laptop,HP,106427.3,118027.61,127032.91,10.9,2024-11-11,Kolkata,9,6
+Wheat Flour,Grocery,Britannia,52.48,52.97,53.32,0.93,2024-08-31,Delhi,4,21
+Sugar 1kg,Grocery,Aashirvaad,39.12,45.18,50.08,15.49,2023-05-21,Pune,7,21
+Silver 1g,Silver,Market,95.89,103.24,108.78,7.67,2023-07-17,Delhi,8,20
+Potato 1kg,Vegetable,Local,27.44,30.99,33.8,12.94,2023-02-28,Kolkata,9,5
+Asus TUF,Laptop,HP,62838.46,74674.96,84521.21,18.84,2023-05-12,Chennai,1,25
+Normal Rice 1kg,Rice,Fortune,88.88,89.94,90.69,1.19,2024-09-17,Kolkata,2,24
+Milk 1L,Grocery,Britannia,63.38,76.42,87.43,20.57,2024-10-21,Pune,1,9
+Petrol 1L,Fuel,HP,103.75,126.34,145.6,21.77,2024-03-23,Bangalore,9,2
+Asus TUF,Laptop,Asus,41643.73,45287.7,48061.68,8.75,2025-03-23,Chennai,5,13
+Dell Inspiron,Laptop,Lenovo,35095.27,38340.22,40821.71,9.25,2023-10-09,Kolkata,8,25
+Milk 1L,Grocery,Britannia,28.52,29.67,30.51,4.03,2023-05-28,Mumbai,1,19
+Dell Inspiron,Laptop,HP,91635.67,107841.8,121192.37,17.69,2023-11-21,Bangalore,3,17
+Dell Inspiron,Laptop,Asus,103530.26,110528.41,115758.24,6.76,2023-06-28,Delhi,9,5
+OnePlus 12,Mobile,Realme,20958.94,23030.37,24623.68,9.88,2024-12-11,Kolkata,3,8
+HP Victus,Laptop,Dell,103733.6,107992.23,111095.65,4.11,2025-02-28,Mumbai,1,14
+Realme GT,Mobile,OnePlus,32236.78,42837.94,52699.11,32.89,2024-12-06,Hyderabad,3,1
+Petrol 1L,Fuel,HP,95.2,104.88,112.34,10.17,2024-03-10,Mumbai,9,7
+Gold 24K 1g,Gold,Market,7525.37,7761.87,7932.62,3.14,2023-11-08,Bangalore,8,18
+Dell Inspiron,Laptop,HP,93815.88,117665.88,138605.11,25.42,2023-06-03,Pune,8,20
+Potato 1kg,Vegetable,Local,29.31,37.18,44.17,26.85,2024-11-05,Hyderabad,9,0
+Potato 1kg,Vegetable,Local,60.42,73.18,84.0,21.12,2024-05-07,Delhi,4,22
+HP Victus,Laptop,Asus,97123.84,115789.86,131367.24,19.22,2024-07-12,Pune,3,19
+Dell Inspiron,Laptop,HP,87121.65,92968.79,97336.49,6.71,2024-08-07,Pune,6,21
+Normal Rice 1kg,Rice,Local,63.11,72.97,80.95,15.62,2023-08-16,Hyderabad,5,22
+Dell Inspiron,Laptop,Dell,50153.28,48678.05,47675.76,-2.94,2024-06-28,Hyderabad,2,14
+Premium Rice 1kg,Rice,IndiaGate,85.0,86.64,87.81,1.93,2023-02-28,Bangalore,2,25
+OnePlus 12,Mobile,OnePlus,55091.15,64834.99,72862.04,17.69,2024-10-27,Delhi,1,24
+Premium Rice 1kg,Rice,Fortune,82.23,96.16,107.56,16.94,2024-02-15,Kolkata,9,17
+Tomato 1kg,Vegetable,Local,54.9,65.14,73.64,18.65,2025-04-14,Hyderabad,10,11
+Onion 1kg,Vegetable,Local,23.76,29.0,33.48,22.05,2023-09-29,Delhi,2,13
+Tomato 1kg,Vegetable,Local,36.79,42.29,46.72,14.95,2023-10-10,Hyderabad,2,3
+Silver 1g,Silver,Market,59.21,59.25,59.28,0.07,2025-02-04,Bangalore,2,0
+Gold 24K 1g,Gold,Market,6820.71,8306.33,9572.77,21.78,2024-02-09,Pune,3,9
+Gold 24K 1g,Gold,Market,5115.16,5755.89,6260.58,12.53,2025-03-14,Hyderabad,8,5
+Normal Rice 1kg,Rice,Local,84.74,90.3,94.45,6.56,2023-09-27,Mumbai,5,3
+Gold 22K 1g,Gold,Market,6390.17,6929.6,7339.08,8.44,2023-07-30,Hyderabad,5,19
+Sugar 1kg,Grocery,Madhur,44.45,54.93,64.0,23.58,2023-07-27,Kolkata,2,1
+Milk 1L,Grocery,Madhur,104.75,118.62,129.61,13.24,2025-03-24,Pune,7,20
+Silver 1g,Silver,Market,71.74,93.48,113.31,30.3,2023-01-25,Bangalore,8,23
+Silver 1g,Silver,Market,71.87,79.54,85.48,10.67,2023-05-29,Kolkata,7,21
+OnePlus 12,Mobile,Apple,41400.2,40526.4,39927.65,-2.11,2024-07-17,Bangalore,8,23
+Silver 1g,Silver,Market,107.79,112.92,116.68,4.76,2023-09-13,Kolkata,10,14
+Diesel 1L,Fuel,HP,95.26,103.91,110.51,9.08,2024-04-17,Kolkata,2,15
+Tomato 1kg,Vegetable,Local,31.52,34.18,36.2,8.44,2023-06-08,Bangalore,9,23
+Diesel 1L,Fuel,IndianOil,106.79,112.56,116.82,5.4,2024-02-18,Hyderabad,8,9
+Galaxy S24,Mobile,Realme,22754.32,28542.95,33625.82,25.44,2023-03-02,Kolkata,5,18
+Redmi Note 14,Mobile,Samsung,69220.43,76343.81,81843.32,10.29,2023-12-16,Pune,1,9
+Milk 1L,Grocery,Britannia,48.8,57.94,65.54,18.73,2025-04-26,Mumbai,3,23
+Realme GT,Mobile,OnePlus,56245.2,62792.67,67909.43,11.64,2024-01-08,Mumbai,5,20
+Bread,Grocery,Britannia,90.89,117.39,141.35,29.16,2024-04-09,Bangalore,6,6
+Normal Rice 1kg,Rice,Local,53.42,64.0,72.87,19.81,2024-02-09,Pune,7,22
+Sugar 1kg,Grocery,Madhur,31.55,32.01,32.34,1.46,2024-04-25,Pune,2,21
+Gold 24K 1g,Gold,Market,5766.95,6661.97,7385.72,15.52,2023-06-11,Kolkata,3,6
+Onion 1kg,Vegetable,Local,21.28,25.97,29.98,22.04,2024-09-05,Bangalore,4,25
+Milk 1L,Grocery,Britannia,31.41,38.11,43.8,21.33,2023-08-04,Mumbai,5,19
+Lenovo LOQ,Laptop,Dell,77970.52,92227.94,104033.08,18.29,2024-04-29,Pune,3,2
+Gold 24K 1g,Gold,Market,5647.34,7137.86,8456.6,26.39,2024-10-23,Chennai,8,17
+Silver 1g,Silver,Market,83.09,87.54,90.82,5.36,2024-11-22,Chennai,9,22
+Silver 1g,Silver,Market,85.14,94.59,101.94,11.1,2024-12-10,Delhi,8,22
+iPhone 15,Mobile,Realme,67682.25,83741.32,97649.92,23.73,2025-04-29,Bangalore,3,1
+Sugar 1kg,Grocery,Aashirvaad,50.14,54.2,57.27,8.1,2024-04-30,Mumbai,3,15
+Milk 1L,Grocery,Madhur,62.54,71.11,77.93,13.7,2024-04-18,Hyderabad,2,4
+Gold 22K 1g,Gold,Market,6489.25,7501.58,8320.76,15.6,2024-09-29,Delhi,5,17
+Realme GT,Mobile,Samsung,11699.94,15419.86,18851.71,31.79,2024-07-17,Mumbai,10,7
+Galaxy S24,Mobile,Samsung,44628.94,52552.09,59082.93,17.75,2023-08-21,Mumbai,4,24
+Bread,Grocery,Aashirvaad,78.77,95.28,109.26,20.96,2023-07-13,Bangalore,9,14
+Gold 24K 1g,Gold,Market,5753.26,7392.88,8867.71,28.5,2024-02-18,Delhi,1,0
+Diesel 1L,Fuel,HP,96.11,116.68,134.16,21.4,2025-02-19,Delhi,3,15
+Petrol 1L,Fuel,BPCL,107.8,127.24,143.3,18.03,2023-06-02,Pune,3,20
+iPhone 15,Mobile,Samsung,78756.35,82339.84,84962.42,4.55,2024-02-03,Hyderabad,7,9
+Tomato 1kg,Vegetable,Local,66.08,77.05,86.0,16.6,2023-07-10,Pune,9,21
+Gold 22K 1g,Gold,Market,5593.29,6748.18,7723.52,20.65,2023-10-25,Pune,10,13
+Wheat Flour,Grocery,Amul,32.22,41.48,49.82,28.74,2023-04-06,Delhi,1,12
+Realme GT,Mobile,Samsung,37969.17,37723.52,37552.68,-0.65,2024-08-13,Delhi,5,14
+Gold 24K 1g,Gold,Market,5570.75,6491.02,7241.63,16.52,2023-03-23,Hyderabad,7,19
+Dell Inspiron,Laptop,HP,98021.77,109662.09,118777.94,11.88,2024-07-03,Delhi,4,3
+Gold 24K 1g,Gold,Market,5391.07,5515.8,5605.13,2.31,2024-06-23,Kolkata,3,24
+Normal Rice 1kg,Rice,IndiaGate,41.85,48.51,53.91,15.91,2025-01-03,Kolkata,7,13
+Silver 1g,Silver,Market,66.93,80.87,92.66,20.83,2023-04-16,Kolkata,10,0
+Silver 1g,Silver,Market,76.42,86.62,94.71,13.35,2024-08-20,Hyderabad,3,13
+Dell Inspiron,Laptop,Asus,33562.33,38149.37,41799.14,13.67,2024-11-06,Bangalore,10,5
+Realme GT,Mobile,Xiaomi,73352.41,79911.52,84913.45,8.94,2023-01-19,Delhi,7,9
+Diesel 1L,Fuel,IndianOil,106.01,123.77,138.28,16.75,2024-09-05,Delhi,6,9
+Asus TUF,Laptop,Lenovo,52373.18,54500.3,56049.76,4.06,2023-08-18,Delhi,6,2
+Gold 24K 1g,Gold,Market,5476.56,6847.69,8047.78,25.04,2023-09-24,Kolkata,7,23
+Tomato 1kg,Vegetable,Local,19.89,24.31,28.09,22.22,2024-09-08,Hyderabad,8,22
+Realme GT,Mobile,Samsung,44067.2,45554.46,46630.68,3.37,2024-07-25,Mumbai,2,14
+Potato 1kg,Vegetable,Local,61.57,65.62,68.64,6.58,2023-08-02,Kolkata,8,0
+HP Victus,Laptop,HP,57296.91,68434.8,77746.88,19.44,2024-05-19,Hyderabad,1,11
+Dell Inspiron,Laptop,Asus,75896.67,87989.05,97802.36,15.93,2024-03-02,Pune,2,12
+HP Victus,Laptop,Dell,53954.27,61618.22,67745.02,14.2,2023-05-30,Pune,7,20
+Normal Rice 1kg,Rice,Local,67.46,76.96,84.55,14.08,2025-02-23,Delhi,7,5
+HP Victus,Laptop,Asus,44347.76,55988.87,66276.67,26.25,2024-12-09,Mumbai,8,15
+Dell Inspiron,Laptop,Dell,60823.12,70365.3,78092.74,15.69,2025-03-18,Bangalore,2,19
+Premium Rice 1kg,Rice,Fortune,71.93,84.19,94.23,17.04,2025-02-23,Bangalore,4,0
+Silver 1g,Silver,Market,89.5,112.47,132.68,25.66,2025-05-12,Delhi,3,25
+Sugar 1kg,Grocery,Amul,49.05,56.06,61.67,14.29,2024-02-23,Hyderabad,7,11
+Lenovo LOQ,Laptop,Asus,100304.79,113926.29,124756.21,13.58,2025-03-10,Chennai,1,18
+Tomato 1kg,Vegetable,Local,21.11,24.18,26.64,14.54,2025-03-03,Delhi,9,4
+Gold 22K 1g,Gold,Market,6385.72,7031.03,7528.4,10.11,2023-05-31,Kolkata,1,2
+Asus TUF,Laptop,Dell,106809.42,118999.46,128506.35,11.41,2023-05-18,Chennai,10,16
+Sugar 1kg,Grocery,Madhur,21.76,24.66,26.96,13.33,2023-08-28,Pune,2,13
+Tomato 1kg,Vegetable,Local,33.24,41.53,48.78,24.94,2023-11-15,Bangalore,9,3
+Silver 1g,Silver,Market,109.75,126.56,140.13,15.32,2024-04-29,Bangalore,1,3
+Diesel 1L,Fuel,BPCL,99.52,102.27,104.25,2.76,2023-09-10,Kolkata,10,11
+Realme GT,Mobile,Apple,31783.89,31881.21,31949.54,0.31,2024-08-10,Chennai,2,25
+Silver 1g,Silver,Market,77.19,87.28,95.27,13.07,2024-05-01,Pune,4,9
+Onion 1kg,Vegetable,Local,67.62,67.51,67.43,-0.16,2024-10-11,Hyderabad,9,1
+Milk 1L,Grocery,Amul,100.35,104.08,106.79,3.72,2023-08-06,Hyderabad,7,4
+Bread,Grocery,Aashirvaad,108.67,125.69,139.47,15.66,2023-10-11,Delhi,10,12
+Lenovo LOQ,Laptop,Dell,39650.26,41098.22,42148.81,3.65,2024-01-20,Pune,1,13
+Realme GT,Mobile,Xiaomi,47911.8,53240.63,57385.69,11.12,2023-02-19,Mumbai,5,14
+Tomato 1kg,Vegetable,Local,68.76,75.84,81.31,10.3,2023-07-24,Hyderabad,4,14
+Petrol 1L,Fuel,IndianOil,70.81,79.94,87.16,12.89,2025-06-01,Chennai,7,16
+Onion 1kg,Vegetable,Local,43.29,49.73,54.91,14.88,2023-03-21,Mumbai,1,19
+Gold 22K 1g,Gold,Market,5124.29,6060.63,6835.83,18.27,2023-08-09,Delhi,1,2
+Onion 1kg,Vegetable,Local,35.1,37.73,39.71,7.49,2023-04-12,Hyderabad,7,25
+Realme GT,Mobile,Apple,26267.77,34029.62,41068.4,29.55,2023-05-24,Delhi,5,7
+Premium Rice 1kg,Rice,IndiaGate,39.92,39.89,39.87,-0.08,2024-07-25,Chennai,4,6
+Gold 24K 1g,Gold,Market,5863.83,6801.74,7563.29,15.99,2023-03-27,Delhi,9,8
+Petrol 1L,Fuel,IndianOil,96.19,113.86,128.5,18.37,2025-05-20,Delhi,1,1
+Gold 22K 1g,Gold,Market,7433.92,8502.03,9357.13,14.37,2023-03-11,Bangalore,3,10
+Realme GT,Mobile,Xiaomi,21351.84,21130.85,20977.76,-1.03,2024-08-24,Delhi,5,2
+Diesel 1L,Fuel,IndianOil,105.67,122.67,136.48,16.09,2024-08-22,Chennai,7,24
+Asus TUF,Laptop,Asus,58547.79,69156.11,77927.42,18.12,2023-12-21,Bangalore,3,2
+Normal Rice 1kg,Rice,IndiaGate,38.12,47.54,55.76,24.71,2023-01-05,Delhi,10,6
+Silver 1g,Silver,Market,110.07,118.43,124.73,7.6,2024-02-22,Delhi,7,4
+Realme GT,Mobile,Realme,13454.24,15314.33,16796.41,13.83,2023-10-31,Delhi,8,12
+Potato 1kg,Vegetable,Local,47.33,54.66,60.59,15.49,2024-06-21,Kolkata,10,3
+Realme GT,Mobile,Realme,49822.88,59083.96,66771.73,18.59,2023-01-17,Bangalore,3,4
+Tomato 1kg,Vegetable,Local,68.0,70.92,73.05,4.29,2023-01-19,Kolkata,10,16
+Tomato 1kg,Vegetable,Local,58.56,67.4,74.52,15.1,2023-07-13,Bangalore,7,24
+Redmi Note 14,Mobile,Realme,12517.1,14007.17,15174.39,11.9,2023-01-24,Bangalore,5,25
+iPhone 15,Mobile,OnePlus,37232.33,35925.81,35043.34,-3.51,2024-12-10,Pune,6,8
+Diesel 1L,Fuel,IndianOil,92.53,110.91,126.33,19.86,2023-01-28,Hyderabad,3,25
+iPhone 15,Mobile,OnePlus,63962.63,68650.89,72173.22,7.33,2024-03-31,Chennai,9,2
+Normal Rice 1kg,Rice,Local,79.07,89.92,98.56,13.72,2024-09-06,Delhi,1,21
+Redmi Note 14,Mobile,OnePlus,22280.71,27131.45,31266.21,21.77,2023-09-22,Pune,8,23
+Silver 1g,Silver,Market,62.36,72.45,80.66,16.18,2024-06-09,Chennai,5,0
+Gold 24K 1g,Gold,Market,4718.13,5672.94,6476.56,20.24,2023-05-23,Chennai,1,16
+Tomato 1kg,Vegetable,Local,36.22,42.26,47.19,16.68,2025-01-28,Mumbai,1,6
+Premium Rice 1kg,Rice,Fortune,77.57,93.85,107.64,20.99,2023-12-02,Bangalore,9,18
+Petrol 1L,Fuel,HP,109.24,116.33,121.62,6.49,2024-05-03,Mumbai,6,8
+Normal Rice 1kg,Rice,IndiaGate,59.36,72.26,83.25,21.73,2024-06-03,Pune,3,16
+Gold 24K 1g,Gold,Market,4973.6,5797.08,6468.96,16.56,2023-07-03,Kolkata,6,1
+Wheat Flour,Grocery,Britannia,62.93,64.77,66.1,2.92,2023-01-18,Delhi,7,1
+Gold 24K 1g,Gold,Market,5836.34,6648.17,7295.5,13.91,2025-05-04,Bangalore,7,0
+Silver 1g,Silver,Market,84.96,92.57,98.37,8.96,2024-11-16,Mumbai,6,10
+Gold 22K 1g,Gold,Market,5992.17,6913.97,7658.49,15.38,2023-01-09,Bangalore,6,4
+Premium Rice 1kg,Rice,IndiaGate,82.02,92.89,101.51,13.25,2025-01-11,Pune,3,16
+Potato 1kg,Vegetable,Local,49.22,54.69,58.94,11.11,2024-08-22,Kolkata,6,7
+HP Victus,Laptop,Asus,117444.22,127778.0,135648.13,8.8,2024-09-15,Hyderabad,6,2
+Silver 1g,Silver,Market,86.78,99.29,109.31,14.42,2023-01-05,Kolkata,3,12
+Premium Rice 1kg,Rice,Local,53.19,58.45,62.5,9.89,2025-03-20,Chennai,10,6
+Galaxy S24,Mobile,Realme,71556.27,83226.98,92728.91,16.31,2024-08-07,Bangalore,6,22
+Petrol 1L,Fuel,HP,87.2,108.03,126.09,23.89,2025-06-15,Bangalore,4,11
+Gold 22K 1g,Gold,Market,4843.67,5369.47,5777.48,10.86,2023-05-22,Bangalore,9,9
+Diesel 1L,Fuel,IndianOil,112.32,117.64,121.54,4.74,2023-08-26,Mumbai,4,13
+HP Victus,Laptop,HP,41328.42,46936.45,51394.76,13.57,2023-11-07,Mumbai,10,3
+Dell Inspiron,Laptop,Lenovo,34615.01,38151.81,40880.53,10.22,2024-08-20,Bangalore,10,9
+Asus TUF,Laptop,HP,53807.89,59690.86,64259.18,10.93,2024-05-07,Delhi,9,16
+Dell Inspiron,Laptop,Dell,59871.29,70964.75,80169.02,18.53,2025-03-14,Hyderabad,5,20
+Diesel 1L,Fuel,IndianOil,107.53,128.41,145.86,19.42,2024-03-05,Delhi,6,0
+Silver 1g,Silver,Market,80.79,86.35,90.51,6.88,2025-02-10,Kolkata,5,6
+Asus TUF,Laptop,HP,73379.36,79376.51,83917.61,8.17,2023-02-18,Chennai,2,15
+Silver 1g,Silver,Market,93.49,107.39,118.57,14.87,2024-09-08,Mumbai,7,3
+Normal Rice 1kg,Rice,Fortune,52.65,60.9,67.58,15.67,2024-09-13,Kolkata,8,14
+OnePlus 12,Mobile,Realme,44616.76,46790.79,48386.76,4.87,2024-10-26,Pune,1,25
+Sugar 1kg,Grocery,Aashirvaad,23.52,25.68,27.33,9.18,2023-04-02,Chennai,1,11
+Redmi Note 14,Mobile,Apple,68901.43,78617.11,86377.08,14.1,2023-08-10,Chennai,4,20
+Wheat Flour,Grocery,Aashirvaad,114.45,125.0,133.07,9.22,2025-05-09,Bangalore,6,23
+Lenovo LOQ,Laptop,HP,91482.16,95919.3,99175.95,4.85,2024-11-03,Chennai,10,0
+HP Victus,Laptop,Dell,113785.15,132422.77,147606.05,16.38,2023-03-09,Delhi,2,24
+Petrol 1L,Fuel,HP,76.9,89.66,100.07,16.59,2024-10-31,Hyderabad,10,8
+Bread,Grocery,Amul,79.27,78.15,77.38,-1.41,2024-07-07,Kolkata,4,14
+Silver 1g,Silver,Market,80.17,82.32,83.87,2.68,2023-10-31,Chennai,3,23
+Silver 1g,Silver,Market,93.45,109.39,122.45,17.06,2024-10-02,Delhi,5,1
+Silver 1g,Silver,Market,71.73,86.11,98.19,20.05,2023-08-14,Mumbai,5,20
+Gold 24K 1g,Gold,Market,6646.85,8700.72,10582.68,30.9,2025-01-19,Kolkata,8,15
+Sugar 1kg,Grocery,Amul,73.79,85.48,94.96,15.84,2023-09-06,Delhi,10,17
+Potato 1kg,Vegetable,Local,45.91,45.86,45.83,-0.11,2023-05-09,Bangalore,5,8
+Gold 22K 1g,Gold,Market,6310.94,6532.48,6693.0,3.51,2024-12-06,Pune,8,7
+Silver 1g,Silver,Market,90.47,113.29,133.29,25.22,2024-06-17,Delhi,3,20
+Gold 24K 1g,Gold,Market,6438.14,7494.1,8354.51,16.4,2024-12-08,Kolkata,1,23
+Lenovo LOQ,Laptop,Lenovo,49691.67,50319.31,50764.21,1.26,2025-02-01,Mumbai,4,11
+Gold 24K 1g,Gold,Market,5477.58,6313.94,6988.78,15.27,2023-06-05,Kolkata,4,22
+Galaxy S24,Mobile,OnePlus,42946.63,49377.01,54552.25,14.97,2023-09-29,Mumbai,2,14
+Sugar 1kg,Grocery,Madhur,61.95,73.58,83.25,18.77,2025-04-21,Bangalore,9,16
+Dell Inspiron,Laptop,Lenovo,73723.41,81860.15,88184.5,11.04,2023-10-23,Kolkata,3,6
+HP Victus,Laptop,HP,81873.93,93626.73,103034.65,14.35,2023-05-29,Pune,3,4
+Diesel 1L,Fuel,HP,86.68,99.36,109.53,14.63,2025-03-28,Delhi,5,24
+Onion 1kg,Vegetable,Local,62.09,69.41,75.14,11.79,2024-07-24,Hyderabad,9,21
+Gold 24K 1g,Gold,Market,6203.94,6509.05,6733.13,4.92,2023-11-18,Chennai,10,17
+Gold 22K 1g,Gold,Market,5035.01,5335.31,5558.06,5.96,2023-06-05,Chennai,8,22
+Galaxy S24,Mobile,Xiaomi,78241.75,87627.23,94985.15,12.0,2023-11-22,Pune,9,14
+Realme GT,Mobile,Xiaomi,25033.01,28879.29,31985.37,15.36,2023-07-18,Bangalore,2,9
+Petrol 1L,Fuel,BPCL,73.67,96.42,117.26,30.88,2023-12-16,Hyderabad,6,7
+Wheat Flour,Grocery,Britannia,38.53,39.91,40.91,3.58,2025-03-29,Hyderabad,3,3
+Potato 1kg,Vegetable,Local,68.72,72.67,75.59,5.75,2024-08-24,Chennai,7,19
+Premium Rice 1kg,Rice,Local,36.24,38.13,39.52,5.22,2023-01-28,Pune,3,11
+Silver 1g,Silver,Market,86.72,102.73,116.01,18.46,2025-05-29,Mumbai,5,1
+Normal Rice 1kg,Rice,IndiaGate,53.49,61.42,67.79,14.83,2023-02-21,Pune,2,1
+Redmi Note 14,Mobile,Samsung,39168.2,49034.38,57680.36,25.19,2025-05-21,Mumbai,1,6
+Asus TUF,Laptop,Dell,85058.38,95374.06,103470.78,12.13,2025-01-16,Hyderabad,2,24
+Gold 24K 1g,Gold,Market,5868.33,6509.6,7007.54,10.93,2025-01-07,Hyderabad,2,9
+Tomato 1kg,Vegetable,Local,30.16,36.4,41.67,20.69,2024-03-08,Chennai,7,9
+Silver 1g,Silver,Market,86.46,100.52,111.96,16.26,2023-01-31,Hyderabad,2,24
+Silver 1g,Silver,Market,68.63,83.86,96.89,22.19,2023-03-19,Mumbai,3,15
+Bread,Grocery,Amul,38.27,45.01,50.56,17.61,2024-02-29,Bangalore,4,25
+Silver 1g,Silver,Market,78.67,88.16,95.6,12.06,2023-12-17,Delhi,8,14
+Silver 1g,Silver,Market,86.25,100.01,111.18,15.95,2024-08-15,Chennai,8,19
+Galaxy S24,Mobile,Samsung,52986.33,63981.2,73274.64,20.75,2025-06-03,Bangalore,9,22
+iPhone 15,Mobile,OnePlus,48403.81,51363.38,53561.75,6.11,2023-02-05,Delhi,5,11
+Lenovo LOQ,Laptop,Asus,80864.82,86412.41,90562.13,6.86,2023-02-20,Chennai,5,25
+Bread,Grocery,Aashirvaad,61.52,65.75,68.91,6.88,2024-07-09,Bangalore,1,2
+Gold 22K 1g,Gold,Market,6466.74,7116.69,7617.38,10.05,2025-03-01,Pune,2,18
+Diesel 1L,Fuel,HP,85.78,99.48,110.6,15.97,2023-01-19,Bangalore,10,6
+Dell Inspiron,Laptop,Asus,81591.8,99797.31,115384.69,22.31,2024-03-23,Bangalore,7,9
+Silver 1g,Silver,Market,65.19,68.81,71.48,5.55,2024-05-01,Bangalore,10,19
+Gold 22K 1g,Gold,Market,5057.18,5437.27,5723.33,7.52,2024-12-17,Bangalore,3,15
+Silver 1g,Silver,Market,93.4,106.24,116.46,13.75,2024-12-14,Mumbai,9,1
+iPhone 15,Mobile,Apple,71610.19,76208.52,79634.04,6.42,2023-09-04,Delhi,4,16
+iPhone 15,Mobile,OnePlus,20875.36,22445.33,23626.96,7.52,2023-07-02,Mumbai,1,23
+Onion 1kg,Vegetable,Local,49.27,59.65,68.45,21.07,2023-01-30,Mumbai,2,14
+Silver 1g,Silver,Market,91.8,102.89,111.59,12.08,2024-10-10,Pune,5,23
+Diesel 1L,Fuel,HP,93.43,109.23,122.16,16.91,2023-06-06,Hyderabad,10,17
+Diesel 1L,Fuel,HP,94.94,97.16,98.75,2.34,2025-02-06,Bangalore,3,9
+Premium Rice 1kg,Rice,IndiaGate,38.85,41.51,43.5,6.85,2025-03-16,Mumbai,2,15
+Gold 24K 1g,Gold,Market,6230.86,6557.98,6798.99,5.25,2023-06-01,Mumbai,1,4
+Bread,Grocery,Aashirvaad,72.61,87.43,99.92,20.41,2023-11-01,Pune,2,16
+Premium Rice 1kg,Rice,Local,54.56,63.89,71.54,17.1,2023-12-11,Bangalore,3,14
+Diesel 1L,Fuel,BPCL,71.04,89.15,105.06,25.49,2023-05-02,Pune,10,22
+iPhone 15,Mobile,Samsung,14529.88,16220.63,17541.87,11.64,2024-01-13,Kolkata,4,6
+Potato 1kg,Vegetable,Local,57.11,71.06,83.21,24.43,2023-12-01,Chennai,3,12
+Normal Rice 1kg,Rice,IndiaGate,63.78,77.79,89.75,21.97,2024-02-27,Hyderabad,2,22
+Diesel 1L,Fuel,BPCL,86.62,103.34,117.3,19.3,2025-02-18,Bangalore,2,10
+Silver 1g,Silver,Market,73.07,78.13,81.92,6.92,2023-04-30,Delhi,1,6
+Gold 24K 1g,Gold,Market,6271.26,6483.08,6636.36,3.38,2025-05-17,Pune,4,6
+Gold 22K 1g,Gold,Market,6997.86,6801.66,6668.17,-2.8,2024-03-23,Mumbai,9,1
+Silver 1g,Silver,Market,102.47,108.53,113.02,5.91,2024-11-23,Hyderabad,2,6
+Onion 1kg,Vegetable,Local,52.24,58.17,62.79,11.35,2024-12-07,Bangalore,10,11
+Sugar 1kg,Grocery,Amul,99.19,109.16,116.84,10.05,2024-08-08,Pune,2,13
+Silver 1g,Silver,Market,97.71,108.05,116.05,10.58,2025-05-26,Kolkata,4,18
+Normal Rice 1kg,Rice,Fortune,84.02,99.99,113.29,19.01,2024-01-21,Mumbai,1,10
+Diesel 1L,Fuel,IndianOil,82.75,97.15,108.98,17.4,2024-04-28,Bangalore,1,14
+Milk 1L,Grocery,Aashirvaad,29.34,32.16,34.32,9.61,2023-11-19,Mumbai,8,4
+Sugar 1kg,Grocery,Britannia,101.38,108.18,113.26,6.71,2024-10-14,Delhi,4,22
+Petrol 1L,Fuel,IndianOil,106.63,105.75,105.14,-0.83,2024-08-13,Kolkata,10,6
+Silver 1g,Silver,Market,64.03,73.08,80.31,14.13,2024-09-24,Kolkata,9,22
+iPhone 15,Mobile,Xiaomi,35245.28,44717.97,53131.0,26.88,2023-02-17,Mumbai,7,12
+Petrol 1L,Fuel,HP,73.22,78.32,82.14,6.97,2024-03-10,Mumbai,10,21
+Sugar 1kg,Grocery,Madhur,50.74,50.84,50.91,0.2,2024-10-15,Chennai,1,25
+Silver 1g,Silver,Market,102.03,127.08,148.92,24.55,2024-05-20,Chennai,3,22
+Lenovo LOQ,Laptop,Asus,85821.45,95870.57,103728.63,11.71,2024-11-05,Chennai,9,15
+Realme GT,Mobile,Realme,44785.76,48359.56,51060.85,7.98,2024-02-22,Kolkata,1,6
+Gold 22K 1g,Gold,Market,4791.81,5066.7,5270.16,5.74,2024-10-17,Bangalore,5,1
+Diesel 1L,Fuel,IndianOil,80.79,80.24,79.86,-0.68,2024-01-20,Hyderabad,6,1
+Onion 1kg,Vegetable,Local,33.19,39.31,44.38,18.44,2023-08-27,Pune,10,21
+Silver 1g,Silver,Market,73.83,81.52,87.46,10.42,2023-10-01,Hyderabad,3,1
+Potato 1kg,Vegetable,Local,21.75,26.46,30.47,21.66,2024-01-23,Mumbai,1,6
+HP Victus,Laptop,HP,89167.08,113138.17,134428.89,26.88,2024-02-28,Bangalore,10,21
+Diesel 1L,Fuel,BPCL,104.14,123.26,139.1,18.36,2024-07-19,Pune,1,8
+Petrol 1L,Fuel,IndianOil,79.35,98.62,115.38,24.28,2023-11-27,Hyderabad,8,12
+Silver 1g,Silver,Market,57.82,72.06,84.48,24.63,2023-12-28,Bangalore,6,15
+Onion 1kg,Vegetable,Local,35.76,39.03,41.53,9.14,2023-02-23,Mumbai,8,20
+Petrol 1L,Fuel,IndianOil,106.89,115.29,121.63,7.86,2025-04-16,Mumbai,5,17
+Diesel 1L,Fuel,HP,95.24,114.79,131.28,20.53,2023-04-03,Chennai,6,2
+Milk 1L,Grocery,Britannia,69.11,72.93,75.75,5.53,2024-02-19,Bangalore,7,17
+Silver 1g,Silver,Market,105.65,117.89,127.45,11.59,2024-05-27,Mumbai,1,24
+Milk 1L,Grocery,Aashirvaad,43.72,50.14,55.29,14.68,2023-10-13,Kolkata,2,18
+Onion 1kg,Vegetable,Local,26.12,33.73,40.61,29.13,2024-01-13,Chennai,6,4
+Gold 22K 1g,Gold,Market,5667.22,6416.37,7010.1,13.22,2024-09-16,Bangalore,3,7
+Bread,Grocery,Madhur,68.75,66.76,65.41,-2.89,2023-12-12,Kolkata,6,19
+Realme GT,Mobile,Samsung,49434.88,57534.51,64133.21,16.38,2023-05-16,Bangalore,8,22
+Tomato 1kg,Vegetable,Local,59.27,67.31,73.7,13.57,2023-02-04,Bangalore,4,5
+Sugar 1kg,Grocery,Britannia,24.64,25.84,26.72,4.87,2023-10-31,Delhi,6,0
+Silver 1g,Silver,Market,71.59,88.28,102.69,23.31,2023-09-25,Kolkata,9,10
+Premium Rice 1kg,Rice,IndiaGate,65.9,73.79,79.97,11.97,2024-07-16,Bangalore,1,13
+Premium Rice 1kg,Rice,Fortune,50.41,58.13,64.36,15.31,2024-07-15,Bangalore,7,17
+Wheat Flour,Grocery,Aashirvaad,49.06,54.31,58.38,10.7,2024-03-23,Kolkata,10,1
+Gold 22K 1g,Gold,Market,5352.61,5179.21,5061.76,-3.24,2024-05-20,Chennai,2,18
+Gold 24K 1g,Gold,Market,6792.15,7666.39,8357.13,12.87,2023-09-13,Bangalore,2,20
+OnePlus 12,Mobile,Xiaomi,58203.48,59626.75,60647.4,2.45,2024-03-14,Delhi,1,0
+Onion 1kg,Vegetable,Local,48.87,53.06,56.24,8.57,2024-03-31,Kolkata,2,16
+Gold 24K 1g,Gold,Market,6357.66,8217.93,9901.14,29.26,2025-06-02,Chennai,10,9
+Gold 22K 1g,Gold,Market,5328.49,6059.52,6641.45,13.72,2024-10-02,Bangalore,2,6
+Redmi Note 14,Mobile,OnePlus,12951.92,15837.34,18307.1,22.28,2024-09-19,Bangalore,3,1
+Galaxy S24,Mobile,Apple,59326.8,71355.76,81483.31,20.28,2025-01-12,Kolkata,4,11
+Lenovo LOQ,Laptop,Asus,103868.35,115700.2,124925.95,11.39,2023-09-17,Kolkata,9,1
+Silver 1g,Silver,Market,70.82,90.41,107.92,27.66,2024-07-14,Hyderabad,8,4
+Gold 24K 1g,Gold,Market,6487.26,7420.32,8167.4,14.38,2024-09-15,Pune,8,22
+Gold 24K 1g,Gold,Market,7250.09,7449.48,7592.89,2.75,2025-06-16,Mumbai,10,24
+iPhone 15,Mobile,Apple,81659.51,92919.5,101888.34,13.79,2024-10-23,Mumbai,8,1
+Potato 1kg,Vegetable,Local,68.1,71.34,73.72,4.76,2024-07-02,Delhi,4,4
+Bread,Grocery,Madhur,59.4,72.62,83.93,22.26,2024-03-31,Mumbai,10,23
+Redmi Note 14,Mobile,Realme,71017.37,87423.01,101559.85,23.1,2024-08-06,Pune,5,15
+Diesel 1L,Fuel,IndianOil,98.56,117.1,132.52,18.81,2025-01-02,Chennai,6,8
+Galaxy S24,Mobile,Samsung,68260.05,79335.28,88345.81,16.23,2025-04-30,Mumbai,7,1
+Silver 1g,Silver,Market,68.7,87.15,103.53,26.86,2025-04-08,Chennai,5,17
+HP Victus,Laptop,HP,69613.42,73213.84,75864.48,5.17,2024-10-30,Mumbai,5,7
+Milk 1L,Grocery,Amul,43.01,52.98,61.58,23.18,2025-03-28,Mumbai,5,18
+Silver 1g,Silver,Market,68.54,75.51,80.89,10.17,2023-04-13,Kolkata,10,16
+Diesel 1L,Fuel,BPCL,109.94,131.95,150.44,20.02,2024-12-28,Pune,8,16
+Petrol 1L,Fuel,HP,103.13,118.78,131.4,15.18,2023-12-13,Bangalore,4,1
+Sugar 1kg,Grocery,Britannia,49.58,54.97,59.15,10.87,2023-08-10,Bangalore,3,17
+Redmi Note 14,Mobile,OnePlus,77396.44,78512.27,79304.61,1.44,2025-04-19,Mumbai,3,15
+Gold 22K 1g,Gold,Market,5634.28,6707.33,7601.52,19.05,2023-12-13,Mumbai,6,23
+OnePlus 12,Mobile,OnePlus,21649.2,27997.75,33744.92,29.32,2023-07-01,Chennai,7,6
+Silver 1g,Silver,Market,107.31,108.48,109.31,1.09,2023-03-25,Kolkata,6,4
+Gold 22K 1g,Gold,Market,7119.48,8195.39,9062.34,15.11,2024-05-25,Bangalore,3,6
+Bread,Grocery,Amul,32.62,35.61,37.89,9.17,2025-03-03,Delhi,9,17
+Normal Rice 1kg,Rice,IndiaGate,65.61,74.96,82.44,14.25,2023-03-29,Delhi,7,10
+Redmi Note 14,Mobile,Xiaomi,19972.18,22610.86,24701.97,13.21,2024-05-27,Hyderabad,3,23
+Gold 22K 1g,Gold,Market,7116.99,7102.65,7092.63,-0.2,2025-06-18,Delhi,6,13
+Gold 22K 1g,Gold,Market,6704.1,7077.83,7354.02,5.57,2024-07-07,Hyderabad,8,23
+Sugar 1kg,Grocery,Britannia,74.91,80.72,85.1,7.76,2024-01-21,Pune,1,23
+Premium Rice 1kg,Rice,IndiaGate,78.85,89.01,97.04,12.89,2024-06-21,Delhi,5,13
+iPhone 15,Mobile,OnePlus,21250.4,25160.42,28401.04,18.4,2024-07-02,Pune,9,6
+Gold 24K 1g,Gold,Market,5745.26,6161.75,6474.43,7.25,2024-04-03,Mumbai,1,25
+OnePlus 12,Mobile,OnePlus,49797.72,59373.05,67364.61,19.23,2023-01-20,Chennai,2,21
+Silver 1g,Silver,Market,88.58,90.19,91.34,1.82,2023-08-26,Kolkata,4,3
+Premium Rice 1kg,Rice,Local,64.71,82.63,98.65,27.69,2023-10-22,Hyderabad,9,14
+Diesel 1L,Fuel,IndianOil,79.71,96.51,110.75,21.08,2023-10-10,Kolkata,3,12
+Gold 24K 1g,Gold,Market,6095.18,6740.96,7240.9,10.59,2023-03-14,Mumbai,9,18
+Tomato 1kg,Vegetable,Local,71.28,77.28,81.83,8.42,2024-02-19,Pune,3,0
+Tomato 1kg,Vegetable,Local,37.17,42.93,47.59,15.5,2025-02-14,Kolkata,6,14
+Wheat Flour,Grocery,Amul,109.08,125.11,137.98,14.7,2024-11-16,Chennai,5,1
+Bread,Grocery,Amul,28.63,31.09,32.96,8.59,2024-07-21,Delhi,3,19
+Onion 1kg,Vegetable,Local,40.72,47.45,52.94,16.53,2023-07-26,Hyderabad,4,23
+Gold 24K 1g,Gold,Market,6874.13,8376.21,9657.42,21.85,2024-06-16,Kolkata,10,25
+Onion 1kg,Vegetable,Local,57.85,59.93,61.44,3.6,2023-08-21,Chennai,6,7
+Sugar 1kg,Grocery,Madhur,70.92,73.79,75.88,4.05,2025-04-17,Mumbai,4,1
+Gold 22K 1g,Gold,Market,5346.16,5999.5,6512.73,12.22,2024-07-13,Pune,2,18
+Premium Rice 1kg,Rice,IndiaGate,63.57,68.49,72.2,7.74,2023-06-30,Bangalore,5,20
+Gold 24K 1g,Gold,Market,6656.49,8064.03,9257.65,21.15,2024-04-07,Hyderabad,5,5
+Gold 24K 1g,Gold,Market,6152.8,6372.36,6531.54,3.57,2025-03-12,Mumbai,8,1
+Onion 1kg,Vegetable,Local,35.03,43.43,50.72,23.98,2025-03-03,Chennai,8,10
+Silver 1g,Silver,Market,67.69,83.13,96.4,22.81,2024-11-12,Hyderabad,1,2
+Sugar 1kg,Grocery,Amul,73.3,93.39,111.31,27.41,2024-10-28,Kolkata,7,10
+Milk 1L,Grocery,Amul,43.12,53.0,61.5,22.91,2024-12-13,Bangalore,6,25
+Gold 24K 1g,Gold,Market,6038.27,7839.2,9475.84,29.83,2024-05-26,Kolkata,2,13
+Gold 24K 1g,Gold,Market,6407.43,6822.61,7132.07,6.48,2025-01-01,Pune,2,14
+Silver 1g,Silver,Market,78.76,79.67,80.31,1.16,2023-04-25,Pune,10,20
+Normal Rice 1kg,Rice,Local,43.03,50.05,55.77,16.31,2024-03-18,Chennai,7,9
+Premium Rice 1kg,Rice,IndiaGate,76.27,79.89,82.54,4.75,2024-11-27,Pune,9,23
+Petrol 1L,Fuel,HP,79.46,80.36,81.0,1.13,2023-12-02,Hyderabad,10,21
+Tomato 1kg,Vegetable,Local,46.03,48.1,49.61,4.5,2025-02-07,Pune,7,8
+Petrol 1L,Fuel,BPCL,89.78,112.52,132.47,25.33,2024-06-06,Chennai,4,16
+Diesel 1L,Fuel,IndianOil,85.1,85.66,86.05,0.66,2023-03-29,Kolkata,2,16
+Milk 1L,Grocery,Britannia,45.97,61.48,76.0,33.74,2023-05-10,Chennai,4,7
+Sugar 1kg,Grocery,Aashirvaad,38.69,40.54,41.9,4.78,2024-01-06,Kolkata,10,18
+OnePlus 12,Mobile,OnePlus,49382.2,56358.2,61931.23,14.13,2023-12-31,Mumbai,4,15
+Realme GT,Mobile,Samsung,42516.69,44881.22,46628.44,5.56,2024-05-27,Kolkata,10,8
+Normal Rice 1kg,Rice,Fortune,46.28,49.97,52.76,7.97,2025-05-31,Delhi,9,22
+Wheat Flour,Grocery,Aashirvaad,44.69,57.25,68.51,28.1,2023-12-22,Delhi,2,18
+Silver 1g,Silver,Market,117.52,114.5,112.44,-2.57,2024-05-20,Chennai,5,9
+Lenovo LOQ,Laptop,Dell,48466.34,51911.83,54495.13,7.11,2023-04-24,Kolkata,7,15
+Lenovo LOQ,Laptop,Asus,41394.97,47646.55,52683.55,15.1,2024-03-30,Kolkata,8,22
+Gold 24K 1g,Gold,Market,4671.35,5102.25,5431.7,9.22,2024-10-25,Mumbai,8,7
+Onion 1kg,Vegetable,Local,21.69,25.1,27.86,15.72,2023-06-09,Kolkata,7,24
+Gold 22K 1g,Gold,Market,5300.92,5774.82,6136.21,8.94,2024-01-14,Chennai,8,25
+Redmi Note 14,Mobile,Xiaomi,16643.54,16437.81,16295.58,-1.24,2025-06-09,Delhi,5,25
+Petrol 1L,Fuel,HP,105.64,121.87,134.98,15.36,2023-10-21,Pune,5,21
+Normal Rice 1kg,Rice,Local,61.66,73.5,83.38,19.2,2024-02-09,Kolkata,4,4
+Gold 22K 1g,Gold,Market,5025.76,6242.08,7299.56,24.2,2024-06-29,Bangalore,8,5
+Silver 1g,Silver,Market,96.3,107.24,115.77,11.36,2024-11-30,Pune,9,14
+Petrol 1L,Fuel,BPCL,97.88,125.25,149.77,27.96,2025-02-09,Hyderabad,1,7
+Tomato 1kg,Vegetable,Local,19.56,22.42,24.71,14.62,2024-11-28,Kolkata,4,24
+Normal Rice 1kg,Rice,IndiaGate,71.9,76.52,79.96,6.43,2023-03-25,Hyderabad,5,17
+Silver 1g,Silver,Market,63.69,68.02,71.26,6.8,2023-01-11,Mumbai,2,14
+Redmi Note 14,Mobile,Realme,38930.6,43291.93,46686.88,11.2,2023-10-06,Pune,1,11
+Onion 1kg,Vegetable,Local,31.01,37.02,42.04,19.38,2023-05-14,Bangalore,1,11
+Sugar 1kg,Grocery,Britannia,42.57,44.52,45.95,4.58,2023-09-05,Pune,5,7
+Redmi Note 14,Mobile,OnePlus,27881.99,31684.64,34709.53,13.64,2023-01-30,Pune,4,11
+Onion 1kg,Vegetable,Local,55.61,64.68,72.06,16.31,2023-04-13,Chennai,1,17
+Normal Rice 1kg,Rice,IndiaGate,61.93,68.46,73.51,10.54,2025-03-27,Hyderabad,4,21
+Wheat Flour,Grocery,Amul,83.41,101.88,117.67,22.14,2023-09-23,Chennai,2,8
+Wheat Flour,Grocery,Aashirvaad,79.09,89.5,97.75,13.16,2024-07-18,Delhi,5,18
+Potato 1kg,Vegetable,Local,47.66,57.31,65.43,20.25,2023-12-16,Pune,9,14
+Silver 1g,Silver,Market,102.91,116.94,128.1,13.63,2024-11-07,Delhi,5,22
+Onion 1kg,Vegetable,Local,25.64,30.18,33.92,17.71,2025-03-14,Mumbai,6,25
+Premium Rice 1kg,Rice,IndiaGate,46.63,51.27,54.84,9.95,2023-12-30,Pune,10,17
+Diesel 1L,Fuel,BPCL,82.18,98.41,112.01,19.75,2023-02-20,Hyderabad,3,11
+Petrol 1L,Fuel,HP,88.66,102.7,114.08,15.84,2024-03-21,Hyderabad,1,2
+Silver 1g,Silver,Market,65.15,78.2,89.16,20.03,2023-04-24,Pune,8,21
+Diesel 1L,Fuel,IndianOil,69.94,91.68,111.63,31.08,2023-01-31,Mumbai,8,11
+iPhone 15,Mobile,Samsung,37240.45,48268.93,58275.07,29.61,2023-11-12,Pune,9,0
+Silver 1g,Silver,Market,83.31,111.37,137.63,33.68,2025-05-16,Delhi,3,19
+Onion 1kg,Vegetable,Local,56.79,65.21,71.98,14.83,2024-08-01,Mumbai,9,0
+Gold 24K 1g,Gold,Market,5370.91,6224.57,6917.11,15.89,2023-10-21,Kolkata,3,16
+Tomato 1kg,Vegetable,Local,54.55,58.32,61.14,6.91,2023-08-29,Pune,3,9
+Galaxy S24,Mobile,OnePlus,50515.17,55547.85,59421.7,9.96,2024-07-19,Delhi,8,6
+OnePlus 12,Mobile,Apple,17862.83,20960.69,23505.26,17.34,2024-05-02,Hyderabad,2,16
+Onion 1kg,Vegetable,Local,21.78,25.84,29.21,18.64,2024-07-08,Bangalore,8,25
+Normal Rice 1kg,Rice,Fortune,68.5,82.16,93.63,19.94,2023-05-21,Mumbai,7,21
+Normal Rice 1kg,Rice,IndiaGate,54.89,63.62,70.7,15.9,2024-04-24,Hyderabad,6,11
+Wheat Flour,Grocery,Madhur,95.76,108.91,119.38,13.73,2024-07-13,Hyderabad,10,14
+Gold 22K 1g,Gold,Market,5610.55,7232.7,8696.51,28.91,2025-01-01,Pune,2,9
+Asus TUF,Laptop,HP,60674.88,72131.74,81665.87,18.88,2023-03-31,Pune,9,18
+Gold 22K 1g,Gold,Market,6864.47,7775.3,8497.48,13.27,2024-10-28,Delhi,3,0
+Silver 1g,Silver,Market,67.82,77.17,84.62,13.79,2023-11-15,Delhi,10,17
+HP Victus,Laptop,HP,45634.41,46248.83,46684.71,1.35,2023-04-23,Chennai,4,18
+Galaxy S24,Mobile,Realme,63970.89,65191.65,66062.49,1.91,2023-03-10,Mumbai,2,11
+Petrol 1L,Fuel,BPCL,81.33,104.09,124.48,27.98,2025-02-16,Hyderabad,1,21
+Gold 22K 1g,Gold,Market,5329.86,6000.79,6529.56,12.59,2023-09-10,Hyderabad,8,8
+Tomato 1kg,Vegetable,Local,52.08,62.35,70.96,19.72,2023-05-02,Bangalore,7,15
+Diesel 1L,Fuel,BPCL,78.73,88.13,95.5,11.94,2024-05-08,Chennai,4,19
+Diesel 1L,Fuel,BPCL,85.44,99.52,111.0,16.48,2023-06-15,Bangalore,7,13
+Tomato 1kg,Vegetable,Local,58.08,58.56,58.9,0.83,2024-09-24,Pune,7,0
+Gold 22K 1g,Gold,Market,5087.49,6129.32,7007.95,20.48,2024-12-01,Delhi,1,8
+Lenovo LOQ,Laptop,Dell,80494.06,90866.44,99062.71,12.89,2025-05-06,Pune,2,20
+Bread,Grocery,Britannia,28.78,33.16,36.69,15.22,2023-12-30,Pune,8,25
+Diesel 1L,Fuel,HP,80.92,103.29,123.28,27.64,2023-04-28,Kolkata,6,0
+HP Victus,Laptop,HP,112277.21,124499.92,133987.23,10.89,2024-02-29,Chennai,6,25
+Petrol 1L,Fuel,HP,110.18,127.64,141.8,15.85,2023-10-28,Bangalore,5,17
+Normal Rice 1kg,Rice,Local,73.34,86.17,96.72,17.49,2024-03-26,Mumbai,5,20
+Gold 24K 1g,Gold,Market,4838.21,6316.88,7668.29,30.56,2024-05-30,Hyderabad,8,15
+Onion 1kg,Vegetable,Local,41.53,45.77,49.04,10.21,2025-06-15,Mumbai,1,3
+Petrol 1L,Fuel,HP,88.31,114.39,138.04,29.53,2024-03-05,Mumbai,4,6
+Tomato 1kg,Vegetable,Local,35.54,36.94,37.96,3.94,2023-03-24,Hyderabad,7,20
+Diesel 1L,Fuel,IndianOil,107.13,122.96,135.68,14.78,2024-01-13,Hyderabad,2,9
+Asus TUF,Laptop,HP,35887.53,42722.03,48417.28,19.04,2024-05-01,Bangalore,6,19
+Petrol 1L,Fuel,HP,112.25,114.21,115.61,1.75,2023-09-30,Delhi,3,18
+Dell Inspiron,Laptop,HP,70951.16,81504.56,89990.75,14.87,2023-06-06,Mumbai,5,20
+Milk 1L,Grocery,Madhur,81.49,104.9,125.99,28.73,2023-09-19,Mumbai,9,16
+Dell Inspiron,Laptop,Dell,102066.57,109657.98,115367.21,7.44,2023-04-06,Chennai,8,8
+HP Victus,Laptop,HP,114184.84,128759.95,140264.83,12.76,2025-01-29,Delhi,2,0
+Tomato 1kg,Vegetable,Local,67.18,75.77,82.55,12.79,2024-07-13,Chennai,5,25
+Silver 1g,Silver,Market,59.3,61.55,63.18,3.79,2024-12-24,Hyderabad,10,18
+HP Victus,Laptop,Asus,39035.3,39394.92,39648.97,0.92,2023-01-18,Bangalore,6,3
+Asus TUF,Laptop,Asus,103218.1,110815.89,116525.83,7.36,2024-11-06,Hyderabad,5,14
+Wheat Flour,Grocery,Britannia,40.9,39.37,38.34,-3.74,2023-12-19,Hyderabad,3,15
+Realme GT,Mobile,Samsung,66566.42,66659.57,66724.87,0.14,2024-10-08,Pune,8,4
+Petrol 1L,Fuel,BPCL,103.69,128.82,150.67,24.24,2024-10-26,Delhi,6,11
+Gold 24K 1g,Gold,Market,6454.54,6809.43,7071.51,5.5,2023-07-19,Kolkata,7,11
+Gold 24K 1g,Gold,Market,6766.46,8207.59,9431.23,21.3,2024-05-17,Kolkata,1,6
+Galaxy S24,Mobile,Apple,12020.74,13653.13,14950.98,13.58,2023-06-25,Kolkata,1,20
+Silver 1g,Silver,Market,72.52,86.42,98.01,19.17,2023-08-13,Pune,2,16
+Redmi Note 14,Mobile,OnePlus,47720.5,59339.21,69452.51,24.35,2023-03-10,Bangalore,5,12
+Tomato 1kg,Vegetable,Local,18.79,23.78,28.2,26.56,2025-06-06,Bangalore,4,6
+OnePlus 12,Mobile,OnePlus,11124.84,13042.64,14616.53,17.24,2025-04-03,Delhi,10,23
+Wheat Flour,Grocery,Madhur,38.32,45.3,51.08,18.22,2024-08-20,Hyderabad,7,6
+Potato 1kg,Vegetable,Local,40.97,42.01,42.76,2.54,2024-09-12,Chennai,1,20
+Premium Rice 1kg,Rice,Local,73.22,81.54,88.03,11.36,2024-08-20,Bangalore,4,1
+OnePlus 12,Mobile,Samsung,74792.25,89268.97,101364.14,19.36,2024-02-10,Hyderabad,1,7
+HP Victus,Laptop,Lenovo,40869.65,44117.99,46572.55,7.95,2024-04-18,Bangalore,10,18
+Bread,Grocery,Britannia,37.52,40.91,43.5,9.04,2025-01-04,Delhi,3,8
+Diesel 1L,Fuel,HP,91.41,93.32,94.68,2.09,2024-08-25,Pune,4,7
+Diesel 1L,Fuel,IndianOil,88.92,86.39,84.67,-2.85,2025-04-06,Kolkata,3,15
+Silver 1g,Silver,Market,84.48,106.5,125.93,26.07,2023-12-22,Pune,5,21
+Silver 1g,Silver,Market,93.18,108.26,120.52,16.18,2025-01-28,Bangalore,8,0
+Redmi Note 14,Mobile,Samsung,19882.22,26320.86,32287.47,32.38,2024-01-22,Bangalore,6,8
+Petrol 1L,Fuel,IndianOil,79.18,85.18,89.7,7.58,2023-06-27,Bangalore,5,22
+Potato 1kg,Vegetable,Local,27.28,29.11,30.48,6.71,2025-01-13,Mumbai,5,5
+Onion 1kg,Vegetable,Local,34.53,41.98,48.32,21.58,2023-07-28,Bangalore,9,21
+Wheat Flour,Grocery,Amul,115.87,117.2,118.14,1.15,2025-03-01,Kolkata,6,7
+Realme GT,Mobile,OnePlus,23544.2,26065.4,28019.23,10.71,2023-06-19,Bangalore,5,13
+Bread,Grocery,Britannia,61.3,78.14,93.17,27.47,2023-10-07,Delhi,7,18
+Tomato 1kg,Vegetable,Local,28.47,30.71,32.4,7.87,2025-06-12,Bangalore,8,16
+Normal Rice 1kg,Rice,Local,66.17,68.32,69.87,3.25,2025-06-10,Hyderabad,7,7
+Potato 1kg,Vegetable,Local,27.29,32.01,35.89,17.3,2024-11-09,Kolkata,2,8
+Gold 22K 1g,Gold,Market,5457.19,7091.57,8578.27,29.95,2025-02-13,Hyderabad,9,18
+Tomato 1kg,Vegetable,Local,65.78,73.99,80.45,12.48,2024-07-04,Hyderabad,10,3
+Tomato 1kg,Vegetable,Local,40.83,43.75,45.94,7.15,2024-04-01,Kolkata,6,6
+Tomato 1kg,Vegetable,Local,28.8,34.45,39.18,19.62,2024-08-07,Mumbai,9,10
+Tomato 1kg,Vegetable,Local,64.22,71.87,77.86,11.91,2023-11-04,Hyderabad,5,2
+Petrol 1L,Fuel,IndianOil,86.93,99.9,110.33,14.92,2023-11-21,Kolkata,1,21
+Petrol 1L,Fuel,IndianOil,77.56,81.98,85.25,5.7,2024-06-24,Kolkata,6,24
+Diesel 1L,Fuel,BPCL,100.81,105.05,108.14,4.21,2025-04-22,Bangalore,9,25
+Tomato 1kg,Vegetable,Local,47.23,59.61,70.55,26.21,2023-03-09,Delhi,5,13
+Bread,Grocery,Amul,56.94,59.53,61.43,4.55,2024-07-25,Kolkata,3,0
+Wheat Flour,Grocery,Amul,32.27,38.29,43.29,18.66,2024-06-28,Mumbai,6,17
+iPhone 15,Mobile,Samsung,64831.3,79024.3,91134.41,21.89,2023-05-28,Chennai,10,7
+Tomato 1kg,Vegetable,Local,51.66,51.53,51.44,-0.25,2025-04-21,Delhi,4,0
+Bread,Grocery,Britannia,31.42,38.7,44.98,23.17,2023-02-16,Kolkata,2,10
+Diesel 1L,Fuel,HP,106.08,113.47,119.0,6.97,2023-12-24,Pune,7,21
+Diesel 1L,Fuel,BPCL,99.41,127.25,152.2,28.01,2023-06-21,Kolkata,7,6
+Tomato 1kg,Vegetable,Local,36.78,42.16,46.48,14.63,2023-09-06,Mumbai,5,18
+iPhone 15,Mobile,Samsung,48136.77,54351.75,59263.93,12.91,2024-11-02,Pune,4,7
+Silver 1g,Silver,Market,88.11,92.56,95.83,5.05,2023-12-31,Mumbai,5,11
+Tomato 1kg,Vegetable,Local,25.14,31.25,36.57,24.3,2025-03-08,Delhi,7,16
+Dell Inspiron,Laptop,Dell,104886.85,124964.48,141709.13,19.14,2023-02-24,Bangalore,8,8
+Silver 1g,Silver,Market,89.88,107.39,122.03,19.48,2023-12-29,Mumbai,10,14
+Silver 1g,Silver,Market,77.29,96.08,112.43,24.31,2023-03-14,Delhi,2,25
+Bread,Grocery,Amul,95.43,113.56,128.66,19.0,2024-11-06,Kolkata,1,25
+Redmi Note 14,Mobile,Xiaomi,73807.41,75345.97,76445.41,2.08,2023-05-17,Delhi,8,8
+Galaxy S24,Mobile,Samsung,29910.8,30314.79,30601.4,1.35,2024-05-17,Delhi,10,8
+Diesel 1L,Fuel,IndianOil,78.15,91.24,101.94,16.75,2024-05-14,Chennai,7,7
+Silver 1g,Silver,Market,111.74,118.38,123.3,5.94,2023-10-12,Bangalore,3,9
+Gold 24K 1g,Gold,Market,6414.6,7331.12,8064.35,14.29,2023-03-27,Delhi,9,18
+Gold 22K 1g,Gold,Market,6641.73,7668.03,8497.45,15.45,2023-09-15,Bangalore,1,10
+Gold 22K 1g,Gold,Market,6900.06,7507.73,7970.56,8.81,2023-04-26,Mumbai,5,15
+Redmi Note 14,Mobile,OnePlus,50547.71,51712.48,52546.61,2.3,2023-06-16,Delhi,9,4
+Gold 22K 1g,Gold,Market,5098.79,5067.4,5045.56,-0.62,2023-12-28,Kolkata,6,1
+Petrol 1L,Fuel,BPCL,108.35,123.81,136.18,14.27,2025-01-04,Chennai,7,15
+Silver 1g,Silver,Market,99.69,105.16,109.2,5.49,2024-02-17,Chennai,7,16
+Sugar 1kg,Grocery,Madhur,38.32,41.97,44.77,9.53,2024-07-01,Mumbai,5,17
+Asus TUF,Laptop,Lenovo,96964.58,115472.99,130901.87,19.09,2023-11-20,Bangalore,9,25
+Petrol 1L,Fuel,IndianOil,91.02,103.44,113.32,13.65,2023-09-04,Bangalore,3,3
+Petrol 1L,Fuel,IndianOil,100.67,135.33,167.95,34.43,2023-08-07,Hyderabad,5,16
+Redmi Note 14,Mobile,Xiaomi,27587.14,36332.07,44393.98,31.7,2023-12-23,Kolkata,5,22
+Petrol 1L,Fuel,IndianOil,94.26,100.16,104.55,6.26,2024-07-13,Chennai,9,7
+Redmi Note 14,Mobile,Realme,66423.38,83552.87,98635.7,25.79,2023-07-03,Pune,1,3
+Gold 22K 1g,Gold,Market,5942.82,7120.37,8107.98,19.81,2023-09-05,Kolkata,4,1
+Onion 1kg,Vegetable,Local,63.05,72.91,80.89,15.64,2024-07-31,Delhi,3,10
+Potato 1kg,Vegetable,Local,30.41,34.18,37.15,12.4,2024-11-22,Kolkata,4,21
+Gold 24K 1g,Gold,Market,6863.92,7195.1,7438.11,4.82,2025-05-31,Mumbai,3,3
+Tomato 1kg,Vegetable,Local,50.53,67.18,82.68,32.95,2024-04-24,Chennai,2,15
+Bread,Grocery,Aashirvaad,51.87,63.32,73.1,22.07,2023-01-04,Delhi,8,12
+Dell Inspiron,Laptop,Asus,72745.89,86142.67,97247.41,18.42,2024-09-03,Chennai,3,15
+Gold 24K 1g,Gold,Market,6385.18,8201.09,9833.73,28.44,2025-02-18,Pune,9,3
+Petrol 1L,Fuel,BPCL,79.88,87.63,93.58,9.7,2024-08-08,Delhi,4,5
+Petrol 1L,Fuel,HP,82.75,92.75,100.6,12.08,2025-02-26,Pune,8,24
+HP Victus,Laptop,HP,92501.91,101872.56,109096.5,10.13,2025-01-30,Kolkata,6,13
+Diesel 1L,Fuel,HP,81.7,102.22,120.19,25.12,2024-08-15,Chennai,5,7
+iPhone 15,Mobile,Realme,62185.45,77183.19,90213.59,24.12,2025-05-24,Bangalore,7,16
+Silver 1g,Silver,Market,99.03,97.46,96.38,-1.59,2023-12-01,Pune,2,8
+HP Victus,Laptop,HP,100019.49,122136.1,141041.07,22.11,2024-05-30,Kolkata,9,17
+Potato 1kg,Vegetable,Local,55.01,66.57,76.36,21.01,2025-05-07,Hyderabad,3,25
+Petrol 1L,Fuel,IndianOil,91.86,105.68,116.81,15.04,2023-11-04,Pune,3,4
+Galaxy S24,Mobile,Samsung,31887.22,37383.58,41894.21,17.24,2023-03-13,Chennai,8,23
+Onion 1kg,Vegetable,Local,59.37,66.12,71.38,11.37,2024-05-19,Chennai,8,8
+Potato 1kg,Vegetable,Local,28.07,35.89,42.89,27.86,2024-07-02,Delhi,4,23
+Tomato 1kg,Vegetable,Local,50.82,62.32,72.19,22.63,2023-03-13,Delhi,7,7
+Potato 1kg,Vegetable,Local,23.57,25.25,26.51,7.13,2023-04-29,Kolkata,9,12
+Gold 22K 1g,Gold,Market,6135.31,7233.87,8140.55,17.91,2023-10-10,Mumbai,7,25
+OnePlus 12,Mobile,Apple,41489.88,49964.34,57108.12,20.43,2023-10-22,Bangalore,3,20
+HP Victus,Laptop,Lenovo,51944.03,58419.98,63518.3,12.47,2024-06-10,Hyderabad,4,17
+Asus TUF,Laptop,Dell,38591.58,38164.14,37868.25,-1.11,2023-12-13,Kolkata,8,12
+HP Victus,Laptop,Dell,70961.17,70248.73,69755.03,-1.0,2024-11-16,Pune,7,2
+Milk 1L,Grocery,Britannia,66.24,75.15,82.23,13.45,2023-12-20,Bangalore,4,1
+Galaxy S24,Mobile,Apple,43436.73,53440.43,62055.75,23.03,2023-10-26,Bangalore,6,18
+Onion 1kg,Vegetable,Local,50.37,59.07,66.21,17.27,2024-12-30,Bangalore,9,4
+Silver 1g,Silver,Market,59.65,76.45,91.52,28.16,2024-10-30,Mumbai,5,10
+Gold 24K 1g,Gold,Market,5760.41,7440.86,8960.33,29.17,2024-04-05,Bangalore,2,11
+Normal Rice 1kg,Rice,IndiaGate,64.05,75.19,84.34,17.39,2024-09-13,Mumbai,9,19
+Premium Rice 1kg,Rice,Fortune,68.44,74.47,79.06,8.81,2024-08-05,Kolkata,4,11
+HP Victus,Laptop,HP,115803.75,133433.7,147653.45,15.22,2025-05-08,Kolkata,8,17
+Realme GT,Mobile,Samsung,44951.38,51409.67,56579.99,14.37,2024-12-22,Chennai,9,6
+Petrol 1L,Fuel,IndianOil,115.93,127.23,135.91,9.75,2023-01-10,Kolkata,2,6
+Silver 1g,Silver,Market,105.01,122.69,137.15,16.84,2023-05-21,Mumbai,2,14
+Silver 1g,Silver,Market,99.06,123.59,145.01,24.76,2024-08-03,Hyderabad,3,3
+iPhone 15,Mobile,OnePlus,67831.18,85907.93,101933.82,26.65,2025-01-21,Bangalore,8,9
+HP Victus,Laptop,Dell,85747.29,99265.07,110219.24,15.76,2025-01-11,Pune,10,4
+Diesel 1L,Fuel,IndianOil,106.52,118.46,127.75,11.21,2023-12-11,Pune,5,9
+Silver 1g,Silver,Market,88.06,97.52,104.85,10.74,2025-05-31,Pune,2,10
+Lenovo LOQ,Laptop,Lenovo,64292.35,73214.12,80326.0,13.88,2024-05-01,Delhi,3,3
+Galaxy S24,Mobile,Realme,35563.64,42400.96,48107.24,19.23,2023-04-19,Bangalore,2,6
+Gold 22K 1g,Gold,Market,6934.19,7359.25,7675.03,6.13,2024-11-29,Mumbai,5,6
+Diesel 1L,Fuel,IndianOil,83.9,107.27,128.19,27.85,2023-10-05,Delhi,7,11
+Silver 1g,Silver,Market,100.08,115.81,128.55,15.72,2024-03-14,Mumbai,5,21
+Diesel 1L,Fuel,IndianOil,87.27,92.44,96.27,5.92,2023-03-26,Delhi,8,14
+Premium Rice 1kg,Rice,IndiaGate,59.68,70.02,78.51,17.33,2023-11-12,Kolkata,7,4
+Silver 1g,Silver,Market,90.57,117.78,142.55,30.04,2023-03-14,Bangalore,7,18
+Gold 24K 1g,Gold,Market,6784.29,7789.39,8597.19,14.82,2023-03-11,Delhi,1,19
+Bread,Grocery,Amul,48.81,57.77,65.19,18.36,2024-11-22,Bangalore,1,5
+OnePlus 12,Mobile,Apple,74186.72,83082.03,90055.36,11.99,2024-05-11,Kolkata,6,1
+Wheat Flour,Grocery,Britannia,39.31,43.79,47.28,11.4,2024-08-03,Bangalore,7,19
+Dell Inspiron,Laptop,Lenovo,45137.81,51406.59,56404.17,13.89,2023-04-15,Kolkata,2,3
+Potato 1kg,Vegetable,Local,62.7,79.31,94.02,26.49,2023-11-10,Kolkata,4,6
+Wheat Flour,Grocery,Madhur,89.36,114.19,136.4,27.79,2023-08-26,Kolkata,2,11
+Wheat Flour,Grocery,Madhur,23.93,30.58,36.53,27.79,2024-02-24,Pune,8,17
+Gold 24K 1g,Gold,Market,6808.63,7568.23,8159.27,11.16,2025-06-11,Pune,8,2
+iPhone 15,Mobile,Samsung,42062.65,47792.01,52348.84,13.62,2024-11-24,Kolkata,7,18
+Potato 1kg,Vegetable,Local,45.24,53.97,61.26,19.3,2023-05-22,Pune,4,23
+Diesel 1L,Fuel,IndianOil,116.41,131.82,144.03,13.24,2024-08-18,Hyderabad,5,24
+Gold 24K 1g,Gold,Market,6859.09,8159.39,9242.15,18.96,2023-11-01,Pune,4,17
+Sugar 1kg,Grocery,Madhur,32.35,39.28,45.17,21.42,2025-03-07,Pune,1,0
+Premium Rice 1kg,Rice,IndiaGate,65.36,64.16,63.34,-1.84,2023-07-08,Mumbai,7,8
+Galaxy S24,Mobile,Samsung,56554.06,67379.73,76408.29,19.14,2024-01-16,Delhi,4,5
+Galaxy S24,Mobile,Xiaomi,52104.01,60451.25,67230.4,16.02,2024-05-16,Kolkata,10,22
+Dell Inspiron,Laptop,Lenovo,77231.27,97751.4,115931.99,26.57,2023-05-08,Pune,8,1
+Premium Rice 1kg,Rice,IndiaGate,58.61,62.48,65.37,6.6,2023-05-23,Hyderabad,5,25
+Gold 22K 1g,Gold,Market,5528.48,6744.29,7782.52,21.99,2023-09-23,Kolkata,4,21
+Silver 1g,Silver,Market,60.39,62.88,64.69,4.12,2024-03-17,Kolkata,3,25
+Gold 24K 1g,Gold,Market,6390.45,6792.49,7091.62,6.29,2025-02-24,Hyderabad,7,6
+Gold 24K 1g,Gold,Market,6606.16,7818.26,8822.41,18.35,2023-02-06,Pune,7,4
+Gold 22K 1g,Gold,Market,6079.87,6749.47,7269.81,11.01,2025-04-24,Kolkata,1,12
+Silver 1g,Silver,Market,102.92,133.28,160.8,29.5,2024-10-22,Delhi,4,18
+Diesel 1L,Fuel,IndianOil,87.31,100.99,112.07,15.67,2023-06-30,Mumbai,6,22
+Premium Rice 1kg,Rice,Fortune,61.49,62.72,63.6,2.0,2024-09-11,Mumbai,4,25
+HP Victus,Laptop,Dell,70781.84,81646.31,90418.77,15.35,2024-03-03,Mumbai,9,10
+Onion 1kg,Vegetable,Local,76.7,86.54,94.31,12.83,2023-08-17,Bangalore,4,15
+Silver 1g,Silver,Market,102.41,112.29,119.87,9.65,2024-01-21,Delhi,8,21
+Dell Inspiron,Laptop,Dell,115646.62,123426.67,129239.08,6.73,2024-07-08,Bangalore,3,4
+Silver 1g,Silver,Market,68.25,74.39,79.07,9.0,2023-11-27,Chennai,9,1
+iPhone 15,Mobile,OnePlus,48216.83,51294.89,53587.08,6.38,2023-10-27,Pune,6,12
+Premium Rice 1kg,Rice,Local,51.71,52.62,53.27,1.76,2024-02-28,Chennai,10,13
+Gold 22K 1g,Gold,Market,6996.05,6971.87,6955.0,-0.35,2023-09-11,Bangalore,8,14
+Normal Rice 1kg,Rice,Fortune,74.76,82.12,87.78,9.84,2025-04-12,Mumbai,7,25
+Silver 1g,Silver,Market,61.7,62.91,63.77,1.96,2023-04-04,Hyderabad,9,19
+Milk 1L,Grocery,Madhur,108.76,114.85,119.35,5.6,2023-07-02,Mumbai,6,1
+Silver 1g,Silver,Market,84.97,88.88,91.74,4.6,2023-08-05,Mumbai,4,17
+Normal Rice 1kg,Rice,Fortune,72.26,78.25,82.79,8.29,2024-07-01,Kolkata,3,7
+Gold 24K 1g,Gold,Market,6086.45,7548.87,8818.53,24.03,2023-06-13,Delhi,5,2
+Milk 1L,Grocery,Britannia,106.05,107.53,108.58,1.4,2023-01-04,Hyderabad,7,13
+Gold 22K 1g,Gold,Market,5214.2,6235.44,7090.32,19.59,2024-06-22,Delhi,3,11
+Silver 1g,Silver,Market,59.28,66.85,72.83,12.77,2023-06-28,Mumbai,5,11
+Premium Rice 1kg,Rice,Local,39.16,39.27,39.35,0.28,2024-09-17,Mumbai,8,6
+Gold 22K 1g,Gold,Market,4919.93,5456.59,5873.23,10.91,2024-05-11,Pune,3,6
+Lenovo LOQ,Laptop,Asus,115613.87,128182.47,137936.94,10.87,2024-11-02,Mumbai,9,2
+Silver 1g,Silver,Market,81.1,91.62,99.94,12.97,2023-01-12,Pune,1,8
+Milk 1L,Grocery,Madhur,49.45,57.23,63.53,15.73,2025-04-26,Pune,7,13
+Potato 1kg,Vegetable,Local,61.77,75.56,87.37,22.32,2024-07-08,Chennai,6,0
+Petrol 1L,Fuel,HP,74.36,90.16,103.57,21.25,2025-01-23,Mumbai,5,17
+Premium Rice 1kg,Rice,Fortune,73.32,89.07,102.46,21.48,2023-03-02,Mumbai,2,10
+Silver 1g,Silver,Market,98.83,118.43,134.87,19.83,2023-03-11,Delhi,10,3
+Gold 24K 1g,Gold,Market,5073.3,5608.21,6022.13,10.54,2024-06-25,Bangalore,6,22
+Asus TUF,Laptop,Lenovo,54283.44,53994.75,53793.74,-0.53,2025-04-05,Hyderabad,10,9
+Silver 1g,Silver,Market,100.5,98.06,96.39,-2.43,2025-06-15,Delhi,9,11
+Petrol 1L,Fuel,BPCL,110.74,118.52,124.35,7.03,2024-08-22,Hyderabad,4,5
+Gold 24K 1g,Gold,Market,6145.16,6370.27,6533.62,3.66,2023-08-20,Pune,9,0
+Silver 1g,Silver,Market,56.18,71.39,84.92,27.07,2025-02-15,Chennai,6,5
+Normal Rice 1kg,Rice,Fortune,87.01,89.6,91.47,2.98,2024-10-08,Mumbai,9,3
+Silver 1g,Silver,Market,107.35,115.65,121.91,7.73,2024-03-30,Chennai,6,25
+Onion 1kg,Vegetable,Local,65.88,75.73,83.66,14.95,2023-12-03,Delhi,10,19
+HP Victus,Laptop,Lenovo,94007.4,121462.69,146294.3,29.21,2023-07-25,Kolkata,4,19
+Premium Rice 1kg,Rice,Local,66.75,82.4,95.92,23.45,2023-12-03,Bangalore,3,6
+Premium Rice 1kg,Rice,IndiaGate,56.09,65.77,73.72,17.26,2025-02-03,Mumbai,1,19
+Lenovo LOQ,Laptop,Lenovo,37650.8,45968.52,53077.19,22.09,2024-04-03,Hyderabad,4,21
+Tomato 1kg,Vegetable,Local,22.96,26.05,28.5,13.46,2023-11-27,Bangalore,2,5
+Silver 1g,Silver,Market,67.42,77.07,84.79,14.31,2025-03-16,Mumbai,7,9
+Realme GT,Mobile,Samsung,49839.01,53942.55,57051.54,8.23,2024-11-26,Delhi,3,6
+Petrol 1L,Fuel,BPCL,91.7,108.21,121.85,18.0,2024-02-23,Kolkata,5,20
+iPhone 15,Mobile,Xiaomi,77469.08,87362.65,95172.6,12.77,2025-04-07,Mumbai,7,22
+Tomato 1kg,Vegetable,Local,64.25,66.12,67.47,2.91,2024-04-30,Hyderabad,1,20
+Tomato 1kg,Vegetable,Local,34.72,43.34,50.87,24.83,2024-03-04,Kolkata,8,0
+Diesel 1L,Fuel,BPCL,89.89,101.97,111.56,13.44,2024-03-05,Delhi,4,4
+Onion 1kg,Vegetable,Local,27.77,32.09,35.58,15.56,2023-11-20,Chennai,8,23
+Petrol 1L,Fuel,BPCL,79.43,91.21,100.68,14.83,2023-07-28,Bangalore,2,24
+Potato 1kg,Vegetable,Local,38.29,44.14,48.86,15.28,2023-02-11,Hyderabad,3,0
+Silver 1g,Silver,Market,74.85,99.48,122.39,32.91,2023-11-29,Delhi,10,24
+Gold 22K 1g,Gold,Market,6386.22,8013.16,9442.15,25.48,2025-04-30,Bangalore,5,12
+Dell Inspiron,Laptop,HP,44469.44,45502.25,46242.01,2.32,2024-05-29,Bangalore,10,24
+Asus TUF,Laptop,HP,94114.3,93312.36,92755.79,-0.85,2024-05-09,Mumbai,2,7
+Gold 24K 1g,Gold,Market,5330.22,6165.97,6842.72,15.68,2024-10-30,Mumbai,4,18
+Normal Rice 1kg,Rice,Local,78.94,99.7,118.05,26.3,2023-11-05,Chennai,10,15
+Diesel 1L,Fuel,BPCL,111.56,130.6,146.2,17.07,2023-12-27,Chennai,6,18
+Tomato 1kg,Vegetable,Local,77.34,91.63,103.48,18.48,2023-03-28,Kolkata,2,8
+HP Victus,Laptop,Dell,97185.85,114646.95,129065.75,17.97,2025-06-03,Delhi,8,6
+Gold 24K 1g,Gold,Market,5268.6,6032.8,6645.33,14.5,2024-09-30,Delhi,2,5
+Petrol 1L,Fuel,BPCL,93.15,91.34,90.1,-1.94,2024-03-18,Chennai,1,23
+Silver 1g,Silver,Market,96.34,106.19,113.79,10.22,2024-08-01,Kolkata,10,25
+Bread,Grocery,Aashirvaad,99.94,99.96,99.97,0.02,2024-05-28,Mumbai,10,13
+Onion 1kg,Vegetable,Local,64.36,67.5,69.81,4.88,2023-12-11,Mumbai,3,6
+Potato 1kg,Vegetable,Local,42.79,51.31,58.46,19.91,2024-06-18,Pune,6,20
+Gold 24K 1g,Gold,Market,7091.58,8293.23,9276.92,16.94,2024-12-27,Delhi,3,0
+Dell Inspiron,Laptop,Lenovo,60283.5,66148.55,70653.52,9.73,2023-08-02,Hyderabad,9,15
+Wheat Flour,Grocery,Madhur,84.04,83.86,83.73,-0.21,2023-02-17,Delhi,1,6
+Silver 1g,Silver,Market,82.68,95.7,106.25,15.75,2024-07-11,Chennai,7,19
+Lenovo LOQ,Laptop,Dell,100214.14,103614.93,106076.27,3.39,2024-03-09,Delhi,1,14
+Gold 22K 1g,Gold,Market,5343.83,6183.83,6864.26,15.72,2023-07-03,Mumbai,3,19
+Galaxy S24,Mobile,Apple,15712.93,17647.24,19167.94,12.31,2025-04-19,Hyderabad,7,15
+Diesel 1L,Fuel,BPCL,115.47,114.51,113.84,-0.83,2023-10-03,Pune,3,25
+Galaxy S24,Mobile,Samsung,33380.67,35075.04,36321.3,5.08,2025-02-21,Delhi,8,3
+Silver 1g,Silver,Market,76.02,82.04,86.59,7.92,2023-08-16,Delhi,6,14
+Premium Rice 1kg,Rice,Local,70.37,82.48,92.42,17.21,2023-09-11,Bangalore,1,5
+Lenovo LOQ,Laptop,Lenovo,73689.36,83180.64,90680.28,12.88,2023-06-22,Hyderabad,9,3
+Galaxy S24,Mobile,Samsung,21849.55,24473.05,26530.0,12.01,2025-05-16,Delhi,5,23
+Dell Inspiron,Laptop,Dell,55739.79,54993.01,54477.27,-1.34,2024-07-02,Kolkata,6,4
+Bread,Grocery,Aashirvaad,61.4,70.56,77.93,14.92,2024-12-23,Hyderabad,6,11
+Normal Rice 1kg,Rice,IndiaGate,40.21,45.12,48.98,12.21,2024-08-10,Bangalore,1,4
+Gold 22K 1g,Gold,Market,6419.34,7966.31,9310.15,24.1,2024-03-21,Delhi,5,1
+Gold 22K 1g,Gold,Market,6537.89,6398.53,6303.06,-2.13,2024-03-02,Kolkata,3,7
+Redmi Note 14,Mobile,Realme,23517.74,28283.58,32295.72,20.26,2023-09-17,Hyderabad,8,24
+Silver 1g,Silver,Market,60.2,71.74,81.37,19.17,2023-09-21,Mumbai,3,15
+Onion 1kg,Vegetable,Local,19.32,22.63,25.34,17.13,2024-12-04,Chennai,9,6
+Gold 22K 1g,Gold,Market,6264.99,6643.55,6924.55,6.04,2023-12-08,Mumbai,1,24
+Galaxy S24,Mobile,OnePlus,25750.08,27867.08,29470.81,8.22,2023-12-30,Mumbai,5,2
+Tomato 1kg,Vegetable,Local,57.28,65.83,72.71,14.93,2024-10-22,Kolkata,9,8
+Diesel 1L,Fuel,BPCL,101.28,103.86,105.71,2.55,2024-07-29,Hyderabad,8,21
+Gold 24K 1g,Gold,Market,5856.34,6314.67,6660.61,7.83,2023-09-21,Hyderabad,10,21
+HP Victus,Laptop,Dell,61665.14,59869.69,58649.47,-2.91,2024-10-15,Pune,6,2
+Onion 1kg,Vegetable,Local,68.83,89.54,108.4,30.09,2024-03-16,Hyderabad,7,7
+Milk 1L,Grocery,Amul,38.27,46.27,53.04,20.9,2023-02-22,Mumbai,6,8
+Redmi Note 14,Mobile,Xiaomi,59504.18,66639.95,72234.0,11.99,2025-03-26,Kolkata,7,2
+Silver 1g,Silver,Market,61.45,74.69,85.95,21.55,2025-03-17,Mumbai,5,7
+Asus TUF,Laptop,HP,57555.39,60935.37,63440.3,5.87,2024-04-19,Chennai,6,0
+Silver 1g,Silver,Market,94.46,106.28,115.59,12.51,2023-06-24,Hyderabad,10,10
+Normal Rice 1kg,Rice,Fortune,55.21,70.49,84.15,27.68,2023-09-11,Hyderabad,5,19
+Bread,Grocery,Amul,91.86,105.19,115.88,14.51,2024-07-11,Kolkata,7,1
+Sugar 1kg,Grocery,Amul,30.19,33.47,36.02,10.86,2025-05-31,Pune,9,20
+Normal Rice 1kg,Rice,IndiaGate,55.3,56.21,56.86,1.65,2023-06-11,Hyderabad,8,11
+Gold 22K 1g,Gold,Market,7242.64,8086.11,8745.3,11.65,2023-08-05,Bangalore,8,2
+Premium Rice 1kg,Rice,IndiaGate,66.72,70.47,73.24,5.62,2023-02-25,Hyderabad,1,23
+Petrol 1L,Fuel,IndianOil,100.12,129.17,155.41,29.02,2023-03-31,Delhi,3,21
+Bread,Grocery,Amul,42.47,49.94,56.09,17.59,2023-10-09,Bangalore,4,0
+Diesel 1L,Fuel,HP,85.81,95.48,103.01,11.27,2025-06-18,Pune,4,25
+Gold 22K 1g,Gold,Market,4881.88,5260.5,5546.09,7.76,2025-02-14,Bangalore,9,25
+Dell Inspiron,Laptop,HP,81942.61,90565.76,97237.18,10.52,2023-01-05,Bangalore,2,9
+Onion 1kg,Vegetable,Local,45.47,49.21,52.04,8.23,2023-08-22,Pune,2,25
+Wheat Flour,Grocery,Madhur,47.61,49.75,51.32,4.49,2025-06-14,Hyderabad,5,19
+Lenovo LOQ,Laptop,Lenovo,102361.21,105893.2,108450.9,3.45,2023-04-28,Bangalore,9,1
+Diesel 1L,Fuel,HP,110.36,128.8,143.86,16.71,2023-01-07,Chennai,1,20
+Potato 1kg,Vegetable,Local,39.88,46.28,51.48,16.05,2025-02-17,Bangalore,8,8
+Redmi Note 14,Mobile,Xiaomi,61678.01,73255.25,82880.49,18.77,2024-10-26,Kolkata,4,3
+Premium Rice 1kg,Rice,Fortune,68.53,71.16,73.07,3.84,2025-02-03,Hyderabad,1,6
+Asus TUF,Laptop,HP,45609.2,49382.15,52241.69,8.27,2023-09-08,Hyderabad,2,20
+Galaxy S24,Mobile,Samsung,83126.08,81829.6,80936.22,-1.56,2023-05-05,Delhi,2,25
+Petrol 1L,Fuel,BPCL,82.09,85.37,87.76,4.0,2024-07-20,Bangalore,9,12
+Silver 1g,Silver,Market,100.53,103.07,104.89,2.53,2023-06-23,Chennai,5,19
+HP Victus,Laptop,Lenovo,73676.6,84694.24,93559.9,14.95,2024-01-18,Kolkata,2,2
+HP Victus,Laptop,Asus,73252.77,93948.36,112528.16,28.25,2025-05-26,Chennai,5,17
+Onion 1kg,Vegetable,Local,59.31,63.89,67.34,7.72,2025-02-15,Kolkata,10,15
+Tomato 1kg,Vegetable,Local,40.56,39.98,39.58,-1.43,2024-05-14,Chennai,4,24
+Diesel 1L,Fuel,IndianOil,98.79,108.25,115.51,9.58,2024-12-16,Delhi,8,15
+Realme GT,Mobile,Apple,16327.86,18947.31,21075.09,16.04,2023-02-07,Delhi,6,0
+Petrol 1L,Fuel,IndianOil,91.0,104.34,115.05,14.66,2023-04-03,Kolkata,10,8
+Premium Rice 1kg,Rice,Local,38.39,49.33,59.17,28.5,2023-08-08,Pune,10,2
+Bread,Grocery,Amul,83.1,95.12,104.75,14.46,2023-07-11,Mumbai,9,23
+Bread,Grocery,Aashirvaad,71.8,90.0,105.97,25.35,2023-04-17,Delhi,7,1
+Silver 1g,Silver,Market,75.22,88.65,99.73,17.85,2024-10-22,Pune,10,18
+Wheat Flour,Grocery,Madhur,72.61,92.08,109.36,26.81,2024-01-22,Chennai,8,14
+HP Victus,Laptop,Asus,41753.85,47534.05,52140.32,13.84,2024-10-01,Kolkata,7,3
+Wheat Flour,Grocery,Britannia,30.98,36.31,40.68,17.2,2025-03-26,Chennai,8,25
+Gold 24K 1g,Gold,Market,7005.74,7955.08,8709.67,13.55,2024-08-18,Chennai,10,3
+Dell Inspiron,Laptop,Asus,104032.44,123140.79,138973.47,18.37,2024-07-28,Delhi,8,21
+Petrol 1L,Fuel,HP,90.83,96.64,100.97,6.4,2025-03-11,Hyderabad,4,6
+Premium Rice 1kg,Rice,Local,72.33,86.19,97.75,19.16,2024-12-10,Hyderabad,6,13
+Diesel 1L,Fuel,HP,76.84,96.32,113.41,25.35,2023-11-05,Bangalore,7,17
+Gold 22K 1g,Gold,Market,4744.14,5865.9,6836.8,23.65,2023-12-22,Hyderabad,4,16
+Dell Inspiron,Laptop,Asus,45807.74,49120.35,51606.86,7.23,2024-09-01,Hyderabad,3,7
+Silver 1g,Silver,Market,98.06,119.2,137.19,21.56,2023-10-25,Chennai,3,7
+Sugar 1kg,Grocery,Amul,63.3,67.78,71.14,7.08,2023-09-25,Chennai,1,11
+Galaxy S24,Mobile,Realme,30354.28,36158.36,40998.08,19.12,2024-05-15,Hyderabad,3,5
+Galaxy S24,Mobile,Realme,76569.22,75983.2,75576.13,-0.77,2023-08-01,Kolkata,6,3
+OnePlus 12,Mobile,Samsung,48439.54,52432.44,55457.87,8.24,2023-05-27,Kolkata,3,14
+Onion 1kg,Vegetable,Local,67.93,72.31,75.57,6.45,2023-02-25,Pune,9,23
+Gold 22K 1g,Gold,Market,5225.82,5501.48,5704.62,5.27,2024-09-29,Pune,3,18
+Wheat Flour,Grocery,Britannia,25.57,25.4,25.28,-0.66,2024-07-25,Kolkata,8,15
+Silver 1g,Silver,Market,85.45,108.48,128.95,26.95,2024-03-25,Mumbai,4,18
+Galaxy S24,Mobile,OnePlus,65896.95,75785.05,83745.34,15.01,2024-08-24,Pune,8,14
+Gold 24K 1g,Gold,Market,6355.59,6519.69,6637.53,2.58,2025-01-26,Pune,2,13
+Sugar 1kg,Grocery,Madhur,54.79,63.32,70.22,15.57,2023-04-16,Kolkata,3,11
+Silver 1g,Silver,Market,71.49,79.05,84.9,10.57,2024-05-10,Chennai,8,9
+Dell Inspiron,Laptop,Asus,31696.24,38113.03,43514.12,20.24,2024-04-03,Chennai,5,9
+Bread,Grocery,Amul,73.74,91.03,105.97,23.45,2024-04-17,Chennai,10,11
+Dell Inspiron,Laptop,Lenovo,116480.22,132552.12,145354.77,13.8,2025-01-27,Pune,2,1
+Premium Rice 1kg,Rice,Fortune,89.25,96.66,102.28,8.3,2023-01-31,Pune,7,16
+Dell Inspiron,Laptop,Asus,47833.99,54433.34,59690.21,13.8,2023-08-20,Hyderabad,3,15
+Tomato 1kg,Vegetable,Local,70.28,83.78,95.05,19.21,2024-01-12,Pune,10,19
+Diesel 1L,Fuel,IndianOil,86.76,93.14,97.93,7.35,2023-10-15,Chennai,4,25
+HP Victus,Laptop,Asus,96980.47,123164.99,146442.99,27.0,2023-07-23,Chennai,7,21
+Premium Rice 1kg,Rice,IndiaGate,78.63,79.94,80.87,1.67,2023-07-09,Pune,10,21
+Galaxy S24,Mobile,Samsung,36318.86,40577.41,43907.93,11.73,2024-01-30,Bangalore,3,17
+Tomato 1kg,Vegetable,Local,76.95,74.19,72.33,-3.59,2024-02-01,Bangalore,4,15
+Gold 24K 1g,Gold,Market,5777.93,6304.0,6705.78,9.1,2024-06-16,Mumbai,9,0
+Silver 1g,Silver,Market,70.34,80.79,89.19,14.86,2023-10-01,Delhi,10,9
+Premium Rice 1kg,Rice,Local,54.58,60.22,64.58,10.33,2023-12-29,Kolkata,5,15
+Asus TUF,Laptop,HP,109366.14,119337.29,126953.46,9.12,2024-11-03,Delhi,6,0
+Redmi Note 14,Mobile,OnePlus,47968.01,55203.84,61032.97,15.08,2024-04-16,Kolkata,3,1
+Petrol 1L,Fuel,HP,98.39,108.52,116.34,10.3,2024-08-14,Delhi,10,2
+Sugar 1kg,Grocery,Madhur,89.92,109.77,126.73,22.08,2024-01-03,Hyderabad,8,16
+Gold 24K 1g,Gold,Market,5189.7,5978.23,6614.07,15.19,2024-10-05,Bangalore,10,15
+Petrol 1L,Fuel,IndianOil,79.56,91.62,101.34,15.16,2023-05-03,Hyderabad,6,23
+Potato 1kg,Vegetable,Local,78.49,86.89,93.4,10.7,2024-09-25,Mumbai,5,9
+Premium Rice 1kg,Rice,IndiaGate,88.33,101.01,111.16,14.36,2025-04-25,Bangalore,2,16
+Petrol 1L,Fuel,HP,99.3,105.97,110.95,6.72,2025-04-08,Kolkata,9,8
+Dell Inspiron,Laptop,HP,89316.64,113949.14,135947.24,27.58,2023-06-30,Kolkata,3,11
+Silver 1g,Silver,Market,61.12,70.81,78.67,15.85,2023-02-26,Hyderabad,9,10
+Diesel 1L,Fuel,BPCL,80.03,83.32,85.72,4.11,2024-05-03,Pune,2,14
+HP Victus,Laptop,Lenovo,62078.86,65158.17,67420.61,4.96,2024-01-06,Pune,10,2
+Petrol 1L,Fuel,BPCL,76.96,96.44,113.53,25.31,2023-10-10,Kolkata,8,6
+Diesel 1L,Fuel,HP,82.49,105.14,125.35,27.46,2024-12-05,Mumbai,9,22
+Realme GT,Mobile,OnePlus,16706.8,17005.84,17218.91,1.79,2024-06-18,Hyderabad,5,17
+Silver 1g,Silver,Market,71.79,93.94,114.23,30.85,2024-06-20,Chennai,4,25
+Silver 1g,Silver,Market,91.54,119.31,144.65,30.34,2023-10-30,Kolkata,7,22
+Normal Rice 1kg,Rice,Fortune,83.86,91.35,97.06,8.93,2024-06-07,Chennai,6,4
+Dell Inspiron,Laptop,Asus,46607.81,54283.91,60542.13,16.47,2024-05-04,Pune,3,7
+Premium Rice 1kg,Rice,Fortune,76.28,88.56,98.54,16.1,2023-11-22,Kolkata,8,16
+Asus TUF,Laptop,HP,92191.69,102201.54,109969.22,10.86,2023-12-14,Hyderabad,6,3
+Petrol 1L,Fuel,IndianOil,81.97,80.12,78.85,-2.26,2025-02-10,Hyderabad,8,0
+OnePlus 12,Mobile,Apple,57878.91,70381.89,81024.6,21.6,2023-03-14,Kolkata,4,3
+Premium Rice 1kg,Rice,Local,65.99,81.96,95.84,24.2,2024-03-07,Delhi,4,1
+Bread,Grocery,Britannia,27.2,28.68,29.77,5.44,2025-04-29,Hyderabad,9,12
+Petrol 1L,Fuel,IndianOil,86.22,95.57,102.82,10.84,2025-01-02,Delhi,1,4
+Premium Rice 1kg,Rice,Fortune,56.59,65.4,72.53,15.57,2025-02-18,Pune,6,24
+Redmi Note 14,Mobile,Samsung,59932.07,74640.28,87462.75,24.54,2023-02-21,Delhi,5,13
+HP Victus,Laptop,Lenovo,94146.04,97178.67,99369.89,3.22,2024-01-06,Chennai,3,6
+Petrol 1L,Fuel,IndianOil,93.45,103.24,110.81,10.48,2023-03-04,Mumbai,7,18
+Asus TUF,Laptop,Dell,96494.21,108235.76,117454.95,12.17,2023-03-09,Hyderabad,9,21
+OnePlus 12,Mobile,Xiaomi,58383.33,72029.37,83814.26,23.37,2024-11-27,Kolkata,1,18
+Silver 1g,Silver,Market,67.49,75.61,81.98,12.03,2023-07-15,Delhi,3,17
+HP Victus,Laptop,HP,42906.14,49273.68,54392.45,14.84,2024-08-03,Hyderabad,5,4
+Silver 1g,Silver,Market,97.09,108.81,118.0,12.07,2024-03-06,Delhi,2,2
+Diesel 1L,Fuel,BPCL,81.7,105.96,127.98,29.69,2023-11-14,Hyderabad,2,17
+Milk 1L,Grocery,Madhur,50.14,55.08,58.88,9.85,2024-03-27,Kolkata,7,21
+Lenovo LOQ,Laptop,Dell,35502.21,41393.01,46200.78,16.59,2023-02-21,Mumbai,7,14
+Premium Rice 1kg,Rice,Local,50.73,52.78,54.27,4.04,2025-02-16,Hyderabad,2,4
+Gold 24K 1g,Gold,Market,5149.29,6316.49,7318.73,22.67,2024-09-24,Pune,8,3
+Premium Rice 1kg,Rice,Fortune,86.06,93.46,99.09,8.6,2024-10-21,Bangalore,2,9
+Onion 1kg,Vegetable,Local,33.26,32.89,32.63,-1.11,2024-11-24,Hyderabad,7,19
+Dell Inspiron,Laptop,Lenovo,47463.05,54282.4,59741.79,14.37,2023-06-10,Delhi,5,22
+Silver 1g,Silver,Market,74.35,86.03,95.49,15.71,2024-02-18,Bangalore,9,15
+Gold 22K 1g,Gold,Market,5627.45,6665.11,7525.41,18.44,2025-05-22,Delhi,3,20
+Redmi Note 14,Mobile,Realme,71626.8,82997.9,92221.32,15.88,2023-12-06,Delhi,5,14
+Petrol 1L,Fuel,IndianOil,77.82,95.47,110.63,22.68,2025-02-17,Kolkata,2,21
+HP Victus,Laptop,Asus,61046.06,65052.71,68041.44,6.56,2024-07-03,Delhi,6,18
+Galaxy S24,Mobile,Xiaomi,52666.13,58998.5,63964.12,12.02,2023-07-08,Delhi,6,9
+Gold 24K 1g,Gold,Market,5398.46,5939.67,6356.5,10.03,2025-01-30,Bangalore,2,13
+Gold 22K 1g,Gold,Market,5407.06,6293.03,7014.83,16.39,2023-05-29,Delhi,1,5
+Diesel 1L,Fuel,BPCL,108.58,109.95,110.92,1.26,2025-04-30,Delhi,7,6
+Silver 1g,Silver,Market,59.68,59.0,58.53,-1.14,2023-08-15,Bangalore,1,13
+HP Victus,Laptop,Lenovo,50684.1,59138.15,66043.07,16.68,2025-05-25,Delhi,2,24
+Lenovo LOQ,Laptop,Dell,73437.06,81198.06,87204.9,10.57,2024-11-23,Pune,8,20
+Milk 1L,Grocery,Madhur,23.48,28.32,32.41,20.61,2023-05-25,Pune,8,12
+Milk 1L,Grocery,Britannia,63.44,71.08,77.07,12.04,2023-06-08,Mumbai,8,19
+Potato 1kg,Vegetable,Local,21.22,25.29,28.69,19.18,2023-08-11,Mumbai,7,16
+Lenovo LOQ,Laptop,Asus,51966.53,55540.15,58213.71,6.88,2023-04-29,Kolkata,8,21
+Premium Rice 1kg,Rice,IndiaGate,41.71,52.25,61.49,25.27,2023-09-24,Bangalore,8,7
+Asus TUF,Laptop,Asus,63886.89,72112.34,78611.47,12.88,2024-09-11,Kolkata,3,9
+Galaxy S24,Mobile,Apple,71135.68,86978.49,100538.33,22.27,2024-02-13,Kolkata,1,1
+Petrol 1L,Fuel,HP,103.51,114.26,122.57,10.39,2023-07-11,Mumbai,2,6
+Gold 24K 1g,Gold,Market,5702.47,6417.79,6981.33,12.54,2024-04-16,Bangalore,5,0
+Silver 1g,Silver,Market,57.43,75.56,92.26,31.57,2024-08-11,Chennai,3,24
+Premium Rice 1kg,Rice,IndiaGate,50.6,67.72,83.76,33.83,2024-03-10,Kolkata,4,8
+Normal Rice 1kg,Rice,IndiaGate,76.0,87.32,96.42,14.89,2023-09-02,Delhi,10,23
+Lenovo LOQ,Laptop,Lenovo,44552.91,48583.3,51659.79,9.05,2023-02-07,Chennai,1,24
+Silver 1g,Silver,Market,59.96,65.02,68.86,8.44,2025-04-20,Mumbai,8,15
+Gold 22K 1g,Gold,Market,5378.07,5924.17,6345.26,10.15,2024-04-04,Pune,10,4
+Realme GT,Mobile,Samsung,72993.18,84292.99,93427.35,15.48,2023-02-02,Pune,3,6
+Dell Inspiron,Laptop,HP,60198.01,59944.85,59768.38,-0.42,2024-04-22,Chennai,3,7
+Onion 1kg,Vegetable,Local,62.64,69.18,74.24,10.44,2024-04-06,Bangalore,4,6
+Normal Rice 1kg,Rice,Local,64.26,76.65,87.0,19.28,2024-06-25,Hyderabad,1,0
+Sugar 1kg,Grocery,Madhur,97.7,103.75,108.25,6.19,2023-05-31,Mumbai,4,22
+Dell Inspiron,Laptop,Lenovo,79525.33,102415.78,123051.22,28.78,2023-01-08,Kolkata,6,0
+Potato 1kg,Vegetable,Local,25.28,32.53,39.06,28.68,2025-04-13,Bangalore,1,19
+Premium Rice 1kg,Rice,Local,38.51,45.54,51.36,18.25,2023-11-29,Delhi,4,25
+Tomato 1kg,Vegetable,Local,65.6,70.71,74.57,7.79,2023-12-24,Hyderabad,7,6
+Premium Rice 1kg,Rice,Local,53.33,66.93,78.88,25.5,2025-01-26,Pune,4,22
+Gold 22K 1g,Gold,Market,5927.9,5799.03,5710.78,-2.17,2023-12-05,Kolkata,5,1
+Silver 1g,Silver,Market,106.45,108.19,109.43,1.63,2023-01-11,Delhi,5,12
+Petrol 1L,Fuel,IndianOil,69.64,81.72,91.64,17.35,2023-04-26,Chennai,3,2
+Sugar 1kg,Grocery,Aashirvaad,66.2,75.65,83.21,14.27,2023-05-24,Mumbai,10,0
+OnePlus 12,Mobile,Apple,39131.45,43896.57,47638.34,12.18,2025-04-21,Delhi,8,12
+Tomato 1kg,Vegetable,Local,56.63,62.45,66.94,10.28,2023-08-17,Pune,4,0
+Gold 22K 1g,Gold,Market,5599.8,6428.08,7093.64,14.79,2024-03-09,Bangalore,8,13
+Gold 22K 1g,Gold,Market,5060.03,6239.32,7257.21,23.31,2024-07-02,Mumbai,7,2
+Onion 1kg,Vegetable,Local,70.73,72.95,74.55,3.14,2023-06-12,Mumbai,6,12
+Premium Rice 1kg,Rice,Local,46.25,52.03,56.58,12.5,2024-08-31,Chennai,6,7
+Potato 1kg,Vegetable,Local,66.93,85.5,102.11,27.75,2025-06-06,Delhi,10,24
+Tomato 1kg,Vegetable,Local,30.59,32.38,33.71,5.85,2024-09-21,Mumbai,5,17
+Tomato 1kg,Vegetable,Local,65.92,73.98,80.31,12.23,2025-01-27,Chennai,10,6
+Onion 1kg,Vegetable,Local,60.31,76.65,91.19,27.09,2024-03-15,Chennai,7,0
+Silver 1g,Silver,Market,61.55,73.27,83.04,19.04,2023-03-12,Delhi,5,25
+Petrol 1L,Fuel,HP,76.86,89.22,99.26,16.08,2025-04-18,Chennai,5,7
+Gold 22K 1g,Gold,Market,6340.24,7804.28,9065.75,23.09,2023-02-23,Chennai,5,20
+Petrol 1L,Fuel,IndianOil,102.64,121.29,136.72,18.17,2024-05-11,Pune,9,15
+Bread,Grocery,Aashirvaad,112.68,120.61,126.55,7.04,2023-08-29,Bangalore,4,0
+Silver 1g,Silver,Market,59.77,70.97,80.28,18.74,2025-04-15,Delhi,1,23
+Petrol 1L,Fuel,BPCL,81.03,97.93,112.23,20.86,2024-08-27,Hyderabad,9,11
+Bread,Grocery,Aashirvaad,65.18,72.92,78.98,11.87,2023-12-05,Mumbai,5,0
+Bread,Grocery,Madhur,94.42,109.31,121.38,15.77,2023-01-29,Kolkata,8,4
+Dell Inspiron,Laptop,Dell,40701.58,39401.78,38520.98,-3.19,2025-03-09,Chennai,6,6
+Asus TUF,Laptop,HP,36331.83,42805.75,48145.0,17.82,2025-03-30,Delhi,3,4
+Silver 1g,Silver,Market,111.12,122.91,132.04,10.61,2024-09-02,Kolkata,5,22
+Onion 1kg,Vegetable,Local,66.92,67.42,67.77,0.75,2023-09-19,Kolkata,3,2
+Petrol 1L,Fuel,HP,80.68,96.96,110.66,20.18,2024-03-04,Mumbai,9,1
+HP Victus,Laptop,HP,51589.15,57936.91,62927.08,12.3,2023-02-09,Delhi,8,23
+Onion 1kg,Vegetable,Local,38.74,50.37,60.95,30.02,2024-12-04,Hyderabad,6,11
+Premium Rice 1kg,Rice,IndiaGate,55.33,58.64,61.1,5.98,2024-06-09,Bangalore,7,19
+OnePlus 12,Mobile,OnePlus,62478.15,77621.58,90791.3,24.24,2023-10-30,Bangalore,10,0
+Onion 1kg,Vegetable,Local,76.66,76.8,76.9,0.18,2025-06-16,Kolkata,8,5
+Sugar 1kg,Grocery,Britannia,72.57,88.28,101.66,21.65,2024-10-31,Chennai,5,4
+Galaxy S24,Mobile,Realme,36630.24,38001.18,38996.75,3.74,2023-11-11,Chennai,6,8
+Gold 22K 1g,Gold,Market,5367.2,6743.23,7953.4,25.64,2024-02-21,Mumbai,9,23
+Silver 1g,Silver,Market,83.85,102.29,118.04,21.99,2023-02-24,Chennai,9,5
+Silver 1g,Silver,Market,85.38,110.57,133.41,29.5,2023-07-29,Kolkata,9,18
+Diesel 1L,Fuel,HP,89.61,106.7,120.94,19.07,2024-06-15,Hyderabad,1,9
+Sugar 1kg,Grocery,Amul,116.92,128.14,136.75,9.6,2024-08-16,Kolkata,2,18
+Diesel 1L,Fuel,BPCL,107.41,119.87,129.6,11.6,2023-04-23,Mumbai,4,1
+Silver 1g,Silver,Market,107.33,117.71,125.68,9.67,2023-07-19,Bangalore,4,21
+Silver 1g,Silver,Market,84.92,99.26,110.99,16.89,2023-08-12,Kolkata,10,24
+Gold 22K 1g,Gold,Market,6855.04,7300.45,7632.5,6.5,2024-03-30,Pune,7,4
+Gold 24K 1g,Gold,Market,5885.18,6548.08,7064.38,11.26,2025-02-05,Delhi,3,18
+Diesel 1L,Fuel,IndianOil,97.82,118.82,136.68,21.47,2024-02-25,Mumbai,4,9
+Dell Inspiron,Laptop,Lenovo,103078.97,126160.19,145934.85,22.39,2025-04-21,Chennai,2,10
+Silver 1g,Silver,Market,75.18,76.71,77.8,2.04,2023-03-27,Chennai,10,15
+Onion 1kg,Vegetable,Local,39.39,44.44,48.43,12.82,2023-09-06,Hyderabad,3,17
+Dell Inspiron,Laptop,Asus,56372.22,64718.6,71426.09,14.81,2023-08-12,Hyderabad,4,13
+Silver 1g,Silver,Market,87.31,95.64,102.03,9.54,2024-03-25,Chennai,4,14
+Petrol 1L,Fuel,IndianOil,76.59,86.26,93.88,12.63,2023-05-10,Bangalore,1,21
+Lenovo LOQ,Laptop,HP,109294.44,115156.33,119479.73,5.36,2023-11-14,Chennai,2,11
+Wheat Flour,Grocery,Britannia,27.63,29.07,30.13,5.21,2025-01-02,Kolkata,8,15
+Diesel 1L,Fuel,BPCL,98.93,111.03,120.54,12.23,2025-05-05,Bangalore,3,18
+HP Victus,Laptop,HP,54339.85,62966.32,69963.47,15.88,2024-03-03,Bangalore,7,18
+Milk 1L,Grocery,Aashirvaad,89.9,102.69,112.92,14.23,2024-02-13,Hyderabad,2,14
+Premium Rice 1kg,Rice,Fortune,58.92,61.0,62.51,3.53,2025-06-14,Bangalore,8,5
+Gold 22K 1g,Gold,Market,6953.65,7339.92,7625.33,5.55,2023-06-22,Delhi,5,11
+Onion 1kg,Vegetable,Local,33.47,38.06,41.71,13.71,2024-10-04,Mumbai,2,16
+Diesel 1L,Fuel,BPCL,75.4,86.02,94.5,14.08,2025-01-14,Kolkata,1,19
+Potato 1kg,Vegetable,Local,45.06,50.59,54.94,12.27,2023-10-14,Kolkata,5,11
+Diesel 1L,Fuel,IndianOil,94.51,111.61,125.75,18.09,2024-09-04,Kolkata,6,23
+Gold 24K 1g,Gold,Market,6992.11,7535.88,7946.12,7.78,2023-10-18,Bangalore,9,8
+Onion 1kg,Vegetable,Local,36.17,37.85,39.08,4.64,2023-02-23,Chennai,8,5
+Diesel 1L,Fuel,HP,113.33,125.97,135.8,11.15,2024-01-18,Hyderabad,10,21
+Lenovo LOQ,Laptop,Lenovo,66551.16,71471.05,75169.57,7.39,2023-01-03,Kolkata,8,6
+Normal Rice 1kg,Rice,Local,62.14,65.91,68.71,6.07,2024-07-27,Kolkata,3,3
+Gold 22K 1g,Gold,Market,4897.55,5373.03,5738.18,9.71,2023-07-12,Hyderabad,8,13
+Realme GT,Mobile,Xiaomi,41517.43,48027.81,53299.7,15.68,2023-04-18,Mumbai,5,13
+Silver 1g,Silver,Market,102.16,135.45,166.35,32.59,2023-03-25,Hyderabad,6,6
+Tomato 1kg,Vegetable,Local,25.79,27.63,29.01,7.13,2024-03-24,Bangalore,7,1
+Lenovo LOQ,Laptop,Dell,38104.41,41973.79,44957.4,10.15,2024-07-18,Hyderabad,1,12
+Silver 1g,Silver,Market,99.1,101.73,103.62,2.65,2023-03-26,Kolkata,2,17
+Onion 1kg,Vegetable,Local,49.68,55.8,60.61,12.32,2024-06-08,Hyderabad,1,2
+Gold 24K 1g,Gold,Market,5167.86,6065.49,6802.97,17.37,2023-01-24,Hyderabad,2,10
+Diesel 1L,Fuel,HP,71.1,82.08,90.95,15.44,2024-09-26,Kolkata,3,20
+Milk 1L,Grocery,Britannia,56.1,72.89,88.16,29.93,2025-01-19,Delhi,7,14
+HP Victus,Laptop,Dell,87461.04,105148.5,120033.61,20.22,2025-06-11,Kolkata,2,25
+Gold 22K 1g,Gold,Market,6275.44,6622.6,6879.06,5.53,2024-09-22,Bangalore,4,18
+Lenovo LOQ,Laptop,Asus,65322.96,67652.58,69341.47,3.57,2023-06-18,Bangalore,8,11
+Gold 24K 1g,Gold,Market,6637.42,8044.4,9238.06,21.2,2023-05-25,Kolkata,7,2
+Dell Inspiron,Laptop,Dell,67079.82,75397.11,81941.1,12.4,2023-10-20,Kolkata,3,9
+Premium Rice 1kg,Rice,Fortune,69.49,80.42,89.27,15.73,2024-01-25,Kolkata,9,20
+Potato 1kg,Vegetable,Local,38.33,44.31,49.15,15.6,2023-03-18,Chennai,8,9
+Gold 22K 1g,Gold,Market,5993.97,7264.86,8343.11,21.2,2023-11-12,Delhi,10,11
+Silver 1g,Silver,Market,106.72,123.62,137.32,15.84,2024-10-04,Bangalore,4,24
+HP Victus,Laptop,Lenovo,49945.55,58196.22,64925.76,16.52,2023-04-06,Chennai,1,9
+Silver 1g,Silver,Market,105.59,107.9,109.55,2.19,2024-12-25,Mumbai,1,4
+iPhone 15,Mobile,Apple,26209.32,30311.2,33631.89,15.65,2023-12-05,Mumbai,3,4
+Petrol 1L,Fuel,BPCL,95.51,118.72,138.92,24.3,2024-06-15,Delhi,7,5
+Realme GT,Mobile,OnePlus,58226.9,64097.82,68621.83,10.08,2023-06-17,Pune,9,9
+Gold 22K 1g,Gold,Market,5495.94,6039.85,6458.27,9.9,2024-03-22,Bangalore,10,23
+HP Victus,Laptop,Dell,58177.57,65257.29,70816.17,12.17,2024-06-06,Mumbai,4,7
+Gold 22K 1g,Gold,Market,6224.23,6836.03,7306.39,9.83,2025-03-22,Kolkata,6,21
+Petrol 1L,Fuel,BPCL,79.39,97.8,113.68,23.19,2024-12-12,Bangalore,4,5
+Gold 24K 1g,Gold,Market,5109.26,6402.22,7536.33,25.31,2023-11-21,Hyderabad,9,21
+Redmi Note 14,Mobile,Xiaomi,62865.98,81556.22,98529.05,29.73,2023-12-07,Mumbai,5,21
+Bread,Grocery,Amul,27.71,29.57,30.96,6.71,2025-01-17,Hyderabad,1,12
+Redmi Note 14,Mobile,Realme,13104.55,16409.4,19306.21,25.22,2023-05-14,Pune,2,20
+Normal Rice 1kg,Rice,Fortune,50.84,61.37,70.27,20.71,2024-12-05,Kolkata,7,23
+Lenovo LOQ,Laptop,HP,86759.37,92922.85,97543.79,7.1,2024-12-02,Mumbai,9,8
+Gold 24K 1g,Gold,Market,5422.18,5829.56,6136.15,7.51,2024-05-07,Delhi,3,15
+Normal Rice 1kg,Rice,IndiaGate,76.57,85.25,92.01,11.34,2023-06-03,Pune,6,20
+Gold 22K 1g,Gold,Market,6281.7,7346.25,8217.72,16.95,2025-05-18,Mumbai,9,1
+Petrol 1L,Fuel,IndianOil,90.65,94.25,96.87,3.97,2024-01-20,Hyderabad,1,13
+Onion 1kg,Vegetable,Local,36.3,38.23,39.65,5.32,2024-02-04,Bangalore,4,23
+Gold 22K 1g,Gold,Market,6340.12,7119.84,7732.77,12.3,2023-10-07,Chennai,5,19
+Milk 1L,Grocery,Aashirvaad,51.88,58.95,64.57,13.63,2024-03-12,Chennai,9,22
+Wheat Flour,Grocery,Britannia,61.18,67.77,72.88,10.77,2025-01-10,Delhi,1,4
+Gold 24K 1g,Gold,Market,6795.8,8473.25,9937.3,24.68,2024-09-03,Mumbai,7,8
+Onion 1kg,Vegetable,Local,30.84,39.99,48.3,29.67,2024-06-10,Chennai,2,0
+Diesel 1L,Fuel,IndianOil,78.1,87.84,95.51,12.47,2023-11-19,Chennai,3,21
+Gold 22K 1g,Gold,Market,5890.39,7267.26,8456.36,23.37,2023-06-04,Pune,6,1
+iPhone 15,Mobile,Samsung,69038.47,82134.95,93041.55,18.97,2024-08-11,Delhi,3,7
+Potato 1kg,Vegetable,Local,53.07,61.09,67.55,15.11,2023-10-08,Delhi,3,18
+Galaxy S24,Mobile,Xiaomi,67878.34,67784.83,67719.46,-0.14,2025-01-01,Hyderabad,5,15
+Milk 1L,Grocery,Britannia,45.08,48.28,50.68,7.1,2024-12-24,Kolkata,10,18
+Premium Rice 1kg,Rice,IndiaGate,73.95,70.83,68.74,-4.22,2023-02-20,Bangalore,1,23
+Silver 1g,Silver,Market,81.42,103.42,122.98,27.02,2023-01-09,Bangalore,6,21
+Gold 24K 1g,Gold,Market,5285.74,5589.45,5814.26,5.75,2023-07-15,Chennai,4,5
+Realme GT,Mobile,Xiaomi,68348.59,81809.04,93086.97,19.69,2023-08-24,Chennai,4,15
+Silver 1g,Silver,Market,73.24,83.88,92.41,14.53,2025-05-04,Bangalore,9,0
+Normal Rice 1kg,Rice,IndiaGate,76.67,93.95,108.77,22.54,2024-06-15,Pune,8,18
+HP Victus,Laptop,Asus,97377.49,114680.57,128944.94,17.77,2024-06-30,Kolkata,7,14
+Bread,Grocery,Britannia,59.43,68.71,76.22,15.62,2024-04-12,Kolkata,2,23
+Normal Rice 1kg,Rice,IndiaGate,51.8,60.45,67.52,16.7,2024-06-18,Delhi,6,23
+Diesel 1L,Fuel,BPCL,96.19,104.15,110.18,8.28,2023-06-18,Pune,10,9
+Tomato 1kg,Vegetable,Local,67.18,78.02,86.83,16.14,2024-07-31,Pune,6,14
+iPhone 15,Mobile,Apple,34841.53,42215.58,48469.89,21.16,2023-04-12,Chennai,8,3
+Gold 22K 1g,Gold,Market,5184.57,5528.41,5785.06,6.63,2023-05-24,Mumbai,4,3
+iPhone 15,Mobile,Realme,19753.78,21790.28,23362.8,10.31,2024-05-03,Delhi,5,4
+Normal Rice 1kg,Rice,IndiaGate,46.74,48.66,50.06,4.11,2023-11-10,Bangalore,8,17
+Normal Rice 1kg,Rice,Local,76.52,95.59,112.27,24.92,2023-09-09,Chennai,7,23
+OnePlus 12,Mobile,Xiaomi,28269.41,32976.01,36819.15,16.65,2023-12-14,Kolkata,1,0
+Silver 1g,Silver,Market,74.96,87.37,97.5,16.56,2023-12-15,Delhi,8,5
+Normal Rice 1kg,Rice,Local,65.91,64.84,64.1,-1.62,2025-03-20,Mumbai,2,1
+Normal Rice 1kg,Rice,Local,59.23,74.95,88.87,26.54,2023-03-29,Chennai,7,12
+Onion 1kg,Vegetable,Local,66.22,77.85,87.42,17.56,2023-07-09,Bangalore,6,16
+Dell Inspiron,Laptop,HP,75816.03,91824.31,105396.17,21.11,2023-03-01,Kolkata,10,25
+Asus TUF,Laptop,Lenovo,82626.35,92824.31,100843.94,12.34,2024-03-08,Chennai,4,13
+Silver 1g,Silver,Market,80.71,84.35,87.01,4.51,2024-08-18,Delhi,2,3
+Gold 24K 1g,Gold,Market,5717.15,6543.27,7205.12,14.45,2024-05-13,Kolkata,1,6
+Lenovo LOQ,Laptop,Dell,79296.86,92015.0,102345.57,16.04,2024-01-29,Pune,2,11
+iPhone 15,Mobile,Xiaomi,23293.07,26766.82,29561.08,14.91,2024-12-11,Pune,5,21
+Onion 1kg,Vegetable,Local,27.23,34.76,41.49,27.65,2023-01-17,Pune,8,2
+Dell Inspiron,Laptop,HP,55244.8,60185.62,63953.51,8.94,2023-04-22,Bangalore,7,25
+Redmi Note 14,Mobile,Apple,35218.02,35718.74,36074.23,1.42,2023-05-17,Chennai,3,12
+OnePlus 12,Mobile,Apple,41847.77,52864.56,62606.5,26.33,2024-12-11,Bangalore,9,18
+Sugar 1kg,Grocery,Amul,34.14,36.11,37.57,5.77,2024-03-21,Kolkata,4,3
+Silver 1g,Silver,Market,89.49,101.39,110.83,13.3,2024-06-30,Bangalore,7,23
+Diesel 1L,Fuel,BPCL,104.02,118.16,129.4,13.59,2024-03-30,Kolkata,1,24
+Normal Rice 1kg,Rice,Local,52.07,52.96,53.59,1.71,2023-05-03,Mumbai,9,14
+Silver 1g,Silver,Market,96.4,102.41,106.88,6.23,2024-12-02,Bangalore,1,6
+Normal Rice 1kg,Rice,IndiaGate,45.96,44.32,43.21,-3.57,2024-04-07,Chennai,10,2
+Gold 22K 1g,Gold,Market,6168.6,7574.4,8782.72,22.79,2024-04-27,Kolkata,7,4
+Onion 1kg,Vegetable,Local,37.98,47.43,55.69,24.88,2023-04-04,Chennai,9,2
+Bread,Grocery,Madhur,38.43,42.41,45.48,10.36,2023-09-28,Kolkata,6,4
+Petrol 1L,Fuel,IndianOil,79.72,104.45,127.13,31.02,2024-05-31,Bangalore,6,8
+Gold 24K 1g,Gold,Market,6674.14,6915.56,7090.67,3.62,2023-04-10,Mumbai,4,11
+iPhone 15,Mobile,OnePlus,38699.97,45723.35,51531.95,18.15,2024-11-12,Bangalore,10,2
+Milk 1L,Grocery,Madhur,79.42,83.7,86.86,5.39,2023-01-26,Chennai,2,18
+Silver 1g,Silver,Market,100.93,132.11,160.68,30.89,2024-01-31,Hyderabad,7,7
+Premium Rice 1kg,Rice,Local,74.91,80.49,84.69,7.45,2025-05-22,Mumbai,2,19
+Diesel 1L,Fuel,HP,73.04,86.3,97.27,18.15,2024-11-05,Kolkata,1,13
+Onion 1kg,Vegetable,Local,46.82,57.33,66.34,22.45,2024-06-25,Kolkata,8,9
+Petrol 1L,Fuel,IndianOil,78.14,81.74,84.38,4.61,2023-12-25,Bangalore,9,18
+Realme GT,Mobile,Realme,71863.99,90431.38,106786.61,25.84,2023-05-19,Bangalore,5,25
+Gold 22K 1g,Gold,Market,4701.65,5019.4,5256.86,6.76,2023-05-23,Pune,2,21
+Gold 22K 1g,Gold,Market,6283.1,7850.88,9222.16,24.95,2023-12-14,Mumbai,10,22
+HP Victus,Laptop,Dell,62251.54,80477.05,96970.05,29.28,2023-09-01,Pune,3,25
+Gold 22K 1g,Gold,Market,6024.96,6477.66,6818.36,7.51,2023-09-29,Delhi,10,14
+Tomato 1kg,Vegetable,Local,58.39,66.52,73.0,13.92,2024-05-16,Bangalore,4,5
+Sugar 1kg,Grocery,Aashirvaad,79.42,95.34,108.72,20.05,2023-01-21,Bangalore,6,9
+Sugar 1kg,Grocery,Britannia,82.25,92.88,101.28,12.92,2025-06-16,Pune,8,6
+Gold 22K 1g,Gold,Market,6385.77,7567.96,8548.69,18.51,2023-10-02,Bangalore,9,22
+Bread,Grocery,Britannia,82.45,106.84,128.96,29.58,2024-10-09,Mumbai,9,4
+Silver 1g,Silver,Market,112.47,117.14,120.54,4.15,2023-02-16,Chennai,4,15
+Potato 1kg,Vegetable,Local,45.5,46.77,47.68,2.79,2023-11-19,Kolkata,8,4
+Galaxy S24,Mobile,Xiaomi,41482.1,50174.09,57533.38,20.95,2023-04-18,Bangalore,2,1
+Potato 1kg,Vegetable,Local,23.93,28.31,31.94,18.3,2024-11-20,Chennai,7,24
+Gold 24K 1g,Gold,Market,7319.83,8104.52,8712.69,10.72,2024-10-15,Kolkata,9,15
+Asus TUF,Laptop,HP,91261.19,112337.5,130498.14,23.09,2023-05-11,Mumbai,5,21
+Tomato 1kg,Vegetable,Local,23.14,25.23,26.83,9.03,2023-11-22,Hyderabad,4,5
+Onion 1kg,Vegetable,Local,35.61,36.16,36.55,1.54,2023-11-01,Kolkata,3,2
+Premium Rice 1kg,Rice,Fortune,40.83,53.49,65.1,31.01,2024-01-20,Pune,6,12
+Premium Rice 1kg,Rice,Local,74.58,84.76,92.86,13.65,2024-04-02,Kolkata,1,23
+Premium Rice 1kg,Rice,Fortune,70.38,76.66,81.45,8.92,2024-03-22,Pune,7,13
+Normal Rice 1kg,Rice,Local,88.75,91.69,93.82,3.31,2024-02-16,Mumbai,10,19
+Gold 22K 1g,Gold,Market,6530.9,7606.31,8483.05,16.47,2024-11-15,Delhi,5,9
+iPhone 15,Mobile,OnePlus,60271.46,71241.99,80319.15,18.2,2023-09-03,Pune,6,21
+Premium Rice 1kg,Rice,Local,54.32,63.16,70.36,16.27,2025-02-14,Pune,7,11
+Gold 24K 1g,Gold,Market,5712.57,6609.46,7335.85,15.7,2023-01-12,Kolkata,2,15
+Normal Rice 1kg,Rice,Fortune,41.54,50.2,57.53,20.85,2023-01-06,Kolkata,9,8
+Lenovo LOQ,Laptop,HP,76678.68,85446.61,92285.97,11.43,2025-05-16,Pune,10,9
+Petrol 1L,Fuel,BPCL,98.91,115.15,128.38,16.42,2024-07-15,Mumbai,10,15
+Milk 1L,Grocery,Britannia,58.34,62.99,66.5,7.97,2024-04-19,Hyderabad,6,19
+Potato 1kg,Vegetable,Local,53.68,62.94,70.54,17.25,2023-03-24,Delhi,7,13
+Sugar 1kg,Grocery,Amul,89.79,111.99,131.37,24.72,2025-06-15,Chennai,6,9
+Dell Inspiron,Laptop,Asus,95673.53,106838.66,115566.33,11.67,2025-05-02,Mumbai,2,0
+OnePlus 12,Mobile,Xiaomi,31768.46,37734.8,42695.6,18.78,2023-01-25,Bangalore,2,3
+Gold 24K 1g,Gold,Market,7072.22,8487.23,9675.92,20.01,2024-09-12,Pune,1,3
+Wheat Flour,Grocery,Amul,89.26,107.09,122.06,19.98,2024-11-24,Mumbai,9,5
+Onion 1kg,Vegetable,Local,23.89,25.86,27.35,8.25,2023-11-23,Mumbai,10,18
+Sugar 1kg,Grocery,Britannia,30.35,38.43,45.59,26.62,2024-05-03,Mumbai,5,15
+Potato 1kg,Vegetable,Local,64.36,73.41,80.64,14.06,2024-04-04,Chennai,9,22
+Gold 22K 1g,Gold,Market,6815.51,7927.03,8831.99,16.31,2023-03-09,Hyderabad,9,10
+Silver 1g,Silver,Market,100.31,119.25,135.01,18.88,2025-02-15,Pune,5,11
+Onion 1kg,Vegetable,Local,35.14,41.28,46.33,17.47,2023-07-17,Delhi,5,20
+Gold 24K 1g,Gold,Market,4934.02,5994.59,6896.57,21.5,2023-09-26,Bangalore,1,21
+Milk 1L,Grocery,Britannia,32.96,40.44,46.86,22.69,2025-05-08,Pune,4,2
+HP Victus,Laptop,HP,111800.22,121996.48,129784.8,9.12,2023-06-09,Kolkata,1,4
+Silver 1g,Silver,Market,91.47,114.66,135.01,25.35,2023-04-13,Hyderabad,1,24
+Tomato 1kg,Vegetable,Local,32.39,39.08,44.73,20.65,2025-02-26,Hyderabad,10,12
+Onion 1kg,Vegetable,Local,30.24,33.64,36.29,11.24,2024-03-25,Delhi,9,5
+Tomato 1kg,Vegetable,Local,79.65,89.79,97.79,12.73,2023-12-15,Mumbai,2,11
+Silver 1g,Silver,Market,93.35,106.53,117.06,14.12,2023-03-24,Delhi,3,2
+Tomato 1kg,Vegetable,Local,55.66,61.15,65.37,9.86,2023-08-22,Hyderabad,7,1
+Petrol 1L,Fuel,BPCL,95.54,121.43,144.46,27.1,2024-09-14,Kolkata,5,11
+Dell Inspiron,Laptop,Dell,72181.51,83785.44,93214.01,16.08,2024-02-12,Chennai,9,7
+Gold 22K 1g,Gold,Market,6009.14,6787.64,7403.19,12.96,2023-05-12,Kolkata,1,17
+Petrol 1L,Fuel,HP,81.04,109.06,135.46,34.58,2023-08-24,Delhi,1,21
+Premium Rice 1kg,Rice,Fortune,40.62,50.9,59.92,25.31,2023-06-12,Mumbai,1,8
+Galaxy S24,Mobile,Realme,44754.42,58491.97,71060.01,30.7,2024-07-20,Pune,3,13
+Normal Rice 1kg,Rice,IndiaGate,72.16,89.45,104.45,23.96,2025-02-07,Pune,2,7
+Diesel 1L,Fuel,BPCL,96.26,119.46,139.61,24.1,2023-10-20,Hyderabad,1,3
+Diesel 1L,Fuel,IndianOil,83.31,87.52,90.62,5.05,2023-10-11,Chennai,9,24
+Galaxy S24,Mobile,Apple,49429.77,61388.91,71785.7,24.19,2023-09-09,Kolkata,2,18
+Silver 1g,Silver,Market,60.03,63.46,66.0,5.71,2025-04-30,Hyderabad,7,6
+Potato 1kg,Vegetable,Local,52.15,59.79,65.92,14.65,2024-09-15,Bangalore,1,25
+Silver 1g,Silver,Market,90.71,113.3,133.05,24.9,2024-06-18,Mumbai,3,20
+Galaxy S24,Mobile,Apple,76633.7,74331.87,72768.99,-3.0,2023-04-12,Hyderabad,4,3
+Diesel 1L,Fuel,BPCL,80.7,97.09,110.89,20.31,2024-01-09,Pune,2,19
+Milk 1L,Grocery,Amul,50.75,55.53,59.19,9.42,2024-06-17,Chennai,6,4
+Tomato 1kg,Vegetable,Local,29.96,31.58,32.78,5.41,2024-09-20,Kolkata,5,8
+Redmi Note 14,Mobile,Realme,64577.75,65311.89,65831.63,1.14,2023-09-16,Delhi,7,23
+Normal Rice 1kg,Rice,IndiaGate,77.06,86.14,93.24,11.78,2023-03-29,Chennai,10,22
+Realme GT,Mobile,Xiaomi,18809.9,19375.37,19783.1,3.01,2025-05-04,Delhi,7,0
+Gold 24K 1g,Gold,Market,7364.19,7353.36,7345.79,-0.15,2023-03-11,Mumbai,8,7
+Gold 22K 1g,Gold,Market,5709.13,6098.8,6390.19,6.83,2024-05-24,Kolkata,6,25
+Gold 24K 1g,Gold,Market,6433.13,6635.44,6781.51,3.14,2024-03-17,Kolkata,8,7
+Silver 1g,Silver,Market,70.58,82.11,91.5,16.34,2023-04-08,Delhi,6,5
+Gold 22K 1g,Gold,Market,5923.6,6194.16,6392.2,4.57,2023-09-13,Kolkata,5,4
+Sugar 1kg,Grocery,Madhur,43.86,46.02,47.61,4.92,2024-07-23,Bangalore,3,13
+Silver 1g,Silver,Market,79.71,87.39,93.28,9.63,2024-05-18,Kolkata,1,3
+Petrol 1L,Fuel,HP,74.42,83.53,90.69,12.24,2023-10-27,Delhi,3,25
+Diesel 1L,Fuel,BPCL,102.83,129.33,152.66,25.77,2024-08-29,Bangalore,2,2
+Premium Rice 1kg,Rice,IndiaGate,43.31,48.12,51.86,11.11,2024-01-18,Bangalore,9,14
+Galaxy S24,Mobile,Realme,46728.99,59697.2,71294.2,27.75,2023-09-30,Hyderabad,2,8
+Premium Rice 1kg,Rice,IndiaGate,68.59,74.28,78.59,8.3,2025-05-02,Pune,1,13
+Lenovo LOQ,Laptop,Lenovo,81284.16,99084.7,114273.79,21.9,2023-04-29,Pune,8,25
+Gold 24K 1g,Gold,Market,6640.3,7906.9,8962.64,19.07,2023-04-11,Mumbai,2,16
+Petrol 1L,Fuel,BPCL,101.93,105.31,107.75,3.32,2023-10-02,Hyderabad,4,22
+Potato 1kg,Vegetable,Local,49.77,53.61,56.51,7.72,2024-12-10,Kolkata,5,2
+Premium Rice 1kg,Rice,Local,57.45,61.66,64.82,7.33,2024-07-12,Chennai,4,25
+Dell Inspiron,Laptop,Lenovo,82445.72,104004.29,123041.4,26.15,2023-05-21,Hyderabad,8,0
+Galaxy S24,Mobile,Xiaomi,40657.06,40807.01,40912.36,0.37,2023-01-13,Hyderabad,1,9
+Gold 24K 1g,Gold,Market,5592.97,6131.23,6544.27,9.62,2025-04-17,Kolkata,3,22
+Wheat Flour,Grocery,Madhur,88.14,92.82,96.27,5.31,2025-05-03,Mumbai,2,11
+Redmi Note 14,Mobile,Xiaomi,44117.3,52381.8,59250.68,18.73,2025-05-31,Delhi,2,16
+Silver 1g,Silver,Market,89.72,98.72,105.65,10.03,2024-12-18,Hyderabad,7,3
+Lenovo LOQ,Laptop,HP,95146.33,121990.73,146083.49,28.21,2024-04-03,Hyderabad,6,9
+Dell Inspiron,Laptop,Asus,51292.24,61192.66,69460.64,19.3,2023-11-18,Bangalore,10,10
+Dell Inspiron,Laptop,Dell,67469.24,80742.12,91860.91,19.67,2024-01-18,Pune,10,5
+Petrol 1L,Fuel,BPCL,93.71,112.54,128.37,20.09,2024-03-03,Hyderabad,2,21
+Silver 1g,Silver,Market,77.12,76.26,75.66,-1.12,2023-08-29,Kolkata,7,21
+Diesel 1L,Fuel,IndianOil,102.63,123.99,142.05,20.81,2025-06-15,Mumbai,3,4
+Petrol 1L,Fuel,HP,72.25,78.9,83.98,9.2,2023-11-13,Hyderabad,10,19
+Potato 1kg,Vegetable,Local,52.98,54.54,55.66,2.94,2025-01-19,Pune,7,6
+Sugar 1kg,Grocery,Madhur,41.22,43.57,45.31,5.7,2024-11-25,Pune,6,22
+Milk 1L,Grocery,Madhur,25.79,31.75,36.89,23.11,2024-11-11,Chennai,8,18
+Lenovo LOQ,Laptop,Lenovo,101139.65,127619.02,151007.37,26.18,2024-12-14,Hyderabad,2,15
+Potato 1kg,Vegetable,Local,65.29,67.84,69.69,3.91,2023-11-17,Delhi,6,15
+Diesel 1L,Fuel,IndianOil,76.28,94.87,111.05,24.37,2025-01-11,Pune,4,14
